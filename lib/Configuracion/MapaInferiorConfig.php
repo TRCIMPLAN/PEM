@@ -27,27 +27,10 @@ namespace Configuracion;
  */
 class MapaInferiorConfig {
 
-    public $sitio_titulo = 'IMPLAN Torreón';
+    public $sitio_titulo = 'IMPLAN Torreón Plan Estratégico Metropolitano';
     public $logotipo     = 'imagenes/implan-transparente-gris.png';
-    protected $opciones  = array(
-        'Análisis Publicados' => 'blog/index.html',
-        'SMI'                 => 'smi/introduccion.html',
-        'SIG'                 => 'sig/introduccion.html',
-        'BMPI'                => 'proyectos/introduccion.html',
-        'Institucional'       => 'institucional/index.html',
-        'Consejo Directivo'   => 'consejo-directivo/consejo-directivo.html',
-        'Eventos'             => 'eventos/index.html',
-        'Sala de Prensa'      => 'sala-prensa/index.html',
-        'Contacto'            => 'contacto/contacto.html');
-    protected $iconos = array(
-        'Análisis Publicados' => 'fa fa-lightbulb-o',
-        'SMI'                 => 'fa fa-bar-chart',
-        'SIG'                 => 'fa fa-map-marker',
-        'BMPI'                => 'fa fa-paper-plane-o',
-        'Institucional'       => 'fa fa-university',
-        'Consejo Directivo'   => 'fa fa-users',
-        'Comunicados'         => 'fa fa-volume-up',
-        'Contacto'            => 'fa fa-phone');
+    protected $opciones  = array();
+    protected $iconos    = array();
 
 } // Clase MapaInferiorConfig
 
