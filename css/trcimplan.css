@@ -1,0 +1,335 @@
+/*
+ * trcimplan.css
+ *
+ * Copyright (C) 2014 IMPLAN Torreón
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
+/*
+ * Global
+ */
+body {
+    /* font-family:'Droid Serif', sans-serif; */
+    font-family:'Questrial', sans-serif;
+    font-weight:400;
+    font-size:16px;
+    line-height:1.4;
+    padding-bottom:24px;
+    background-color:#F0F0F0;
+}
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+    /* font-family:'Oswald', sans-serif; */
+    font-family:'Teko', sans-serif;
+    font-weight:400;
+    line-height:1.2;
+}
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+    margin-top:10px;
+}
+h1, .h1 { font-size:32px; }
+h2, .h2 { font-size:30px; }
+h3, .h3 { font-size:26px; }
+a         { text-decoration:none; color:#FF3300; }
+a:active,
+a:visited { text-decoration:none; color:#FF3300; }
+a:hover,
+a:focus   { text-decoration:none; color:#FF3300; }
+
+/*
+ * Menús
+ */
+.navbar-default {
+    background-color:#F0F0F0;
+    color:#FFF;
+}
+.navbar-static-top {
+    border-bottom:1px solid #FF3300;
+}
+/* Menú principal/izquierdo opción */
+#side-menu           { font-size:14px; }
+#side-menu a         { color:#646464; background-color:#F0F0F0; }
+#side-menu a:hover,
+#side-menu a:focus   { color:#646464; background-color:#E3E3E3; }
+#side-menu a:active,
+#side-menu a:visited { color:#646464; background-color:#F0F0F0; }
+
+/*
+ * Page Wrapper
+ */
+#page-wrapper {
+    background-color:#ECECEC;
+}
+
+/*
+ * Contenido
+ */
+.cuerpo {
+    background-color:#FFF;
+    padding:8px;
+}
+.contenido {
+    padding-bottom:12px;
+    color:#222;
+}
+.encabezado-imagen {
+    padding-bottom:8px;
+    margin-bottom:12px;
+    border-bottom:2px solid #CCC;
+    width:100%;
+}
+.contenido-imagen {
+    padding:24px;
+}
+.contenido-imagen-previa {
+    padding:0 24px 12px 0;
+    float:left;
+}
+.breve-heading {
+    font-size:24px;
+}
+.descripcion {
+    font-size:13px;
+}
+.autor {
+    color:#888;
+    font-size:11px;
+}
+.centrado {
+    text-align:center;
+}
+.derecha {
+    text-align:right;
+    white-space:nowrap;
+}
+.vinculo {
+    display:block;
+    width:100%;
+}
+.nd {
+    background-color:#EEE;
+    color:#888;
+    text-align:center;
+}
+.color1 { background-color:#FFF2E3; }
+.color2 { background-color:#EDF0FF; }
+.color3 { background-color:#FFFCC3; }
+.color4 { background-color:#FFE7FF; }
+.color5 { background-color:#EAF0CC; }
+.color6 { background-color:#E8FCE6; }
+.color7 { background-color:#FFF1CF; }
+.color8 { background-color:#EFE5F9; }
+.mapa {
+    height:500px;
+    margin-top:8px;
+    margin-bottom:8px;
+    border:1px solid #CCC;
+    -webkit-border-radius:4px;
+       -moz-border-radius:4px;
+    border-radius:4px;
+}
+.mapa-inferior {
+    background-color:#F0F0F0;
+    padding:8px;
+}
+.mapa-inferior-inferior-logo {
+    padding:2px;
+}
+.mapa-inferior-redes-sociales           { color:#646464; font-size:4em; }
+.mapa-inferior-redes-sociales a         { color:#646464; text-decoration:none; padding:2px; }
+.mapa-inferior-redes-sociales a:active,
+.mapa-inferior-redes-sociales a:visited { color:#646464; }
+.mapa-inferior-redes-sociales a:hover,
+.mapa-inferior-redes-sociales a:focus   { color:#FF3300; }
+.indice-icono {
+    font-size:6em;
+}
+a.indice-icono         { color:#646464; text-decoration:none; }
+a.indice-icono:active,
+a.indice-icono:visited { color:#646464; }
+a.indice-icono:hover,
+a.indice-icono:focus   { color:#FF3300; }
+.galeria-thumbnail {
+    background-color:transparent;
+    border:none;
+    text-align:center;
+}
+.galeria-icono {
+    font-size:5em;
+}
+.galeria-nombre {
+    font-size:1em;
+}
+a.galeria-icono         { color:#646464; text-decoration:none; }
+a.galeria-icono:active,
+a.galeria-icono:visited { color:#646464; }
+a.galeria-icono:hover,
+a.galeria-icono:focus   { color:#FF3300; }
+
+/*
+ * Página Inicial
+ */
+#encabezado .banner {
+    width:100%;
+}
+#destacado {
+    background-color:#D1D7DC;
+    padding:8px;
+}
+#destacado .thumbnail {
+    background-color:transparent;
+    border:none;
+}
+#novedades {
+    background-color:#FFF;
+}
+#novedades .analisis-publicados {
+    background-color:#FFF;
+    padding:8px;
+}
+#novedades .red-social-twitter {
+    background-color:#494043;
+    padding:8px;
+}
+#mapa {
+    background-color:#D1D7DC;
+    padding:8px;
+    font-size:12px;
+    color:#444;
+}
+#mapa h4.mapa-encabezado {
+    margin-bottom:0;
+}
+#mapa ul {
+    margin:0;
+    padding:2px 0 0 0;
+}
+#mapa li {
+    margin-top:2px;
+    margin-bottom:2px;
+    padding-left:16px;
+    list-style-type:none;
+    text-align:left;
+}
+#mapa a         { color:#646464; text-decoration:none; display:block; padding:2px; font-weight:bold; }
+#mapa a:active,
+#mapa a:visited { color:#646464; }
+#mapa a:hover,
+#mapa a:focus   { color:#FF3300; }
+#redes {
+    background-color:#ECECEC;
+    padding:8px;
+    font-size:12px;
+    color:#444;
+}
+#redes .logotipo       { display:inline; }
+#redes .redes-sociales { font-size:4em; }
+#redes a         { color:#646464; text-decoration:none; padding:2px; }
+#redes a:active,
+#redes a:visited { color:#646464; }
+#redes a:hover,
+#redes a:focus   { color:#FF3300; }
+
+/*
+ * Pie
+ */
+#pie {
+    background-color:#1b1e25;
+    color:#DDD;
+    font-size:10px;
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    z-index:1001;
+}
+#pie a         { color:#DDD; font-weight:bold }
+#pie a:hover,
+#pie a:focus   { color:#FFF; }
+#pie a:active,
+#pie a:visited { color:#DDD; }
+#pie p { margin:4px; }
+
+/**
+ * Responsivo
+ */
+@media only screen and (max-width: 1200px) {
+    #carrusel .carousel-inner > .item > img {
+        height:352px;
+    }
+}
+@media only screen and (max-width: 992px) {
+    #carrusel .carousel-inner > .item > img {
+        height:260px;
+    }
+    .inferior-logo {
+        margin-top:4px;
+        margin-bottom:4px;
+    }
+    .inferior-mapa {
+        margin-top:4px;
+        margin-bottom:4px;
+        border-right:none;
+        height:auto;
+    }
+    .contenido-imagen {
+        padding:16px;
+    }
+}
+@media only screen and (max-width: 640px) {
+    #carrusel .carousel-inner > .item > img {
+        height:190px;
+    }
+    .inferior-logo {
+        width:400px;
+        margin-top:4px;
+        margin-bottom:2px;
+    }
+    .inferior-mapa {
+        margin-top:4px;
+        margin-bottom:4px;
+        border-right:none;
+        height:auto;
+    }
+    .contenido-imagen {
+        padding:8px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    #carrusel .carousel-inner > .item > img {
+        height:150px;
+    }
+    .inferior-logo {
+        width:200px;
+        margin-top:2px;
+        margin-bottom:2px;
+    }
+    .inferior-mapa {
+        margin-top:4px;
+        margin-bottom:4px;
+        border-right:none;
+        height:auto;
+    }
+    .contenido-imagen {
+        padding:4px;
+    }
+}
