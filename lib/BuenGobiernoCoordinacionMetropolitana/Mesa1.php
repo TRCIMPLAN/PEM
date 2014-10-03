@@ -47,12 +47,20 @@ class Mesa1 extends \Base\Publicacion {
         $this->directorio    = 'buen-gobierno-coordinacion-metropolitana';
         // Opción del menú Navegación a poner como activa cuando vea esta publicación.
         $this->nombre_menu   = 'Buen Gobierno > Mesa 1';
+        //
+        // Definir lenguetas
+        //
+        $lenguetas = new \Base\Lenguetas();
+        $lenguetas->agregar('comite-tecnico',   'Comité Técnico',      $this->cargar_archivo_markdown('lib/BuenGobiernoCoordinacionMetropolitana/Mesa1ComiteTecnico.md'));
+        $lenguetas->agregar('programacion',     'Programación',        $this->cargar_archivo_markdown('lib/BuenGobiernoCoordinacionMetropolitana/Mesa1Programacion.md'));
+        $lenguetas->agregar('programacion-dia', 'Programación de Día', $this->cargar_archivo_markdown('lib/BuenGobiernoCoordinacionMetropolitana/Mesa1ProgramacionDia.md'));
+        $lenguetas->agregar('diagnostico',      'Diagnóstico',         $this->cargar_archivo_markdown('lib/BuenGobiernoCoordinacionMetropolitana/Mesa1Diagnostico.md'));
+        $lenguetas->agregar('multimedia',       'Multimedia',          $this->cargar_archivo_markdown('lib/BuenGobiernoCoordinacionMetropolitana/Mesa1Multimedia.md'));
+        //
         // El contenido HTML y el JavaScript
-        $this->contenido     = <<<FINAL
-<p>Contenido.</p>
-FINAL;
-        $this->javascript    = <<<FINAL
-FINAL;
+        //
+        $this->contenido  = $lenguetas->html();
+        $this->javascript = $lenguetas->javascript();
     } // constructor
 
 } // Clase Mesa1

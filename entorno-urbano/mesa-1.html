@@ -66,6 +66,24 @@
           </div>
         </li>
         <li>
+          <a href="#"><i class="fa fa-file-text-o"></i> Mesa 1<span class="fa arrow"></span></a>
+          <ul class="nav nav-second-level">
+            <li><a href="../mesa-1/programacion.html"><i class="fa fa-file-text-o"></i> Programación</a></li>
+            <li><a href="../mesa-1/programacion-dia.html"><i class="fa fa-file-text-o"></i> Programación del día</a></li>
+            <li>
+              <a href="#"><i class="fa fa-file-text-o"></i> Comités Técnicos<span class="fa arrow"></span></a>
+              <ul class="nav nav-third-level">
+                <li><a href="../mesa-1/comite-tecnico-buen-gobierno.html"><i class="fa fa-university"></i> Buen Gobierno</a></li>
+                <li><a href="../mesa-1/comite-tecnico-desarrollo-economico.html"><i class="fa fa-usd"></i> Desarrollo Económico</a></li>
+                <li><a href="../mesa-1/comite-tecnico-desarrollo-social.html"><i class="fa fa-users"></i> Desarrollo Social</a></li>
+                <li><a href="../mesa-1/comite-tecnico-entorno-urbano.html"><i class="fa fa-building"></i> Entorno Urbano</a></li>
+                <li><a href="../mesa-1/comite-tecnico-movilidad-transporte.html"><i class="fa fa-car"></i> Movilidad y Transporte</a></li>
+                <li><a href="../mesa-1/comite-tecnico-medio-ambiente.html"><i class="fa fa-leaf"></i> S. y Medio Ambiente</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
           <a href="#"><i class="fa fa-university"></i> Buen Gobierno<span class="fa arrow"></span></a>
           <ul class="nav nav-second-level">
             <li><a href="../buen-gobierno-coordinacion-metropolitana/mesa-1.html"><i class="fa fa-file-text-o"></i> Mesa 1</a></li>
@@ -125,7 +143,38 @@
     <h1>Entorno Urbano - Mesa 1</h1>
     <p class="autor-fecha">Por TrcIMPLAN, 03/10/2014</p>
   </header>
+  <ul class="nav nav-tabs lenguetas" id="lenguetas-">
+    <li><a href="#comite-tecnico" data-toggle="tab">Comité Técnico</a></li>
+    <li><a href="#programacion" data-toggle="tab">Programación</a></li>
+    <li><a href="#diagnostico" data-toggle="tab">Diagnóstico</a></li>
+    <li class="active"><a href="#multimedia" data-toggle="tab">Multimedia</a></li>
+  </ul>
+  <div class="tab-content">
+    <div class="tab-pane" id="comite-tecnico">
+      <h3>Título</h3>
+
 <p>Contenido.</p>
+
+    </div>
+    <div class="tab-pane" id="programacion">
+      <h3>Título</h3>
+
+<p>Contenido.</p>
+
+    </div>
+    <div class="tab-pane" id="diagnostico">
+      <h3>Título</h3>
+
+<p>Contenido.</p>
+
+    </div>
+    <div class="tab-pane active" id="multimedia">
+      <h3>Título</h3>
+
+<p>Contenido.</p>
+
+    </div>
+  </div>
 </article>
       </div>
     </div>
@@ -150,6 +199,10 @@
 <script src="../js/sb-admin-2.js"></script>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+// TWITTER BOOTSTRAP TABS
+$(document).ready(function(){
+  $('#lenguetas- a:first').tab('show')
+});
 </script>
 </body>
 </html>

@@ -114,6 +114,20 @@ class Publicacion extends \Configuracion\PublicacionConfig {
         return sprintf('%02d/%02d/%04d', $a[2], $a[1], $a[0]);
     } // fecha_con_formato_humano
 
+    /**
+     * Cargar archivo markdown
+     *
+     * @param string Ruta al archivo
+     */
+    protected function cargar_archivo_markdown($ruta) {
+        $contenido = file_get_contents("$ruta");
+        if ($contenido === false) {
+            throw new \Exception("Error en cargar_archivo_markdown: No se puede leer $ruta");
+        }
+        $html = \Michelf\Markdown::defaultTransform($contenido);
+        return $html;
+    } // cargar_archivo_markdown
+
 } // Clase Publicacion
 
 ?>

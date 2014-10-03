@@ -30,6 +30,16 @@ class NavegacionConfig {
     protected $sitio_titulo = 'IMPLAN Torreón | Plan Estratégico Metropolitano';
     protected $logotipo     = 'imagenes/implan-barra-logo-chico-gris.png';
     protected $opciones     = array(
+        'Mesa 1' => array(
+            'Mesa 1 > Programación'         => 'mesa-1/programacion.html',
+            'Mesa 1 > Programación del día' => 'mesa-1/programacion-dia.html',
+            'Mesa 1 > Comités Técnicos'     => array(
+                'Mesa 1 > Buen Gobierno'          => 'mesa-1/comite-tecnico-buen-gobierno.html',
+                'Mesa 1 > Desarrollo Económico'   => 'mesa-1/comite-tecnico-desarrollo-economico.html',
+                'Mesa 1 > Desarrollo Social'      => 'mesa-1/comite-tecnico-desarrollo-social.html',
+                'Mesa 1 > Entorno Urbano'         => 'mesa-1/comite-tecnico-entorno-urbano.html',
+                'Mesa 1 > Movilidad y Transporte' => 'mesa-1/comite-tecnico-movilidad-transporte.html',
+                'Mesa 1 > S. y Medio Ambiente'    => 'mesa-1/comite-tecnico-medio-ambiente.html')),
         'Buen Gobierno'          => array(
             'Buen Gobierno > Mesa 1'          => 'buen-gobierno-coordinacion-metropolitana/mesa-1.html',
             'Buen Gobierno > Mesa 2'          => 'buen-gobierno-coordinacion-metropolitana/mesa-2.html',
@@ -61,32 +71,6 @@ class NavegacionConfig {
         'Entorno Urbano'            => 'fa fa-building',
         'Movilidad y Transporte'    => 'fa fa-car',
         'S. y Medio Ambiente'       => 'fa fa-leaf');
-/*  protected $iconos = array(
-        'Análisis Publicados'       => 'fa fa-lightbulb-o',
-        'Buen Gobierno'             => 'fa fa-university',
-        'Desarrollo Económico'      => 'fa fa-usd',
-        'Desarrollo Social'         => 'fa fa-users',
-        'Entorno Urbano'            => 'fa fa-building',
-        'Movilidad y Transporte'    => 'fa fa-car',
-        'S. y Medio Ambiente'       => 'fa fa-leaf',
-        'Indicadores'               => 'fa fa-area-chart',
-        'Introducción al SMI'       => 'fa fa-file-text-o',
-        'Categorías'                => 'fa fa-th-list',
-        'Indicadores Torreón'       => 'fa fa-table',
-        'Indicadores Gómez Palacio' => 'fa fa-table',
-        'Indicadores Lerdo'         => 'fa fa-table',
-        'Indicadores Matamoros'     => 'fa fa-table',
-        'Indicadores La Laguna'     => 'fa fa-table',
-        'Información Geográfica'    => 'fa fa-map-marker',
-        'Introduccion al SIG'       => 'fa fa-file-text-o',
-        'Banco de Proyectos'        => 'fa fa-check-square',
-        'Plata Laguna'              => 'fa fa-certificate',
-        'Institucional'             => 'fa fa-building-o',
-        'Consejo Directivo'         => 'fa fa-users',
-        'Comunicados'               => 'fa fa-comments',
-        'Eventos'                   => 'fa fa-folder-o',
-        'Sala de Prensa'            => 'fa fa-folder-o',
-        'Contacto'                  => 'fa fa-phone'); */
 
 } // Clase NavegacionConfig
 

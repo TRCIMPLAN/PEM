@@ -47,12 +47,19 @@ class Mesa1 extends \Base\Publicacion {
         $this->directorio    = 'entorno-urbano';
         // Opción del menú Navegación a poner como activa cuando vea esta publicación.
         $this->nombre_menu   = 'Entorno Urbano > Mesa 1';
+        //
+        // Definir lenguetas
+        //
+        $lenguetas = new \Base\Lenguetas();
+        $lenguetas->agregar('comite-tecnico', 'Comité Técnico', $this->cargar_archivo_markdown('lib/EntornoUrbano/Mesa1ComiteTecnico.md'));
+        $lenguetas->agregar('programacion',   'Programación',   $this->cargar_archivo_markdown('lib/EntornoUrbano/Mesa1Programacion.md'));
+        $lenguetas->agregar('diagnostico',    'Diagnóstico',    $this->cargar_archivo_markdown('lib/EntornoUrbano/Mesa1Diagnostico.md'));
+        $lenguetas->agregar('multimedia',     'Multimedia',     $this->cargar_archivo_markdown('lib/EntornoUrbano/Mesa1Multimedia.md'));
+        //
         // El contenido HTML y el JavaScript
-        $this->contenido     = <<<FINAL
-<p>Contenido.</p>
-FINAL;
-        $this->javascript    = <<<FINAL
-FINAL;
+        //
+        $this->contenido  = $lenguetas->html();
+        $this->javascript = $lenguetas->javascript();
     } // constructor
 
 } // Clase Mesa1
