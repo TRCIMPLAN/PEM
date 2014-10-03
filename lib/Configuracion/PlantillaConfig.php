@@ -28,12 +28,12 @@ namespace Configuracion;
 class PlantillaConfig {
 
     public $sitio_titulo   = 'IMPLAN Torreón';
-    public $sitio_url      = 'http://trcimplan.gob.mx';
+    public $sitio_url      = 'http://trcimplan.github.io/pem';
     public $rss            = 'rss.xml';
     public $favicon        = 'imagenes/favicon.png';
     public $propio_css     = 'css/trcimplan.css';
     public $en_raiz        = false;       // Si es verdadero los vínculos serán para un archivo en la raíz del sitio
-    public $para_compartir = true;        // Si es verdadero pondrá los metas para tarjetas en Twitter/Facebook
+    public $para_compartir = false;       // Si es verdadero pondrá los metas para tarjetas en Twitter/Facebook
     public $autor          = 'TrcIMPLAN'; // Autor por defecto
     public $mensaje_oculto = <<<FINAL
 <!-- ========================================================================================

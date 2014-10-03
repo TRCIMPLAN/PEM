@@ -20,36 +20,24 @@
  */
 
 // Namespace
-namespace BuenGobiernoCoordinacionMetropolitana;
+namespace DesarrolloSocial;
 
 /**
  * Clase Imprenta
  */
 class Imprenta extends \Base\ImprentaPublicaciones {
 
-    // public $plantilla;
-    // public $mensajes;
-    // protected $publicaciones;
-    // protected $plantillas;
-    // protected $publicaciones_directorio; // Nombre del directorio dentro de lib que contiene los archivos con las publicaciones
-    // protected $titulo;                   // Título a usar en la página con el índice
-    // protected $descripcion;              // Descripción a usar en la página con el índice
-    // protected $claves;                   // Claves a usar en la página con el índice
-    // protected $directorio;               // Nombre del directorio en la raíz del sitio
-    // protected $ruta;                     // Ruta al archivo HTML para el índice, por ejemplo 'eventos/index.html'
-    // protected $nombre_menu;              // Etiqueta del menú que pondrá como opción activa
-
     /**
      * Constructor
      */
     public function __construct() {
-        $this->publicaciones_directorio = '';
-        $this->titulo                   = '';
+        $this->publicaciones_directorio = 'DesarrolloSocial';
+        $this->titulo                   = 'Desarrollo Social';
         $this->descripcion              = '.';
         $this->claves                   = 'IMPLAN, Torreon, ';
-        $this->directorio               = '';
-        $this->ruta                     = 'directorio/index.html';
-        $this->nombre_menu              = '';
+        $this->directorio               = 'desarrollo-social';
+        $this->ruta                     = 'desarrollo-social/index.html';
+        $this->nombre_menu              = 'Desarrollo Social';
     } // constructor
 
 } // Clase Imprenta

@@ -27,48 +27,41 @@ namespace Configuracion;
  */
 class NavegacionConfig {
 
-    protected $sitio_titulo = 'IMPLAN Torreón';
+    protected $sitio_titulo = 'IMPLAN Torreón | Plan Estratégico Metropolitano';
     protected $logotipo     = 'imagenes/implan-barra-logo-chico-gris.png';
     protected $opciones     = array(
-        'Análisis Publicados' => 'blog/index.html',
-        'Plan Estratégico Metropolitano' => array(
-            'Conoce el Plan'         => 'plan-estrategico-metropolitano/introduccion.html',
-            'Buen Gobierno'          => 'plan-estrategico-metropolitano/buen-gobierno-coordinacion-metropolitana.html',
-            'Desarrollo Económico'   => 'plan-estrategico-metropolitano/desarrollo-economico-innovacion.html',
-            'Desarrollo Social'      => 'plan-estrategico-metropolitano/desarrollo-social.html',
-            'Entorno Urbano'         => 'plan-estrategico-metropolitano/entorno-urbano.html',
-            'Movilidad y Transporte' => 'plan-estrategico-metropolitano/movilidad-transporte.html',
-            'S. y Medio Ambiente'    => 'plan-estrategico-metropolitano/sustentabilidad-medio-ambiente.html'),
-        'Indicadores' => array(
-            'Introducción al SMI'       => 'smi/introduccion.html',
-            'Categorías'                => 'indicadores-categorias/index.html',
-            'Indicadores Torreón'       => 'indicadores-torreon/index.html',
-            'Indicadores Gómez Palacio' => 'indicadores-gomez-palacio/index.html',
-            'Indicadores Lerdo'         => 'indicadores-lerdo/index.html',
-            'Indicadores Matamoros'     => 'indicadores-matamoros/index.html',
-            'Indicadores La Laguna'     => 'indicadores-la-laguna/index.html'),
-        'Información Geográfica' => array(
-            'Introduccion al SIG' => 'sig/introduccion.html',
-            'Alumbrado Público'   => 'sig/alumbrado-publico.html',
-            'Zonificación'        => 'sig/zonificacion.html',
-            'Abrir el SIG'        => 'sig/abrir-sig.html'),
-        'Banco de Proyectos' => array(
-            'Introducción al BMPI' => 'proyectos/introduccion.html',
-            'Plata Laguna'         => 'proyectos/plata-laguna.html'),
-        'Institucional' => array(
-            'Visión / Misión'        => 'institucional/vision-mision.html',
-            'Mensaje del Director'   => 'institucional/mensaje-director.html',
-            'Quienes Somos'          => 'institucional/quienes-somos.html',
-            'Estructura Orgánica'    => 'institucional/estructura-organica.html',
-            'Reglamentos'            => 'institucional/reglamentos.html',
-            'Información Financiera' => 'institucional/informacion-financiera.html',
-            'Transparencia'          => 'http://www.icai.org.mx/ipmn/dependencias/impyc'),
-        'Consejo Directivo' => 'consejo-directivo/integrantes.html',
-        'Comunicados' => array(
-            'Eventos'        => 'eventos/index.html',
-            'Sala de Prensa' => 'sala-prensa/index.html'),
-        'Contacto' => 'contacto/contacto.html');
+        'Buen Gobierno'          => array(
+            'Buen Gobierno > Mesa 1'          => 'buen-gobierno-coordinacion-metropolitana/mesa-1.html',
+            'Buen Gobierno > Mesa 2'          => 'buen-gobierno-coordinacion-metropolitana/mesa-2.html',
+            'Buen Gobierno > Mesa 3'          => 'buen-gobierno-coordinacion-metropolitana/mesa-3.html'),
+        'Desarrollo Económico'   => array(
+            'Desarrollo Económico > Mesa 1'   => 'desarrollo-economico-innovacion/mesa-1.html',
+            'Desarrollo Económico > Mesa 2'   => 'desarrollo-economico-innovacion/mesa-2.html',
+            'Desarrollo Económico > Mesa 3'   => 'desarrollo-economico-innovacion/mesa-3.html'),
+        'Desarrollo Social'      => array(
+            'Desarrollo Social > Mesa 1'      => 'desarrollo-social/mesa-1.html',
+            'Desarrollo Social > Mesa 2'      => 'desarrollo-social/mesa-2.html',
+            'Desarrollo Social > Mesa 3'      => 'desarrollo-social/mesa-3.html'),
+        'Entorno Urbano'         => array(
+            'Entorno Urbano > Mesa 1'         => 'entorno-urbano/mesa-1.html',
+            'Entorno Urbano > Mesa 2'         => 'entorno-urbano/mesa-2.html',
+            'Entorno Urbano > Mesa 3'         => 'entorno-urbano/mesa-3.html'),
+        'Movilidad y Transporte' => array(
+            'Movilidad y Transporte > Mesa 1' => 'movilidad-transporte/mesa-1.html',
+            'Movilidad y Transporte > Mesa 2' => 'movilidad-transporte/mesa-2.html',
+            'Movilidad y Transporte > Mesa 3' => 'movilidad-transporte/mesa-3.html'),
+        'S. y Medio Ambiente'    => array(
+            'S. y Medio Ambiente > Mesa 1'    => 'sustentabilidad-medio-ambiente/mesa-1.html',
+            'S. y Medio Ambiente > Mesa 2'    => 'sustentabilidad-medio-ambiente/mesa-2.html',
+            'S. y Medio Ambiente > Mesa 3'    => 'sustentabilidad-medio-ambiente/mesa-3.html'));
     protected $iconos = array(
+        'Buen Gobierno'             => 'fa fa-university',
+        'Desarrollo Económico'      => 'fa fa-usd',
+        'Desarrollo Social'         => 'fa fa-users',
+        'Entorno Urbano'            => 'fa fa-building',
+        'Movilidad y Transporte'    => 'fa fa-car',
+        'S. y Medio Ambiente'       => 'fa fa-leaf');
+/*  protected $iconos = array(
         'Análisis Publicados'       => 'fa fa-lightbulb-o',
         'Buen Gobierno'             => 'fa fa-university',
         'Desarrollo Económico'      => 'fa fa-usd',
@@ -93,39 +86,8 @@ class NavegacionConfig {
         'Comunicados'               => 'fa fa-comments',
         'Eventos'                   => 'fa fa-folder-o',
         'Sala de Prensa'            => 'fa fa-folder-o',
-        'Contacto'                  => 'fa fa-phone');
-/*
- * Indicadores:            <i class="fa fa-area-chart"></i>
- * Introducción al SMI:    <i class="fa fa-file-text-o"></i>
- * Categorias:             <i class="fa fa-th-list"></i>
- * Información geográfica: <i class="fa fa-map-marker"></i>
- * Introducción al SIG:    <i class="fa fa-file-text-o"></i>
- * Abrir el SIG:           <i class="fa fa-crosshairs"></i>
- * Banco de Proyectos:     <i class="fa fa-check-square"></i>
- * Introducción al BMPI:   <i class="fa fa-file-text-o"></i>
- * Plata Laguna:           <i class="fa fa-certificate"></i>
- * Institucional:          <i class="fa fa-building-o"></i>
- * Comunicados:            <i class="fa fa-comments"></i>
+        'Contacto'                  => 'fa fa-phone'); */
 
-    protected $iconos = array(
-        'Análisis Publicados'       => 'fa fa-lightbulb-o',
-        'Indicadores'               => 'fa fa-bar-chart',
-        'Categorías'                => 'fa fa-tags',
-        'Indicadores Torreón'       => 'fa fa-table',
-        'Indicadores Gómez Palacio' => 'fa fa-table',
-        'Indicadores Lerdo'         => 'fa fa-table',
-        'Indicadores Matamoros'     => 'fa fa-table',
-        'Indicadores La Laguna'     => 'fa fa-table',
-        'Información Geográfica'    => 'fa fa-map-marker',
-        'Banco de Proyectos'        => 'fa fa-paper-plane-o',
-        'Institucional'             => 'fa fa-university',
-        'Consejo Directivo'         => 'fa fa-users',
-        'Comunicados'               => 'fa fa-volume-up',
-        'Eventos'                   => 'fa fa-folder-o',
-        'Sala de Prensa'            => 'fa fa-folder-o',
-        'Contacto'                  => 'fa fa-phone');
-
- */
 } // Clase NavegacionConfig
 
 ?>

@@ -20,7 +20,7 @@
  */
 
 // Namespace
-namespace BuenGobiernoCoordinacionMetropolitana;
+namespace SustentabilidadMedioAmbiente;
 
 /**
  * Clase Imprenta
@@ -43,13 +43,13 @@ class Imprenta extends \Base\ImprentaPublicaciones {
      * Constructor
      */
     public function __construct() {
-        $this->publicaciones_directorio = '';
-        $this->titulo                   = '';
+        $this->publicaciones_directorio = 'SustentabilidadMedioAmbiente';
+        $this->titulo                   = 'Sustentabilidad y Medio Ambiente';
         $this->descripcion              = '.';
         $this->claves                   = 'IMPLAN, Torreon, ';
-        $this->directorio               = '';
-        $this->ruta                     = 'directorio/index.html';
-        $this->nombre_menu              = '';
+        $this->directorio               = 'sustentabilidad-medio-ambiente';
+        $this->ruta                     = 'sustentabilidad-medio-ambiente/index.html';
+        $this->nombre_menu              = 'S. y Medio Ambiente';
     } // constructor
 
 } // Clase Imprenta

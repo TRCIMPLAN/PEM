@@ -35,22 +35,12 @@ require_once('lib/Base/Funciones.php');
 
 // En este arreglo están las rutas a las clases Imprenta
 $clases = array(
-    '\Blog\Imprenta',
-    '\ConsejoDirectivo\Imprenta',
-    '\Contacto\Imprenta',
-    '\Eventos\Imprenta',
-    '\Institucional\Imprenta',
-    '\PlanEstrategicoMetropolitano\Imprenta',
-    '\Proyectos\Imprenta',
-    '\SalaPrensa\Imprenta',
-    '\SIG\Imprenta',
-    '\SMI\Imprenta',
-    '\SMI\ImprentaIndicadoresTorreon',
-    '\SMI\ImprentaIndicadoresGomezPalacio',
-    '\SMI\ImprentaIndicadoresLerdo',
-    '\SMI\ImprentaIndicadoresMatamoros',
-    '\SMI\ImprentaIndicadoresLaLaguna',
-    '\SMICategorias\Imprenta');
+    '\BuenGobiernoCoordinacionMetropolitana\Imprenta',
+    '\DesarrolloEconomicoInnovacion\Imprenta',
+    '\DesarrolloSocial\Imprenta',
+    '\EntornoUrbano\Imprenta',
+    '\MovilidadTransporte\Imprenta',
+    '\SustentabilidadMedioAmbiente\Imprenta');
 // Imprimir
 try {
     foreach ($clases as $clase) {

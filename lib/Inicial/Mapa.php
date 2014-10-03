@@ -39,39 +39,58 @@ class Mapa {
         $a[] = '  <!-- MAPA -->';
         $a[] = '  <section id="mapa">';
         $a[] = '    <div class="row">';
-        // Institucional
-        $a[] = '      <div class="col-md-4">';
-        $a[] = '        <h4 class="mapa-encabezado">INSTITUCIONAL</h4>';
+        //
+        $a[] = '      <div class="col-md-2">';
+        $a[] = '        <h4 class="mapa-encabezado">Buen Gobierno</h4>';
         $a[] = '        <ul>';
-        $a[] = '          <li><a href="institucional/vision-mision.html">Visión / Misión</a></li>';
-        $a[] = '          <li><a href="institucional/mensaje-director.html">Mensaje del Director</a></li>';
-        $a[] = '          <li><a href="institucional/quienes-somos.html">Quienes Somos</a></li>';
-        $a[] = '          <li><a href="institucional/estructura-organica.html">Estructura Orgánica</a></li>';
-        $a[] = '          <li><a href="institucional/reglamentos.html">Reglamentos</a></li>';
-        $a[] = '          <li><a href="institucional/informacion-financiera.html">Información Financiera</a></li>';
-        $a[] = '          <li><a href="http://www.icai.org.mx/ipmn/dependencias/impyc" target="_blank">Transparencia</a></li>';
+        $a[] = '          <li><a href="buen-gobierno-coordinacion-metropolitana/mesa-1.html">Mesa 1</a></li>';
+        $a[] = '          <li><a href="buen-gobierno-coordinacion-metropolitana/mesa-2.html">Mesa 2</a></li>';
+        $a[] = '          <li><a href="buen-gobierno-coordinacion-metropolitana/mesa-3.html">Mesa 3</a></li>';
         $a[] = '        </ul>';
         $a[] = '      </div>';
         //
-        $a[] = '      <div class="col-md-4">';
-        $a[] = '        <h4 class="mapa-encabezado">SERVICIOS</h4>';
+        $a[] = '      <div class="col-md-2">';
+        $a[] = '        <h4 class="mapa-encabezado">Desarrollo Económico</h4>';
         $a[] = '        <ul>';
-        $a[] = '          <li><a href="plan-estrategico-metropolitano/introduccion.html">Plan Estratégico Metropolitano</a></li>';
-        $a[] = '          <li><a href="smi/introduccion.html">S. Metropolitano de Indicadores</a></li>';
-        $a[] = '          <li><a href="sig/introduccion.html">S. Información Geográfica</a></li>';
-        $a[] = '          <li><a href="blog/index.html">Análisis Publicados</a></li>';
-        $a[] = '          <li><a href="proyectos/introduccion.html">Banco de Proyectos</a></li>';
+        $a[] = '          <li><a href="desarrollo-economico-innovacion/mesa-1.html">Mesa 1</a></li>';
+        $a[] = '          <li><a href="desarrollo-economico-innovacion/mesa-2.html">Mesa 2</a></li>';
+        $a[] = '          <li><a href="desarrollo-economico-innovacion/mesa-3.html">Mesa 3</a></li>';
         $a[] = '        </ul>';
         $a[] = '      </div>';
         //
-        $a[] = '      <div class="col-md-4">';
-        $a[] = '        <h4 class="mapa-encabezado">INTERACCIÓN</h4>';
+        $a[] = '      <div class="col-md-2">';
+        $a[] = '        <h4 class="mapa-encabezado">Desarrollo Social</h4>';
         $a[] = '        <ul>';
-        $a[] = '          <li><a href="contacto/contacto.html">Contacto</a></li>';
-        $a[] = '          <li><a href="eventos/index.html">Eventos</a></li>';
-        $a[] = '          <li><a href="sala-prensa/index.html">Sala de Prensa</a></li>';
-        $a[] = '          <li><a href="contacto/faq.html">Preguntas Frecuentes</a></li>';
-        $a[] = '          <li><a href="contacto/quejas-sugerencias.html">Quejas y Sugerencias</a></li>';
+        $a[] = '          <li><a href="desarrollo-social/mesa-1.html">Mesa 1</a></li>';
+        $a[] = '          <li><a href="desarrollo-social/mesa-2.html">Mesa 2</a></li>';
+        $a[] = '          <li><a href="desarrollo-social/mesa-3.html">Mesa 3</a></li>';
+        $a[] = '        </ul>';
+        $a[] = '      </div>';
+        //
+        $a[] = '      <div class="col-md-2">';
+        $a[] = '        <h4 class="mapa-encabezado">Entorno Urbano</h4>';
+        $a[] = '        <ul>';
+        $a[] = '          <li><a href="entorno-urbano/mesa-1.html">Mesa 1</a></li>';
+        $a[] = '          <li><a href="entorno-urbano/mesa-2.html">Mesa 2</a></li>';
+        $a[] = '          <li><a href="entorno-urbano/mesa-3.html">Mesa 3</a></li>';
+        $a[] = '        </ul>';
+        $a[] = '      </div>';
+        //
+        $a[] = '      <div class="col-md-2">';
+        $a[] = '        <h4 class="mapa-encabezado">Movilidad y Transporte</h4>';
+        $a[] = '        <ul>';
+        $a[] = '          <li><a href="movilidad-transporte/mesa-1.html">Mesa 1</a></li>';
+        $a[] = '          <li><a href="movilidad-transporte/mesa-2.html">Mesa 2</a></li>';
+        $a[] = '          <li><a href="movilidad-transporte/mesa-3.html">Mesa 3</a></li>';
+        $a[] = '        </ul>';
+        $a[] = '      </div>';
+        //
+        $a[] = '      <div class="col-md-2">';
+        $a[] = '        <h4 class="mapa-encabezado">S. y Medio Ambiente</h4>';
+        $a[] = '        <ul>';
+        $a[] = '          <li><a href="sustentabilidad-medio-ambiente/mesa-1.html">Mesa 1</a></li>';
+        $a[] = '          <li><a href="sustentabilidad-medio-ambiente/mesa-2.html">Mesa 2</a></li>';
+        $a[] = '          <li><a href="sustentabilidad-medio-ambiente/mesa-3.html">Mesa 3</a></li>';
         $a[] = '        </ul>';
         $a[] = '      </div>';
         //

@@ -103,12 +103,19 @@ class Navegacion extends \Configuracion\NavegacionConfig {
      * @param  string URL
      * @return string Código HTML
      */
-    protected function vinculo($etiqueta, $url) {
+    protected function vinculo($in_etiqueta, $url) {
         // Icono
-        if (array_key_exists($etiqueta, $this->iconos)) {
-            $icono = "<i class=\"{$this->iconos[$etiqueta]}\"></i>";
+        if (array_key_exists($in_etiqueta, $this->iconos)) {
+            $icono = "<i class=\"{$this->iconos[$in_etiqueta]}\"></i>";
         } else {
             $icono = "<i class=\"fa fa-file-text-o\"></i>";
+        }
+        // Si la etiqueta tiene "mayor que" se retira lo que está a la izquierda de éste
+        $posicion = strpos($in_etiqueta, '>');
+        if ($posicion === 0) {
+            $etiqueta = $in_etiqueta;
+        } else {
+            $etiqueta = trim(substr($in_etiqueta, $posicion + 1));
         }
         // Si el URL es absoluto
         if ((strpos($url, 'http://') === 0) || (strpos($url, 'https://') === 0) || (strpos($url, '/') === 0)) {
