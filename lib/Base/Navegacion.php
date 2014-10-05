@@ -171,7 +171,17 @@ class Navegacion extends \Configuracion\NavegacionConfig {
                 } else {
                     $icono = "<i class=\"fa fa-file-text-o\"></i>";
                 }
-                if (array_key_exists($this->opcion_activa, $parametros)) {
+                // Buscar si la opción activa es del tercer nivel
+                $es_opcion_activa = false;
+                foreach ($parametros as $eti=> $param) {
+                    if (is_array($param) && array_key_exists($this->opcion_activa, $param)) {
+                        $es_opcion_activa = true;
+                    }
+                }
+                // Si la opción activa es de tercer nivel, entonces también esta es activa
+                if ($es_opcion_activa) {
+                    $a[] = '        <li class="active">';
+                } elseif (array_key_exists($this->opcion_activa, $parametros)) {
                     $a[] = '        <li class="active">';
                 } else {
                     $a[] = '        <li>';

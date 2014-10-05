@@ -2,22 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://trcimplan.github.io/pem/index.html</loc>
-    <lastmod>2014-10-03</lastmod>
+    <lastmod>2014-10-05</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://trcimplan.github.io/pem/sustentabilidad-medio-ambiente/mesa-1.html</loc>
-    <lastmod>2014-10-03</lastmod>
+    <loc>http://trcimplan.github.io/pem/mesa-3/ct-buen-gobierno.html</loc>
+    <lastmod>2014-10-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>http://trcimplan.github.io/pem/sustentabilidad-medio-ambiente/mesa-2.html</loc>
-    <lastmod>2014-10-03</lastmod>
+    <loc>http://trcimplan.github.io/pem/mesa-3/ct-desarrollo-economico.html</loc>
+    <lastmod>2014-10-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>http://trcimplan.github.io/pem/sustentabilidad-medio-ambiente/mesa-3.html</loc>
-    <lastmod>2014-10-03</lastmod>
+    <loc>http://trcimplan.github.io/pem/mesa-3/ct-desarrollo-social.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-3/ct-entorno-urbano.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-3/ct-movilidad-transporte.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-3/ct-sustentabilidad-medio-ambiente.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-3/orden-dia.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-3/programacion.html</loc>
+    <lastmod>2014-10-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>

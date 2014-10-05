@@ -97,6 +97,9 @@ class Publicacion extends \Configuracion\PublicacionConfig {
     /**
      * Tiempo desde que fue creado
      *
+     * Esta funcion calcula la diferencia entre el presente y la propiedad fecha.
+     * Sirve para ordenar cronológicamente las publicaciones en los índices.
+     *
      * @return integer Timestamp
      */
     public function tiempo_creado() {
@@ -117,7 +120,11 @@ class Publicacion extends \Configuracion\PublicacionConfig {
     /**
      * Cargar archivo markdown
      *
-     * @param string Ruta al archivo
+     * Con este método se pueden cargar archivos markdown para que se organize el contenido.
+     * Útil con el uso de Lenguetas.
+     *
+     * @param  string Ruta al archivo markdown desde la raiz del sitio, ejemplo 'lib/Directorio/Archivo.md'
+     * @return string Código HTML
      */
     protected function cargar_archivo_markdown($ruta) {
         $contenido = file_get_contents("$ruta");

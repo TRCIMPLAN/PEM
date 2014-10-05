@@ -39,12 +39,9 @@ $mapa->agregar_url('index.html', date('Y-m-d'), 'daily', '1'); // la página ini
 
 // Arreglo con los directorios de donde se tomarán las publicaciones
 $directorios = array(
-    'BuenGobiernoCoordinacionMetropolitana',
-    'DesarrolloEconomicoInnovacion',
-    'DesarrolloSocial',
-    'EntornoUrbano',
-    'MovilidadTransporte',
-    'SustentabilidadMedioAmbiente');
+    'Mesa1',
+    'Mesa2',
+    'Mesa3');
 // Recolectar publicaciones
 $impresor = new \Base\Imprenta();
 try {
