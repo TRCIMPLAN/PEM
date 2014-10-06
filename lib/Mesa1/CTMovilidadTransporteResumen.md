@@ -1,2 +1,2 @@
 
-Contenido de Resumen.
+### Se insertará una síntesis

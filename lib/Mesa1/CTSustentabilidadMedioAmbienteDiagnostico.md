@@ -75,7 +75,7 @@ Torreón   |            124,199.75 |                  110,690.11 | 89.12% |     
 
 ### Promedio histórico de temperaturas.
 
-_GRAFICA POR INSERTAR_
+<img class="img-responsive" src="ct-sustentabilidad-medio-ambiente/promedio-temperaturas.png" alt="Promedio de Temperaturas">
 
 Fuente: Plan Rector de la ZonaMetropolitana de la Laguna.
 
