@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://trcimplan.github.io/pem/index.html</loc>
-    <lastmod>2014-10-05</lastmod>
+    <lastmod>2014-10-06</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -32,6 +32,11 @@
   </url>
   <url>
     <loc>http://trcimplan.github.io/pem/mesa-3/ct-sustentabilidad-medio-ambiente.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-3/datos-generales.html</loc>
     <lastmod>2014-10-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
