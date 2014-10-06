@@ -1,2 +1,12 @@
 
-Contenido de Miembros.
+### Coordinador
+
+**Rafael Rebollar**
+
+### Asesor
+
+**Alicia Valdez**
+
+### Secretario
+
+**Víctor Núñez**

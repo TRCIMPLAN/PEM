@@ -1,2 +1,12 @@
 
-Contenido de Miembros.
+### Coordinador
+
+**Javier Ramos**
+
+### Asesor
+
+**Teresita Benítez**
+
+### Secretario
+
+**Daniela Corral**

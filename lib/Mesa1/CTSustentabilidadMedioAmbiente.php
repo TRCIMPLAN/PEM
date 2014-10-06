@@ -56,7 +56,7 @@ class CTSustentabilidadMedioAmbiente extends \Base\Publicacion {
         //
         $lenguetas = new \Base\Lenguetas();
         $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown('lib/Mesa1/CTSustentabilidadMedioAmbienteMiembros.md'));
-        $lenguetas->agregar('diagnostico', 'Diagnóstico', $this->cargar_archivo_markdown('lib/Mesa1/CTSustentabilidadMedioAmbienteDiagnostico.md'));
+        $lenguetas->agregar('diagnostico', 'Diagnóstico', $this->cargar_archivo_markdown_extra('lib/Mesa1/CTSustentabilidadMedioAmbienteDiagnostico.md'));
         $lenguetas->agregar('resumen',     'Resumen',     $this->cargar_archivo_markdown('lib/Mesa1/CTSustentabilidadMedioAmbienteResumen.md'));
         $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown('lib/Mesa1/CTSustentabilidadMedioAmbienteMultimedia.md'));
         //

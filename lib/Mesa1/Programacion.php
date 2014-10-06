@@ -52,10 +52,17 @@ class Programacion extends \Base\Publicacion {
         // El estado ordena a Imprenta e Índice si debe 'publicar', 'revisar' o 'ignorar'
         $this->estado        = 'publicar';
         //
-        // Contenido en un archivo markdown
+        // Definir lenguetas
         //
-        $this->contenido  = $this->cargar_archivo_markdown('lib/Mesa1/Programacion.md');
-        $this->javascript = '';
+        $lenguetas = new \Base\Lenguetas();
+        $lenguetas->agregar('gantt',  'Gantt',  '<img class="img-responsive" src="programacion/gantt.png" alt="Gantt">');
+        $lenguetas->agregar('tareas', 'Tareas', $this->cargar_archivo('lib/Mesa1/Programacion.html'));
+        $lenguetas->agregar('staff',  'Staff',  $this->cargar_archivo('lib/Mesa1/ProgramacionStaff.html'));
+        //
+        // El contenido HTML y el JavaScript
+        //
+        $this->contenido  = $lenguetas->html();
+        $this->javascript = $lenguetas->javascript();
     } // constructor
 
 } // Programacion

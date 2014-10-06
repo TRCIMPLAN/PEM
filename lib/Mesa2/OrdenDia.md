@@ -1,2 +1,2 @@
 
-Contenido de Orden del día.
+Orden del día __POR DEFINIR__.

@@ -31,8 +31,9 @@ class NavegacionConfig {
     protected $logotipo     = 'imagenes/implan-barra-logo-chico-gris.png';
     protected $opciones     = array(
         'Mesa 1' => array(
-            'Mesa 1 > Programación'  => 'mesa-1/programacion.html',
-            'Mesa 1 > Orden del día' => 'mesa-1/orden-dia.html',
+            'Mesa 1 > Datos Generales' => 'mesa-1/datos-generales.html',
+            'Mesa 1 > Programación'    => 'mesa-1/programacion.html',
+            'Mesa 1 > Orden del día'   => 'mesa-1/orden-dia.html',
             'Mesa 1 > Comités Técnicos'     => array(
                 'Mesa 1 > Buen Gobierno'          => 'mesa-1/ct-buen-gobierno.html',
                 'Mesa 1 > Desarrollo Económico'   => 'mesa-1/ct-desarrollo-economico.html',
@@ -41,8 +42,9 @@ class NavegacionConfig {
                 'Mesa 1 > Movilidad y Transporte' => 'mesa-1/ct-movilidad-transporte.html',
                 'Mesa 1 > S. y Medio Ambiente'    => 'mesa-1/ct-sustentabilidad-medio-ambiente.html')),
         'Mesa 2' => array(
-            'Mesa 2 > Programación'  => 'mesa-2/programacion.html',
-            'Mesa 2 > Orden del día' => 'mesa-2/orden-dia.html',
+            'Mesa 2 > Datos Generales' => 'mesa-2/datos-generales.html',
+            'Mesa 2 > Programación'    => 'mesa-2/programacion.html',
+            'Mesa 2 > Orden del día'   => 'mesa-2/orden-dia.html',
             'Mesa 2 > Comités Técnicos'     => array(
                 'Mesa 2 > Buen Gobierno'          => 'mesa-2/ct-buen-gobierno.html',
                 'Mesa 2 > Desarrollo Económico'   => 'mesa-2/ct-desarrollo-economico.html',
@@ -51,8 +53,9 @@ class NavegacionConfig {
                 'Mesa 2 > Movilidad y Transporte' => 'mesa-2/ct-movilidad-transporte.html',
                 'Mesa 2 > S. y Medio Ambiente'    => 'mesa-2/ct-sustentabilidad-medio-ambiente.html')),
         'Mesa 3' => array(
-            'Mesa 3 > Programación'  => 'mesa-3/programacion.html',
-            'Mesa 3 > Orden del día' => 'mesa-3/orden-dia.html',
+            'Mesa 3 > Datos Generales' => 'mesa-3/datos-generales.html',
+            'Mesa 3 > Programación'    => 'mesa-3/programacion.html',
+            'Mesa 3 > Orden del día'   => 'mesa-3/orden-dia.html',
             'Mesa 3 > Comités Técnicos'     => array(
                 'Mesa 3 > Buen Gobierno'          => 'mesa-3/ct-buen-gobierno.html',
                 'Mesa 3 > Desarrollo Económico'   => 'mesa-3/ct-desarrollo-economico.html',

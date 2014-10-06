@@ -54,7 +54,7 @@ class Programacion extends \Base\Publicacion {
         //
         // Contenido en un archivo markdown
         //
-        $this->contenido  = $this->cargar_archivo_markdown('lib/Mesa3/Programacion.md');
+        $this->contenido  = $this->cargar_archivo_markdown_extra('lib/Mesa3/Programacion.md');
         $this->javascript = '';
     } // constructor
 
