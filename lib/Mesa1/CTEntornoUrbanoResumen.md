@@ -1,2 +1,0 @@
-
-### Se insertará una síntesis
