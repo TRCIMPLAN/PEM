@@ -55,7 +55,7 @@ class CTBuenGobierno extends \Base\Publicacion {
         // Definir lenguetas
         //
         $lenguetas = new \Base\Lenguetas();
-        $lenguetas->agregar('miembros',     'Miembros',     $this->cargar_archivo_markdown('lib/Mesa1/CTBuenGobiernoMiembros.md'));
+        $lenguetas->agregar('miembros',     'Miembros',     $this->cargar_archivo_markdown_extra('lib/Mesa1/CTBuenGobiernoMiembros.md'));
         $lenguetas->agregar('diagnostico',  'Diagnóstico',  $this->cargar_archivo_markdown_extra('lib/Mesa1/CTBuenGobiernoDiagnostico.md'));
         $lenguetas->agregar('conclusiones', 'Conclusiones', $this->cargar_archivo_markdown('lib/Mesa1/CTBuenGobiernoConclusiones.md'));
         $lenguetas->agregar('minuta',       'Minuta',       $this->cargar_archivo_markdown('lib/Mesa1/CTBuenGobiernoMinuta.md'));
