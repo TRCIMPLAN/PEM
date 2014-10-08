@@ -55,11 +55,11 @@ class CTEntornoUrbano extends \Base\Publicacion {
         // Definir lenguetas
         //
         $lenguetas = new \Base\Lenguetas();
-        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown('lib/Mesa1/CTEntornoUrbanoMiembros.md'));
-        $lenguetas->agregar('diagnostico', 'Diagnóstico', $this->cargar_archivo_markdown_extra('lib/Mesa1/CTEntornoUrbanoDiagnostico.md'));
+        $lenguetas->agregar('miembros',     'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa1/CTEntornoUrbanoMiembros.md'));
+        $lenguetas->agregar('diagnostico',  'Diagnóstico', $this->cargar_archivo_markdown_extra('lib/Mesa1/CTEntornoUrbanoDiagnostico.md'));
         $lenguetas->agregar('conclusiones', 'Conclusiones', $this->cargar_archivo_markdown('lib/Mesa1/CTBuenGobiernoConclusiones.md'));
         $lenguetas->agregar('minuta',       'Minuta',       $this->cargar_archivo_markdown('lib/Mesa1/CTBuenGobiernoMinuta.md'));
-        $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown('lib/Mesa1/CTEntornoUrbanoMultimedia.md'));
+        $lenguetas->agregar('multimedia',   'Multimedia',  $this->cargar_archivo_markdown('lib/Mesa1/CTEntornoUrbanoMultimedia.md'));
         //
         // El contenido HTML y el JavaScript
         //
