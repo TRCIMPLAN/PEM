@@ -31,11 +31,10 @@
 * Juan José Córdova
 * Ricardo Segura
 * Gabriel Aguirre Barousse
-* Fracisco Adame
-* Uribe
+* Francisco Adame Uribe
 * Olivia Martínez Leyva
 * Miguel Mery Ayup
-* Maria del Rosario Castro Lozano
+* María del Rosario Castro Lozano
 * Gerardo Alberto Katsicas Ramos
 * Juan Samudio
 * Rosa Velia Quezada Fierro
@@ -44,10 +43,11 @@
 * Diana Cecilia Torres
 * Gerardo Rivera
 * Arturo Gallegos
-* Victor Manuel Ortega Muñoz
+* Víctor Manuel Ortega Muñoz
 * Alfonso Taffoya
 * Miguel Ángel Ordaz
-* Raul Perez Robles
+* Raúl Pérez Robles
 * Sotero Jaquez Esparza
+
 
 </div></div>
