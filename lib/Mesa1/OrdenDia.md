@@ -8,7 +8,7 @@ Programado | Real  | Evento
      10:15 |  9:56 | **Dinámica del taller** – Indicadores
      10:45 | 10:19 | **Ejercicio de diagnóstico por mesas** (Principales Problemas y causas/agravantes)
      11:45 | 11:53 | **Receso**
-     12:00 |       | Explicación de dinámica
+     12:00 | 12:11 | **Explicación de dinámica**
      12:05 |       | Ejercicio Grupal de Diagnóstico (Intermesas)
      12:30 |       | Revisión de aportaciones
      13:00 |       | Ejercicio individual de futuro tendencial
