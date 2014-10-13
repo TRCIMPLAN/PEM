@@ -1,4 +1,8 @@
 
-### Se insertarán las fotografías, audios y otros archivos
+### Diagrama Ishikawa
 
-<a href="ct-buen-gobierno/diagrama.jpg"><img src="ct-buen-gobierno/diagrama-previa.jpg"></a>
+<a href="ct-buen-gobierno/diagrama.jpg"><img class="contenido-imagen" src="ct-buen-gobierno/diagrama-previa.jpg"></a>
+
+### Fotografías
+
+

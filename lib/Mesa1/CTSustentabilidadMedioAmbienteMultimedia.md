@@ -1,4 +1,4 @@
 
-### Se insertarán las fotografías, audios y otros archivos
+### Diagrama Ishikawa
 
-<a href="ct-sustentabilidad-medio-ambiente/diagrama.jpg"><img src="ct-sustentabilidad-medio-ambiente/diagrama-previa.jpg"></a>
+<a href="ct-sustentabilidad-medio-ambiente/diagrama.jpg"><img class="contenido-imagen" src="ct-sustentabilidad-medio-ambiente/diagrama-previa.jpg"></a>

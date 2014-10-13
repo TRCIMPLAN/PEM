@@ -1,4 +1,4 @@
 
-### Se insertarán las fotografías, audios y otros archivos
+### Diagrama Ishikawa
 
-<a href="ct-desarrollo-social/diagrama.jpg"><img src="ct-desarrollo-social/diagrama-previa.jpg"></a>
+<a href="ct-desarrollo-social/diagrama.jpg"><img class="contenido-imagen" src="ct-desarrollo-social/diagrama-previa.jpg"></a>
