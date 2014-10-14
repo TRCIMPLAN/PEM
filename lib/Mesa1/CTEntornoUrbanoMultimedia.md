@@ -1,8 +1,4 @@
 
-### Diagrama Ishikawa
-
-<a href="ct-entorno-urbano/diagrama.jpg"><img class="contenido-imagen" src="ct-entorno-urbano/diagrama-previa.jpg"></a>
-
 ### Fotografías
 
 <a href="fotos-guillermo/41.jpg"><img class="contenido-imagen" src="fotos-guillermo/41-previa.jpg"></a>

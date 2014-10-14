@@ -105,5 +105,3 @@ Llego el primer miembro de la mesa Oscar Muller y posteriormente el resto de la 
 * **BENJAMIN**: 4 – Falta de infraestructura: (no hay y no sirve si no se tiene).
 * **ANA OLGA**:  1 – Falta de vocación (Se tiene que saber que se requeire y se tiene para saber el futuro de cada ciudad).
 * **LEOPOLDO**: 3 – Marco regulatorio.
-
-### Agradecimiento y despedida

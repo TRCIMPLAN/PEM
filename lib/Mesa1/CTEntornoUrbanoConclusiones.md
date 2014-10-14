@@ -1,4 +1,8 @@
 
+### Diagrama Ishikawa
+
+<a href="ct-entorno-urbano/diagrama.jpg"><img class="contenido-imagen" src="ct-entorno-urbano/diagrama-previa.jpg"></a>
+
 ### Grandes Temas
 
 * Deficiente infraestructura
@@ -17,7 +21,6 @@
     * no mantenimiento de infraestructura
     * falta de normas tecnicas
     * manejo de aguas pluviales
-
 * Baja densidad
     * especulacion de tierra
     * crecimiento desarticulado
@@ -26,13 +29,11 @@
     * definicion, difusion y conciencia
     * costo del suelo
     * falta de politicas publicas
-
 * Falta de espacio publico
     * falta de planeacion
     * especulacion
     * reglamentacion y aplicación estricta, vigilancia
     * no creacion y mantenimiento ausente en los servicios existentes y privatizacion del espacio publico
-
 * Deficiente aplicación y observancia de planes y reglamentos
     * falta de autoridad
     * falta de coordinacion entre autoridades
@@ -43,7 +44,6 @@
     * poder legal para vigilar
     * regulacion de la transformacion del espacio y fortalecimiento de la infraestructura en poblaciones antes rurales rodeadas por mancha urbana
     * actualizar normas y reglamentos
-
 * Colonias y barrios abandonada
     * inseguridad
     * no regulacion

@@ -1,4 +1,8 @@
 
+### Diagrama Ishikawa
+
+<a href="ct-buen-gobierno/diagrama.jpg"><img class="contenido-imagen" src="ct-buen-gobierno/diagrama-previa.jpg"></a>
+
 ### Grandes Temas
 
 * Marco Jurídico Metropolitano (Reconocido por los Congresos)
@@ -14,7 +18,6 @@
     * Falta de coordinación intermunicipal
     * Falta de un Mecanismo para revocación de funcionarios
     * Falta de mecanismo institucional para la formulación de Políticas Públicas y Gobernanza
-
 * Ausencia de Servicio Civil de Carrera (a nivel Federal, Estatal y Municipal)
     * Amiguismo y Compadrazgo
     * Discrecionalidad en el nombramiento de los puestos públicos
@@ -22,7 +25,6 @@
     * Falta de capacidad del personal del gobierno
     * Falta de evaluación al desempeño de las funciones públicas
     * Falta de creación de capital humano
-
 * Deficiente Transparencia y rendición de cuentas
     * Falta de cultura democrática y voluntad política
     * Corrupción
@@ -31,14 +33,12 @@
     * Falta de rendición de cuentas
     * Marco normativo de rendición de cuentas a Ciudadanos y no solo a Congresos o Regidores
     * Excesivo gasto en gobiernos, elecciones y dependencias (transparencia en ello)
-
 * Falta de mecanismos eficientes de participación ciudadana
     * Falta de interés ciudadano
     * Falta de voluntad política
     * Falta de integración autoridad y ciudadanía
     * Falta de marco jurídico para hacer obligación la participación ciudadana
     * Enfoques anacrónicas e ineficientes de ejercer la autoridad. Faltan procesos participativos.
-
 * Fala de Planeación Municipal a largo plazo
     * Falta de organismos de planeación que orienten el desarrollo
     * Falta de creación de capital humano (basado en la educación)

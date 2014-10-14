@@ -90,10 +90,6 @@
 * Vanesa comenso con la platica diceindo de la impunidad, de la falta de seguridad de la gente. El grupo se empezó con la votación de los puntos de mayor relevancia para el grupo en genral. Los puntos votados fueron: salud, seguridad, educación, cultura, grupos vunerables.
 * Cada uno fue nombrando el numero de prioridad dentro de su criteri, el cual fueron nombrando cada uno el numero dado y de ahí forjar el criterio de mayor relevancia para todo el grupo. Dando al 5 el mayorgrado de necesidad, al 1 lo menor.
 
-### Puesta en común de futuro tendencial
-
-### Conclusión
-
 ### Agradecimiento y despedida
 
 * Semilla como grupo, crecer con gente valiosa, se quiere c¿mantener el contacto, manar el proyecto de cada uno, estadísticas,  logrsos, para poder enterasrse de las cosas buenas que se están realzando.
