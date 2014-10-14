@@ -1,22 +1,22 @@
 
 ### Motorización
 
-* De 2000 a 2014 los vehículos motorizados registrados en circulación creció más del 100% (gráfica 1.1 y 1.2)
+* De 2000 a 2014 los vehículos motorizados registrados en circulación creció más del 100% (gráfica 1)
 * Una de las principales fuentes de emisión en la Comarca es la de fuentes móviles; éstas contribuyen con el 98% del total de las emisiones de CO2, seguido de los NOx y los COV con un 35% y 44% respectivamente. La principal razón para la magnitud de estasemisiones es el consumo de combustibles fósiles (gasolinas y diésel).
 * Para el caso de los compuestos orgánicos volátiles (COV) los vehículos pick up y los autos particulares, representan la mayor contribución para este contaminante con un 72% del total de las emisiones provenientes de esta fuente.
 * La proyección de habitantes para la Torreón se calcula para el año 2030 en aproximadamente 798,014 habitantes, con una tasa de crecimiento anual de 1.25%, teniendo dentro de 16 años (2030) un acumulado de 24% más de habitantes que los actuales.
 * En cambio los vehículos motorizados para el 2030 se estarían duplicando, en Torreón pasaría de 226 vehículos por cada mil habitantes, a 501  vehículos por cada mil, es decir, 1 de cada 2 torreonenses usaría un coche, trayendo como consecuencia incremento del consumo energético, aumento de contaminación atmosférica, disminución de seguridad vial, aumento de los costos de congestión, exclusión social, ocupación creciente del espacio. Entre otros.
 
-#### Grafica 1.1
+#### Gráfica 1
 
-#### Grafica 1.2
+<img class="img-responsive" src="ct-movilidad-transporte/proyeccion-vehiculos-registrados-zml.png" alt="Proyección de Vehículos Registrados en la Zona Metropolitana de La Laguna">
 
 ### Movilidad intermunicipal
 
 * La población ocupada de la Zona Metropolitana Laguna se distribuye fuera de su municipio de residencia de la siguiente forma: 4 % de los trabajadores de Torreón trabajan en otro municipio de la ZML, 20 % de los matamorenses, 12 % de los gomezpalatinos y 28 % de los lerdenses. Esto nos señala una dinámica intermunicipal en vivienda y trabajo.
 * De la población ocupada que labora en otro municipio que no es donde vive la distribución es la siguiente:
 
-#### Tabla 2.2 Municipio donde trabajan:
+#### Tabla 1 Municipio donde trabajan:
 
 Personas       | Torreón | Gómez Palacio | Matamoros |  Lerdo | Fuera de ZML
 ---------------|--------:|--------------:|----------:|-------:|-------------:
@@ -33,7 +33,7 @@ Elaboración propia con datos de INEGI 2010
 
 La ciudad de Torreón cuenta con aproximadamente 281.85 km de longitud entre vialidades principales, vialidades secundarias y vialidades periféricas que soportan un total de 1,818,952 viajes diarios* repartidos entre los modos de transporte más significativos:
 
-#### Tabla 3.1 Incluye viajes de la población de Matamoros y se considera 2.5 viajes por persona. 2011. Logit.
+#### Tabla 2 Incluye viajes de la población de Matamoros y se considera 2.5 viajes por persona. 2011. Logit.
 
 Medio de transporte | Cantidad       | Porcentaje
 --------------------|---------------:|-----------:
@@ -49,9 +49,11 @@ Bicicleta           |  34,196 viajes |       1.8%
 * La ciudad de Torreón cuenta con 281 km longitudinales de vialidades principales, secundarias y periféricas y 0.50 km de vialidades peatonales (únicamente dos calles).
 * En el caso de Torreón la mitad de las manzanas cuenta con una infraestructura completa (pavimento y banquetas), ya que los vehículos y lo peatones pueden circular aparentemente sin contratiempos (se considera la existencia o no de la infraestructura, no el estado físico actual). Es decir 5,249 manzanas cuentan con todas sus vialidades pavimentadas y con banquetas y sólo 577 manzanas no cuentan con pavimento ni banqueta en sus vialidades.
 
+#### Gráfica 2
+
 <img class="img-responsive" src="ct-movilidad-transporte/accesibilidad.png" alt="Accesibilidad">
 
-* Al observar la correlación entre la existencia Grafica 4.1  de pavimento y banquetas, se detecta un patrón que se repite en las cuatro ciudades: la accesibilidad a las banquetas es más limitada que el acceso a vialidades pavimentadas.
+* Al observar la correlación entre la existencia Gráfica 2  de pavimento y banquetas, se detecta un patrón que se repite en las cuatro ciudades: la accesibilidad a las banquetas es más limitada que el acceso a vialidades pavimentadas.
 
 ### Accesibilidad para personas con discapacidad
 
