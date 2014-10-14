@@ -1,52 +1,30 @@
 
-<div class="row"><div class="col-md-6" markdown="1">
+### Coordinador, asesor y secretario
 
-### Coordinador
-
-**Ignacio Chong**
-
-### Asesor
-
-**Susana Montano**
-
-### Secretario
-
-**Jair Miramontes**
-
-
-</div><div class="col-md-6" markdown="1">
+Función     | Título | Nombre Completo          | Institución/Empresa
+------------|-------:|--------------------------|---------------------
+Coordinador |        | Ignacio Chong López
+Asesor      |        | Susana Montano           | IMPLAN Torreón
+Secretario  |        | Jair Miramontes          | IMPLAN Torreón
 
 ### Expertos Invitados
 
-* Luis Rey Delgado
-* José Armando García Triana
-* Guillermo Morales Aguilar
-* Arturo Vaca Duran
-* Rafael Rodríguez Martínez
-* Gonzalo G. García
-* Celso Manuel Valencia
-* Areli Magdiel López
-* Víctor Manuel Cabrera
-* Francisco Valdés Perezgasga
-* Ignacio Chong López
-* Iván Gutiérrez/ Dely Ramírez
-* Diana Susana Estens De La Garza
-* Jesús Mario Castrillón
-* Agustín Gonzales Grant
-* Glenda Aimeé Quintero Carrillo
-* Gladys Aguirre Balza
-* Antonio Chincoya Carmona 
-* Fernando Hasso Almaguer
-* María Susana García Veyna
-* Refugio Loya
-* Lucio Silva
-* Gregorio Ruiz
-* Sergio Gutiérrez R.
-* Virginia Camacho
-* Juan Carlos Mota
-* Luis Fernando Montano
-* Servando Zarate Muñoz
-* Gerardo Alba Castillo
-* Mauro Esparza Flores
-
-</div></div>
+Título | Nombre Completo                  | Institución/Empresa              | Puesto
+------:|----------------------------------|----------------------------------|---------------
+       | Agustin Gonzales Grant
+       | Areli López Montelongo
+       | Armando Jáuregui Díaz
+       | Dely Ramírez Sánchez
+       | Francisco Valdés Perezgasga
+       | Glagys Aguirre Balza
+       | Gonzalo García Vargas
+       | Luis Fernando Montano Durán
+       | Ma. Del Refugio Loya
+       | Manuel Valencia Castro
+       | María Susana García Veyna
+       | Sergio Aguilera
+       | Sergio Raúl Guitiérrez Rocha
+       | Servando Zarate Muñoz
+       | Susana Estens
+       | Víctor de León Hernández
+       | Virginia Camacho Armendariz

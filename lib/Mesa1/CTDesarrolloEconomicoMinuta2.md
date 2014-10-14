@@ -1,11 +1,9 @@
-
-### Registro
-
-* Excelente respuesta a la convocatorio, hubo necesidad de utilizar otra mesa de trabajo.
+Hora de incicio: 9:13 am
+Hora de fin: 1:34 pm
 
 ### Bienvenida
 
-* Abrió el inicio de las actividades el presídium con palabras de: Miguel Mery Ayup, Eduardo Holguin, Antonio Chong.
+* Abrió el inicio de las actividades el presídium con palabras de: Miguel Mery Ayup, Eduardo Holguin, Ignacio Chong.
 
 ### Inauguración
 
@@ -87,16 +85,12 @@
 * Se integraron al diagrama de Ishikawa las aportaciones adicionales.
 * Nota: **Miri Armendáriz B**: pide impulsar su proyecto de NO BASURA en casas.
 
-### Ejercicio individual de futuro tendencial (ponderación)
+### Puesta en común de futuro tendencial y conclusiones
 
 * Los participantes realizaron sus aportaciones en el formato de futuro tendencial
 * Puesta en común de futuro tendencial
     * Los problemas críticos valorados en la mesa es la falta de una clara definición de vocación regional y la voluntad y decisión gubernamental para la ejecución de programas.
     * Se optó por entregar las aportaciones por escrito al haber poco consenso.
-
-### Conclusión
-
-* No hubo conclusiones
 
 ### Agradecimiento y despedida
 

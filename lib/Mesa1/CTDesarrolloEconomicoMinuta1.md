@@ -1,17 +1,15 @@
-
-### Registro
-
-Llego el primer miembro de la mesa Oscar Muller y posteriormente el resto de la mesa, con buen orden y una excelente disposición de todos los miembros, se disponen en llegar, anotarse en la lista y esperar a la hora de la bienvenida del magno evento.
+Hora de incicio: 9:14 am
+Hora de fin: 1:32 pm
 
 ### Bienvenida
 
-* **EDUARDO HOLGUIN**: El Lic. Holguin habla sobre OCD sobre el tema de hacer un gobierno más diferente, con modalidad, donde la sociedad participe, un gobierno de los ciudadanos, gobierno en gobernanza, que se construya sobre los liderazgos, gobernanza que se sustente en la sustentabilidad.
+* El Lic. Holguin habla sobre OCD sobre el tema de hacer un gobierno más diferente, con modalidad, donde la sociedad participe, un gobierno de los ciudadanos, gobierno en gobernanza, que se construya sobre los liderazgos, gobernanza que se sustente en la sustentabilidad.
     * Que la gobernanza, se centre a los ciudadanos a todos, estudiantes, profesionistas, políticos etc.
     * Tiene 4 características, *El primero juntar a las 4 ciudades de la metrópoli, *Carácter ciudadano *Involucrar estrategias, iniciativas * Establecer parámetros de prioritarios.
-    * El plan dará seguimiento a una ruta y un diagnostico,  el primer taller se pretende lograr un diagnostico, un análisis de los proyectos.
+    * El plan dará seguimiento a una ruta y un diagnostico,  el primer taller se pretende lograr un diagnóstico, un análisis de los proyectos.
     * Los ciudadanos son el actor principal de la Laguna.
-* **IGNACIO CHONG**: Habla sobre el comienzo de la Laguna sobre los últimos 10 o 15 años que se tenía una planeación y no funciono por no involucrar a los ciudadanos.
-    * El IMPLAN Sera para servir de base para el plan metropolitano. Y que el instituto tenga autonomía propia por siempre.
+* **IGNACIO CHONG**: Habla sobre el comienzo de la Laguna sobre los últimos 10 o 15 años que se tenía una planeación y no funcionó por no involucrar a los ciudadanos.
+    * El IMPLAN Será para servir de base para el plan metropolitano. Y que el instituto tenga autonomía propia por siempre.
     * El IMPLAN es de todos.
 * **MIGUEL MERY**: Saluda a todos los miembros de la sala. En la administración del actual alcalde se trabajo para que se tuviera cambios en reglamentos con ayuda de la ciudadanía. Y en esta administración se trabaja en indicadores. Y en apoyar medios como el metro bus en el rubro de la movilidad.
     * La política se construye con todos unidos y se trabajen en conjunto con la ciudadanía.
@@ -19,7 +17,7 @@ Llego el primer miembro de la mesa Oscar Muller y posteriormente el resto de la 
 
 ### Inauguración
 
-* Mariana da la palabra al Lic. Holguín el cual presenta a Rafael Pérez y comienza a presentarse y en dar conceptos de resultados del trabajo que se ha hecho en el IMPLAN León.
+* Mariana Segovia da la palabra al Lic. Holguín el cual presenta a Rafael Pérez y comienza a presentarse y en dar conceptos de resultados del trabajo que se ha hecho en el IMPLAN León.
 * Y sobre que se ha consolidado en León sobre los proyectos.
 
 ### Conceptos básicos
@@ -28,17 +26,11 @@ Llego el primer miembro de la mesa Oscar Muller y posteriormente el resto de la 
 
 ### Dinámica del taller – indicadores
 
-* **Rodrigo**: da la explicación de los indicadores de los ejes de gobierno, dando los datos sobre la cultura, educación, gobierno, sustentabilidad etc.
+* **Rodrigo González**: da la explicación de los indicadores de los ejes de gobierno, dando los datos sobre la cultura, educación, gobierno, sustentabilidad etc.
 
 ### Ejercicio de diagnóstico por mesas (Principales problemas y causas/agravantes)
 
 * **Leopoldo**: da la instrucción a las 10:22 am para que todos los miembros de la mesa puedan hacer su lista con los 5 problemas que invaden en Desarrollo Económico.
-
-### Explicación de dinámica
-
-* Las personalidades de la mesa terminan con toda la información del llenado de los problemas que a cada uno de los miembros se les pidió que llenaran para posteriormente se coloquen en el pescado.
-
-### Ejercicio Grupal de Diagnóstico (Intermesas)
 
 * **GERARDO**: habla sobre el sector industrial
 * **Juan Jose**: habla sobre la falta de agua y falta de infraestructura ferroviaria
@@ -77,6 +69,15 @@ Llego el primer miembro de la mesa Oscar Muller y posteriormente el resto de la 
 * **JAVIER**: Hacer a lo que tenemos, agua tierra y gente y no se cuenta con una rentabilidad.
     * Gente que no paga impuestos con castigos para.
 
+### Explicación de dinámica
+
+* Las personalidades de la mesa terminan con toda la información del llenado de los problemas que a cada uno de los miembros se les pidió que llenaran para posteriormente se coloquen en el pescado.
+
+### Ejercicio Grupal de Diagnóstico (Intermesas)
+
+ * El Arq. Rafael Pérez comenzó las indicaciones seguir, en donde comento que las ideas platicadas con anterioridad de diagnóstico fueron una perspectiva apresurada. Este ejercicio se basa en la  colaboración  de las diferentes mesas para el enriquecimiento desde otro punto de vista al ya comentado. La dinámica consiste en ponerse de pie, y hacer un recorrido entre las  con una rotación a la derecha el grupo se pondrá enfrente, revisar la mesa siguiente, poner nombre y el número de problema al cual harán referencia. Tres minutos en cada mesa, al mismo tiempo se moverán, que no se queden las personas para la fácil movilidad delos grupos. Se moverá a las personas cada 3 minutos, en donde el control será riguroso con el tiempo para no propiciar el desorden. Además se deberá incluir a la recorrida la aportación a la propia mesa.
+
+
 ### Revisión de aportaciones
 
 * Leopoldo da la pauta para las aportaciones de todos los miembros de las mesas, el más participativo es Javier Garza y se unió Jaime Russek y Javier Álvarez son los más participativos en el llenado de el pescado.
@@ -88,11 +89,10 @@ Llego el primer miembro de la mesa Oscar Muller y posteriormente el resto de la 
     * AGREGAR INSFRESTRUCTURA PARA DISCAPACITADOS.
     * 3 LA LEY DEL IMPULSO DEL EMPRENDEDOR.
 
-### Puesta en común de futuro tendencial
+### Puesta en común de futuro tendencial y conclusiones
 
 12:55: Se disponen todos los miembros de la mesa a este ejercicio en adecuado orden.
 
-### Conclusión
 
 * 1:15 **Leopoldo** se dispone a dar la órden para la dinámica en dar las conclusiones del ejercicio, cada uno comienza a hablar.
 * **JAVIER**: 2 - La falta de cultura de emprendimiento (Propone un valor extra para los emprendedores con ayuda y apoyo del gobierno).

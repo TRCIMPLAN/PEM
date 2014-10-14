@@ -1,3 +1,6 @@
+Hora de incicio: 9:12 am
+Hora de fin: 1:35 pm
+
 
 ### Bienvenida
 
@@ -92,11 +95,11 @@ Plan estratégico metropolitano. A los gobernantes se les conoce por sus amigos 
 * **Leticia Castaño** (Diputada electa): 
 	- desencanto al pormayor por falta de trabajo de todos de no hacer las cosas.
     - Los servidores públicos siguen siendo ciudadanos. Servicio civil de carrera. Evitar trámites largos de los que se hablaron planeación metroplitana homologación de reglamentos que ya se están haciendo (20 renovados) ¿en qué se pueden poner de acuerdo los gobiernos de la zona metroplitana? en reglamentos.
-    - Que los ciudadanos que pasan a ser servidores se les olvida su estado de ciudadadanía. se pierde el compromiso. “aunque estemos desencantados, no aflojarle” que empezemos ahorita para que dentro de 20 años, las próximas generaciones cosechen lo que ahorita sembramos. para que haya corrupción se necesitan dos partes: gobierno y ciudadanos.
+    - Que los ciudadanos que pasan a ser servidores se les olvida su estado de ciudadadanía. Se pierde el compromiso. “aunque estemos desencantados, no aflojarle” que empezemos ahorita para que dentro de 20 años, las próximas generaciones cosechen lo que ahorita sembramos. para que haya corrupción se necesitan dos partes: gobierno y ciudadanos.
     - Los valores los aprendemos en casa, no es una tarea gubernamental.
     - Servicio civil de carrera y que el IMPLAN se fortalezca.
 * **Regidor Roberto Rodríguez:** 
-	- Un problema que no está en la lista del centro: lo que no está prohibido en la constitución está permitido para los estados. un marco jurídico. “hay que darle dientes al IMPLAN” que funcione independientemente de los partidos y administraciones.
+	- Un problema que no está en la lista del centro: lo que no está prohibido en la constitución está permitido para los estados. un marco jurídico. “Hay que darle dientes al IMPLAN” que funcione independientemente de los partidos y administraciones.
     - Que el IMPLAN tenga posibilidades de gestión en cuestión de usos de suelo y zonificación. y garantía presupuestal.
     - Que tenga las facultades que ante cualquier uso de suelo, licencia de construcción haya un dictamen del IMPLAN.
     - Problema histórico de corrupción como país.
@@ -172,16 +175,19 @@ Plan estratégico metropolitano. A los gobernantes se les conoce por sus amigos 
 * Presupuestos ciudadanos.
 * Nulos presupuestos participativos. ciudadano supervise, participe
 
-### Ejercicio individual de futuro tendencial (ponderación)
+###  Puesta en común de futuro tendencial y conclusciones
 
-* Puesta en común de futuro tendencial
-* **Aguirre**: urgente atacar marco jurídico. todo es importante, pero lo que es trasendente es tener las herramientas jurídicas de hacer que esto funcione metropolitanamente.
+* **Aguirre**: urgente atacar marco jurídico. Todo es importante, pero lo que es trasendente es tener las herramientas jurídicas de hacer que esto funcione metropolitanamente.
 * **Regidor Roberto Rodríguez**: marco jurídico
 * **Rafael**: marco jurídico
-* **Miguel Ángel de la Rosa**: solo 4 zonas metropolitanas son iguales a la laguna en el país. y más similares: la ciudad de méxico y la laguna. el gob federal debe dar trato preferencial por sus condiciones de estar en 2 estados diferentes (df en 3). gobernanza, que exista la autoridad metropolitana. como hacer para que esta vez si valga la pena “y no venir a engordar el caldo”. mas alla de la foto y del diploma.
+* **Miguel Ángel de la Rosa**: solo 4 zonas metropolitanas son iguales a la laguna en el país. y más similares: la ciudad de méxico y la laguna. El gobierno federal debe dar trato preferencial por sus condiciones de estar en 2 estados diferentes (df en 3). Gobernanza, que exista la autoridad metropolitana. Como hacer para que esta vez si valga la pena “y no venir a engordar el caldo”. Más allá de la foto y del diploma.
 * **Marcos Ezequiel Solis Vega**: marco jurídico.
 * **Miguel Mery Ayup**: marco jurídico. planeación, ausencia civil de carrera, transparencia y al final participación ciudadana. partir del fortalecimiento del marco jurídico, se fortalece la institución de gobierno, en donde participe la sociedad.
-* **Luis Felipe Rodriguez**: falta de planeación a largo plazo. como segundo elemento, marco jurídico. si se cumplen las primeras dos, por default se dan las otras.
-* **Juan Antonio**: vender la idea. ganarse la voluntad política que permita que el IMPLAN sea un proyecto que trascienda. este “bache” se puede superar con estos instrumentos.
+* **Luis Felipe Rodriguez**: falta de planeación a largo plazo. Como segundo elemento, marco jurídico. Si se cumplen las primeras dos, por default se dan las otras.
+* **Juan Antonio**: vender la idea. Ganarse la voluntad política que permita que el IMPLAN sea un proyecto que trascienda. Este “bache” se puede superar con estos instrumentos.
 * **Raúl Medina Martinez**: darle certeza al IMPLAN, si no le da, se acaba.
 * Se retiraron Ricardo Segura, Crespo, Eduardo Castañeda y Marcos Zamarripa.
+
+### Agradecimiento y Despedida
+
+Se agradece por su participación y se entregan reconocimientos.

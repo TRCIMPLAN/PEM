@@ -55,7 +55,8 @@ class CTDesarrolloEconomico extends \Base\Publicacion {
         // Definir lenguetas
         //
         $lenguetas = new \Base\Lenguetas();
-        $lenguetas->agregar('miembros',      'Miembros',       $this->cargar_archivo_markdown_extra('lib/Mesa1/CTDesarrolloEconomicoMiembros.md'));
+        $lenguetas->agregar('miembros1',     'Miembros 1',     $this->cargar_archivo_markdown_extra('lib/Mesa1/CTDesarrolloEconomicoMiembros1.md'));
+        $lenguetas->agregar('miembros2',     'Miembros 2',     $this->cargar_archivo_markdown_extra('lib/Mesa1/CTDesarrolloEconomicoMiembros2.md'));
         $lenguetas->agregar('diagnostico',   'Diagnóstico',    $this->cargar_archivo_markdown_extra('lib/Mesa1/CTDesarrolloEconomicoDiagnostico.md'));
         $lenguetas->agregar('conclusiones1', 'Conclusiones 1', $this->cargar_archivo_markdown('lib/Mesa1/CTDesarrolloEconomicoConclusiones1.md'));
         $lenguetas->agregar('conclusiones2', 'Conclusiones 2', $this->cargar_archivo_markdown('lib/Mesa1/CTDesarrolloEconomicoConclusiones2.md'));

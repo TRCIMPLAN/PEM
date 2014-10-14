@@ -1,7 +1,5 @@
-
-### Registro
-
-* El registro empezó a partir de las 8:30am y finalizó a las 9:11am.
+Hora de incicio: 9:12 am
+Hora de fin: 1:35 pm
 
 ### Bienvenida
 
@@ -17,11 +15,14 @@
 ### Inauguración
 
 * Se inaguro el taller a las 9:33
-* Se presenta a Rafael pérez, dando principios básicos en queretaro y león Guanajuato de planes asesor de Tijuana y los cabos en toda la republica .
+* Se presenta a Rafael pérez, dando principios básicos en Querétaro y León Guanajuato de planes asesor de Tijuana y los cabos en toda la republica .
 * Ejercicios para tomar decisiones importantes.
 
 ### Conceptos básicos
+* **Rafael Pérez** comienza a dar las instrucciones que son las 6 mesas y cuales son cada una. Un dato sobre Cozumel y la unión de 60 organismos que firmaron para el desarrollo de la entidad.
 
+
+### Dinámica del taller – indicadores
 * Ejercicio de visión: hacer estos grandes pasos: elaboración de diagnostico pronostico, armar unn gran grupo de colaboración, segunda parte un taller para el 30 de octubre, visión de largo plazo, misión del rumbo, tercer taller, 27 de noviembre, lo que funciona son proyectos con lideres sociales empujando.  Se platico sobre los proyectos liderados por ciudadanos , ampliar el grupo d epesonas . formas para que se de ña participación,
 * Se toco el tema de la inseguridad , trabajostecnicos consultas de paticipacion ciudadan, se meciona los temas del implan desarrollo económico, buen gobierno, desarrollo social, sustentabilidad, entorno urbano y movilidad, grupo promotor estará lleno de og¿rganizaciones y personas para apoyar el plan,
 * Conceptos básicos, los planes no son académicos, es una imagen simultanea en donde se imple,ent el diagnostico, y otros el proyecto en dodne se están ejecutando aorita, cosas operativas funcionando en l momento, mientras otros investigan como las universidades, reconocer que en este momento esta sucediendo todo al mismo tiempo, plasmar las investigaciones proyectos, para reconocer la simultaneidad de los procesos. Lo que se trabaja el dia de hoy recoipilar la idea de lo que a sucedi do en el tiempo, cuales osn los grandes problemas que se han ido acumulando para atenderlos, priemra parte será definir los 5 problemas , para saber a que nos enfrentaremos dentro de 10 años,  mejorar los diagnosticos del implan.
@@ -33,45 +34,44 @@
 * Movilidad: en los próximos años se duplicara el numero de vehículos, en donde se meciona que la infraestuctura no puede duplicarse, por lo que seria un problema. Accesibilidad en las banquetas, que hay mas pavimento que en las banquetas, donde se prioriza los vehículos, rampas déficit de ellas, atropellamiento de peatones.
 * Entorno urbana. Existe una dispersión en la población, 45 mil viviendas desabitadas,  buena ocbertura de servicios públicos, solo 2% tiene déficit de esos recursos.
 
-### Dinámica del taller – indicadores
+### Ejercicio de diagnóstico por mesas (Principales problemas y causas/agravantes)
 
 * Se comienza con el tema de seguridad
-* Ampliando el criterio. En educación.
-* El género no se toco para la aportación dentro de el análisis y problemas, equidad de genero, mencionar los problemas, términos fundamentales.
-* **Salvador**: Que lo ptemaso los puntos del implan que queden a la vista en segunda ronda se evualue la problemática qe s¿presenta el implan, atención a victimas, para tener unpanorama para complementar, contexto de los temas para complementarobesidad problemas de salud que conlleva, en donde se ponderara los diferentes temas o ámbitos que mas interesan.  En donde se meciona los puntos mas débiles como la cultura.
-* **Sra jimenez**: según los ámbitos  abordar los temas en los que se se plantea la subdivisión por áreas y dentro de ellos se discutiranlos problemas . se empezó la con la divison de escuelas, cultura, y salud, asociaciones ,
-* Se dividio el grupo en grupos que abrrcan temas desde cultura, salud y escuelas, universidades, en donde se están discutiendo con una visión panorámica sobre los diferentes problemas existentes
-* Ejercicio de diagnóstico por mesas (Principales problemas y causas/agravantes)
-* Sección de cultura se mencionaran los 5 puntos a considerar entre todos que se deberán atender en el ámbito de desarrollo social, se se dara lectura alas 5 problemas de cada grupp que se toamron en cuenta , en le ámbito de cultura el grupo de cultura, en el centro histórico de torreón se necesita el restade de identirdad cultural solo existe muy pocos centro su+culturales , como museos beneficios para la atracción delos turistas en le desarrollo de la ciudad.
-* Grand rresago de los centro de la ciudad urge la población demanda la población inversión de centro culturasles kmuseoe y tatros, mayor inversión para proyectos culturalas y propuestas en tosdos los sectores de áreas rurales yurbanas.
-* Mayor municipio de embarazos de adolescente, que serán tratadas en estos centros, por falta de tener estos espacios, que exista uncatalogo de inah para señalizar los espacios turísticos de la ciudad, ya que no existe señalitica para los turistas, proponen señalitica para llegar alos puntos señora Ruth
-* Salud, **Raquel**: Resago educativo que atender para las personas que no tienen acceso a una educación, no existen estrategias para apoyar este acceso, eetapa del bachillerato se complica, en la región lagunera en cieslag, 32 universidades se tiene una gran oferta educatica, fomec 70 universidades en la región, considerado una problemática ya que no se tiene la capacidad para que estas instituciones atiendan a la cantidd de alumnos, comercializar en los sectores educativos, desarrollo de la snuevas tecnologías, implementar las en la educación, utilizarlas a favor para poder incrememtnat el numero de personas a atender, área de oportunidad ese espacio.
-* Tranformacion del espacio social, escuelas que antes constituain la ciudad comunitaria, las escuelas quedan como organización oncompleta, debido ala movilidad de las áreas rurales, necesidad de articulación con los programas sociales, culturasles, para que la sociedad se integre en las escuelas, en el espacio urbano.
+* Ampliando el criterio en educación.
+* El género no se toco para la aportación dentro de el análisis y problemas, equidad de género, mencionar los problemas, términos fundamentales.
+* **Salvador**: Que los temas sonlos puntos del IMPLAN que queden a la vista en segunda ronda se evualue la problemática que presenta el IMPLAN, atención a víctimas, para tener un panorama para complementar, contexto de los temas para complementar obesidad problemas de salud que conlleva, en donde se ponderará los diferentes temas o ámbitos que más interesan.  En donde se meciona los puntos mas débiles como la cultura.
+* **Sra jimenez**: según los ámbitos  abordar los temas en los que se se plantea la subdivisión por áreas y dentro de ellos se discutiran los problemas. Se empezó con la divison de escuelas, cultura, y salud, asociaciones.
+* Se dividió el grupo en grupos que abarcan temas desde cultura, salud y escuelas, universidades, en donde se están discutiendo con una visión panorámica sobre los diferentes problemas existentes
+* Sección de cultura se mencionaran los 5 puntos a considerar entre todos que se deberán atender en el ámbito de desarrollo social, se se dará lectura a los 5 problemas de cada grupo que se tomaron en cuenta, en le ámbito de cultura el grupo de cultura, en el centro histórico de Torreón se necesita el rescate de identidad cultural solo existe muy pocos centros culturales , como museos beneficios para la atracción de los turistas en le desarrollo de la ciudad.
+* Gran resago de los centro de la ciudad,  urge la inversión de centros culturales museoe y teatros, mayor inversión para proyectos culturales y propuestas en todos los sectores de áreas rurales y urbanas.
+* **Ruth** Es el mayor municipio de embarazos de adolescente, que serán tratadas en estos centros, por falta de tener estos espacios, que exista un catálogo de una para señalizar los espacios turísticos de la ciudad, ya que no existe señalitica para los turistas, proponen señalitica para llegar alos puntos. 
+* **Raquel**Salud: Resago educativo que atender para las personas que no tienen acceso a una educación, no existen estrategias para apoyar este acceso, eetapa del bachillerato se complica, en la región lagunera en cieslag, 32 universidades se tiene una gran oferta educatica, fomec 70 universidades en la región, considerado una problemática ya que no se tiene la capacidad para que estas instituciones atiendan a la cantidd de alumnos, comercializar en los sectores educativos, desarrollo de la snuevas tecnologías, implementar las en la educación, utilizarlas a favor para poder incrementar el número de personas a atender, área de oportunidad ese espacio.
+* Tranformación del espacio social, escuelas que antes constituían la ciudad comunitaria, las escuelas quedan como organización incompleta, debido a la movilidad de las áreas rurales, necesidad de articulación con los programas sociales, culturales, para que la sociedad se integre en las escuelas, en el espacio urbano.
 * **Cecilia**: ayuda en la lectura de problemas, se dio la indicación de la próxima educación.
 * El profesor dio la indicación de los problemas que tiene y de esa forma priorizar sus problemas mas en forma que se priorizen
-* Grupos vulnerables: falta de estos en cuanto a violencia siquiátricos, de especialidades a enferemdades de alto índice de cáncer, perspectiva de genero, inclusión social, se finalizo las ideas del grupo ya que se conjuntaron con las ideas de otros.
-* Salud, el municipio es no saludable, el señor manuel comento que se modificara lo necesario a sus paportaciones de la ciudadanía, para que se tome en cuenta la participación de la gente. Criterio que sigue se debe ser un municipio promotor de la salud, falta mas promoción de la salud,dentro de los criterios se han mencionado . lograr que el municipio entre en el sector de municipio.
-* Indicadores de seguirdad. Alineación del municipio con el mundo,
-* **Maestra. Lus Jimenez.**: Restringir o enunciar solo para que paresca en la grafica que exista un compromiso del implan para lograr un ejercicio consciente.
-* **Vanesa Blanca**: inversión para espacios culturales y artísticos, donde se atiendad problemasticas asistenciasles en el área metropolitana.
+* Grupos vulnerables: falta de estos en cuanto a violencia psiquiátricos, de especialidades a enferemdades de alto índice de cáncer, perspectiva de género, inclusión social, se finalizó las ideas del grupo ya que se conjuntaron con las ideas de otros.
+* **Mauel** Salud: el municipio es no saludable, se modificará lo necesario a sus aportaciones de la ciudadanía, para que se tome en cuenta la participación de la gente. Criterio que sigue se debe ser un municipio promotor de la salud, falta mas promoción de la salud, dentro de los criterios se han mencionado lograr que el municipio entre en el sector de municipio.
+* Indicadores de seguirdad. Alineación del municipio con el mundo.
+* **Maestra Luz Jimenez.**: Restringir o enunciar solo para que parezca en la gráfica que exista un compromiso del IMPLAN para lograr un ejercicio consciente.
+* **Vanesa Blanca**: inversión para espacios culturales y artísticos, donde se atiendan problemáticas asistenciasles en el área metropolitana.
 * Se empezara a pasar al boceto de donde se pondrán los diferentes problemas citados por los diferentes grupos hechos.
 * El señor **Manuel** paso de parte de salud en donde su problema es municipio no saludable, además de lograr un indicador mundial.
 * **Marco Zamarripa**: marco regulatorio , castigo hacer a las autoridades para la solución del problema
-* **Mayela**: movilidad priorirar no se a logrado.
-* En cultura **Vanesa** paso a portar lo comentado en donde , para ellos el principal problema es la riego en la infraestructura cultural.
+* **Mayela**: movilidad priorizar no se a logrado.
+* En cultura **Vanesa** paso a portar lo comentado en donde , para ellos el principal problema es la riegso en la infraestructura cultural.
 * Otro problema para el grupo de las universidades,  redactado es la necesidad de fortalecer la vocación educativa de la región.
 * Para los centros vulnerables: se encuentra la falta de centros de atención especializados para grupos vulnerables.
 * **Marco Zamarripa**: dentro de la seguridad se indico la falta de policía de proximidad. Desconfianza en las autoridades políticas.
-* El equipo empezó con su presentación: en donde cada uno menciono su nombre y el instituto o grupo donde trabajan. Empresas o instituciones, regidores.
+* El equipo empezó con su presentación: en donde cada uno mencionó su nombre y el instituto o grupo donde trabajan. Empresas o instituciones, regidores.
+* Se explico la dinamica en donde se produjo la conclusión de que era un grupo muy fuerte en los diferentes puntos los cuales fueron fuertes puntos estretegicos. Ya que cada uno deellos son un fuerte fundación o asiacion escuela que aportaron muy buenas propuestas de problemas, solomente que hiso falta el tema de deporte.
+* El señor **Manuel Morán** empezó con la designación de indicadores, que es una meta que el implan deba de concretar, en su largo mediano o corto plazo.  En base ala base de datos del ISO 18091:2014 Enfoque y fundamentos. Enfocado en el desarrollo social influyente.  Que no menciona sobre el sistema integral de diagnostico, evaluación verificación de gobiernos locales confiables.
 
 ### Explicación de dinámica
 
-* Se explico la dinamica en donde se produjola conclusión de que era un grupo muy fuerte en los diferentes puntos los cuales fueron fuertes puntos estretegicos. Ya que cada uno deellos son un fuerte fundación o asiacion escuela que aportaron muy buenas propuestas de problemas, solomente que hiso falta el tema de deporte.
-* El señor **Manuel Morán** empezó con la designación de indicadores, que es una meta que el implan deba de concretar, en su largo mediano o corto plazo.  En base ala base de datos del ISO 18091:2014 Enfoque y fundamentos. Enfocado en el desarrollo social influyente.  Que no menciona sobre el sistema integral de diagnostico, evaluación verificación de gobiernos locales confiables.
-
+* El señor Rafael Pérez comenzó las indicacionesa seguir, en donde comento que las ideas platicadas con anterioridad de diagnóstico fueron una perspectiva apresurada.
+* 
 ### Ejercicio Grupal de Diagnóstico (Intermesas)
 
-* El señor Rafael Pérez comenzó las indicacionesa seguir, en donde comento que las ideas platicadas con anterioridad de diagnóstico fueron una perspectiva apresurada.
 * Este ejercicio se basa en la  colaboración  de las diferentes mesas para el enriquecimiento desde otro punto de vista al ya comentado.
 * La dinámica consiste en ponerse de pie, y hacer un recorrido entre las  con una rotación a la derecha el grupo se pondrá enfrente, revisar la mesa siguiente, poner nombre y el número de problema al cual harán referencia.
 * Tres minutos en cada mesa, al mismo tiempo se moverán, que no se queden las personas para la fácil movilidad delos grupos.
@@ -84,12 +84,13 @@
 * Fortalecer compromisos sociales, promover gente .
 * En la mesa de cultura, Vanesa, empieza la platica sobre la genteinformada que se identifican con diferentes temas cmo la cultura del deporte, se empieza a informar acercarte, y de esa forma acercar y que tipo de proyectos  tenemos para fomentar la cultura dentro de la ciudad.
 
-### Ejercicio individual de futuro tendencial (ponderación)
+### Puesta en común de futuro tendencial y conclusiones
 
-* Se llenara el formato de futiro probable en el cual las personas tendrán que llenarlo de acuerdo a el problema propuesto.  En base al criterio de cada uno. El señor salvador comento el orden de los problemas, la cuestión de salud, después la seguridad y el tercer lugar la infraestructura educativa. Mayela, la salud prioritaria, creación deun centro psiquiátrico, porque en la zona metropolitana no cuenta con uno, seguridad, grupos vunerables 3 y cultura  como 2.
-* Vanesa comenso con la platica diceindo de la impunidad, de la falta de seguridad de la gente. El grupo se empezó con la votación de los puntos de mayor relevancia para el grupo en genral. Los puntos votados fueron: salud, seguridad, educación, cultura, grupos vunerables.
-* Cada uno fue nombrando el numero de prioridad dentro de su criteri, el cual fueron nombrando cada uno el numero dado y de ahí forjar el criterio de mayor relevancia para todo el grupo. Dando al 5 el mayorgrado de necesidad, al 1 lo menor.
+* Se llenó el formato de futuro probable en el cual las personas tendrán que llenarlo de acuerdo a el problema propuesto.  En base al criterio de cada uno. El señor salvador comento el orden de los problemas, la cuestión de salud, después la seguridad y el tercer lugar la infraestructura educativa. 
+* **Mayela**, la salud prioritaria, creación deun centro psiquiátrico, porque en la zona metropolitana no cuenta con uno, seguridad, grupos vunerables 3 y cultura  como 2.
+* **Vanesa** comenzó con la platica diciendo de la impunidad, de la falta de seguridad de la gente. El grupo empezó con la votación de los puntos de mayor relevancia para el grupo en genral. Los puntos votados fueron: salud, seguridad, educación, cultura, grupos vunerables.
+* Cada uno fue nombrando el número de prioridad dentro de su criterio, el cual fueron nombrando cada uno el número dado y de ahí forjar el criterio de mayor relevancia para todo el grupo. Dando al 5 el mayor grado de necesidad, al 1 lo menor.
 
-### Agradecimiento y despedida
+### Agradecimiento y despedida 
 
 * Semilla como grupo, crecer con gente valiosa, se quiere c¿mantener el contacto, manar el proyecto de cada uno, estadísticas,  logrsos, para poder enterasrse de las cosas buenas que se están realzando.

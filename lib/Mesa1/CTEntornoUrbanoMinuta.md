@@ -1,40 +1,50 @@
+Hora de incicio: 9:14 am
+Hora de fin: 1:36 pm
+
+### Bienvenida
+
+Se abrió el inicio de las actividades  en el presídium con palabras de el Lic. Eduardo Holguin, Ignacio Chong y Miguel Mery Ayup.
 
 ### Inauguración
 
-* Lic. Miguel Mery ayup da por inaugurado el taller
+* Lic. Miguel Mery Ayup da por inaugurado el taller.
 
 ### Conceptos básicos
+
+* **Rafael Pérez** comienza a dar las instrucciones que son las 6 mesas y cuales son cada una. Un dato sobre Cozumel y la unión de 60 organismos que firmaron para el desarrollo de la entidad.
+
+### Dinámica del taller – indicadores
 
 * Rodrigo explica indicadores generales de cada mesa
 * Estructura de participación para la integración del plan estratégico metropolitano
 * Estructura de planeación participativa
 * Grupo promotor a final del plan, este este lleno de logotipos
 * Proceso de gestión integral
-* Presentación de indicadores, de las
 
-### Dinámica del taller – indicadores
+### Ejercicio de diagnóstico por mesas (Principales problemas y causas/agravantes)
 
 * Crecimiento de la mancha urbana
 * Usos de suelo de las 14000 hc, 14% habitacional 32% vialidades, 85% de inversión del fondo metropolitano se va para vialidades, industrial 10%.
 * 8000 hectareas para crecer que no tienen servicios publicos(reservas)para crecimiento urbano, áreas verdes 3%- Javier ramos salas
 * IDENTIFICACION DE PROBLEMAS:
     * Ejercicio de diagnóstico por mesas (Principales problemas y causas/agravantes)
-    * transporte publico
-    * conectividad
-    * deficiencia de infraestructura
-    * imagen urbana y recuperación de edificios
-    * espacios públicos
-    * revisar reglamentos y su cumplimientos
-    * baja densidad
-    * áreas verdes
-    * articulación física/puentes entre torreón gomez
-    * manejo de susos de suelo
-    * viviendas deshabitadas
-    * rescatar el centro histórico
-    * equivocada prioridad del auto sobre el peaton
-    * no integración de crecimiento urbano con servicios y transporte
-    * falta de reservas territoriales
-    * parques industriales
+    * Transporte publico
+    * Conectividad
+    * Deficiencia de infraestructura
+    * Imagen urbana y recuperación de edificios
+    * Espacios públicos
+    * Revisar reglamentos y su cumplimientos
+    * Baja densidad
+    * Áreas verdes
+    * Articulación física/puentes entre torreón gomez
+    * Manejo de susos de suelo
+    * Viviendas deshabitadas
+    * Rescatar el centro histórico
+    * Equivocada prioridad del auto sobre el peaton
+    * No integración de crecimiento urbano con servicios y transporte
+    * Falta de reservas territoriales
+    * Parques industriales
+    
 * Elaboración del diagrama
 * Problemas:
     1. Deficiente infraestructura
@@ -49,13 +59,22 @@
     4. Deficiente aplicación y observancia de planes y reglamentos
     5. Colonias y barrios abandonados
 * Falta de espacios verdes, constructoras deberían tener área verde centralizada y no dispersa arq. Victor hugo torres
-* Falta de cultura en vivienda vertical arq.mario talamas
+* Falta de cultura en vivienda vertical **Arq.mario Talamas**
 
 ### Explicación de dinámica
 
 * Grupos se colocan frente a su diagrama y van rotando haciendo aportaciones
 
 ### Ejercicio Grupal de Diagnóstico (Intermesas)
+
+* Este ejercicio se basa en la  colaboración  de las diferentes mesas para el enriquecimiento desde otro punto de vista al ya comentado.
+* La dinámica consiste en ponerse de pie, y hacer un recorrido entre las  con una rotación a la derecha el grupo se pondrá enfrente, revisar la mesa siguiente, poner nombre y el número de problema al cual harán referencia.
+* Tres minutos en cada mesa, al mismo tiempo se moverán, que no se queden las personas para la fácil movilidad delos grupos.
+* Se moverá a las personas cada 3 minutos, en donde el control será riguroso con el tiempo para no propiciar el desorden.
+* Además se deberá incluir al recorrida la aportación a la propia mesa.
+
+
+### Revisión de aportaciones
 
 * Aportaciones de ideas a las demás mesas
 * Revisión de aportaciones
@@ -71,6 +90,11 @@
 * Falta de infraestructura para personas con discapacidad
 * Se concluyo con la clasificación de las aportaciones
 
-### Ejercicio individual de futuro tendencial (ponderación)
+### Puesta en común de futuro tendencial y conclusiones
 
 * Los participantes ven el diagrama y de cada problema ponen 3 cosas que pasarían si el problema no se atiende en 10 años, y dan prioridad, el 5 es el mas importante y el 1 es el menos.
+
+
+### Agradecimiento y despedida 
+
+el Coordinador y Asesor dan las gracias a los participantes y entregan los diplomas.
