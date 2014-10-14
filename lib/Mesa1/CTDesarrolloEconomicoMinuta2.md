@@ -1,19 +1,19 @@
-Hora de incicio: 9:13 am
-Hora de fin: 1:34 pm
+* Hora de inicio: 9:13 am
+* Hora de fin: 1:34 pm
 
 ### Bienvenida
 
-* Abrió el inicio de las actividades el presídium con palabras de: Miguel Mery Ayup, Eduardo Holguin, Ignacio Chong.
+* Abrió el inicio de las actividades el presídium con palabras de: Miguel Mery Ayup, Eduardo Holguín, Ignacio Chong.
 
 ### Inauguración
 
-* El evento fue inaugurado por Miguel Mery Ayup a nombre del presidente municipal Miguel Angel Riquelme.
+* El evento fue inaugurado por Miguel Mery Ayup a nombre del presidente municipal Miguel Ángel Riquelme.
 
 ### Conceptos básicos
 
 * Etapas del plan estrategias estratégico: elaboración del diagnóstico, planeación de visión, objetivos y estrategias, integración de cartera de proyectos, comunicación del plan estratégico.
 * Los que ha funcionado más que los planes estratégicos son los grupos de ciudadanos promotores de cada proyecto de los mismos.
-* La estructura de participación, busca una amplio consenso para darle sustento a largo plazo, en mayor medida de lo posible, buscar garantizar con liderazgo, reglamento, etc.
+* La estructura de participación, busca un amplio consenso para darle sustento a largo plazo, en mayor medida de lo posible, buscar garantizar con liderazgo, reglamento, etc.
 * Invitación a formar el grupo promotor.
 * La planeación es un proceso de etapas simultáneas, no es lineal.
 * Definición de planeación de prospectiva a través de la información del pasado prospectada a futuro
@@ -27,7 +27,7 @@ Hora de fin: 1:34 pm
 * De manera consensada por unanimidad de  opiniones se comentó lo siguiente:
 * Baja productividad en los demás sectores
 * Carreras educativas no demandas por el sector
-* Falta de incentivos y estímulos / Falta de empresas / Falta de apoyo para el emprendedurismo
+* Falta de incentivos y estímulos / Falta de empresas / Falta de apoyo para emprendedores
 * Falta de inversión empresarial
 * Infraestructura (hospedaje industrial)
 * Falta de confianza del empresario para decidir invertir

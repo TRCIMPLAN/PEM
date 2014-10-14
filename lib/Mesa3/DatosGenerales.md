@@ -1,5 +1,4 @@
 
 ### Proyectos Estratégicos
 
-* Lugar: __POR DEFINIR__
-* Fecha: __POR DEFINIR__
+* Fecha: **27 noviembre 2014**

@@ -1,5 +1,5 @@
 
-### Coordinador, asesor y secretario
+### Coordinador, Asesor y Secretario
 
 Función     | Título | Nombre Completo                | Institución/Empresa
 ------------|-------:|--------------------------------|---------------------

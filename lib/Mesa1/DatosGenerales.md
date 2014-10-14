@@ -1,7 +1,7 @@
 
 ### Invitación
 
-<img class="img-responsive" src="datos-generales/invitacion.jpg" alt="Invitacion">
+* Fecha: **9 octubre 2014**
+* Lugar: Sala Magna, ETLAC, **ITESM Campus Laguna**
 
-* Lugar: Sala Magna, ETLAC, ITESM campus Laguna
-* Fecha: 9 octubre 2014
+<img class="img-responsive" src="datos-generales/invitacion.jpg" alt="Invitacion">

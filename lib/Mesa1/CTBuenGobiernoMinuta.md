@@ -1,5 +1,5 @@
-Hora de incicio: 9:12 am
-Hora de fin: 1:35 pm
+* Hora de incio: 9:12 am
+* Hora de fin: 1:35 pm
 
 
 ### Bienvenida

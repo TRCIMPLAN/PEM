@@ -35,7 +35,7 @@ class Fotos extends \Base\Publicacion {
      */
     public function __construct() {
         // Título, autor y fecha con el formato AAAA-MM-DD
-        $this->nombre        = 'Fotos';
+        $this->nombre        = 'Fotografías';
      // $this->autor         = 'Autor';
         $this->fecha         = '2014-10-01';
         // El nombre del archivo a crear (obligatorio), la ruta a la imagen previa y el encabezado (opcionales). Use minúsculas, números y/o guiones medios.
@@ -48,13 +48,16 @@ class Fotos extends \Base\Publicacion {
         $this->categorias    = array('Mesa 1', 'Fotos');
         // Directorio desde la raiz del sitio donde se depositará y opción activa de NavegacionConfig
         $this->directorio    = 'mesa-1';
-        $this->nombre_menu   = 'Mesa 1 > Fotos';
+        $this->nombre_menu   = 'Mesa 1 > Fotografías';
         // El estado ordena a Imprenta e Índice si debe 'publicar', 'revisar' o 'ignorar'
         $this->estado        = 'publicar';
         //
         // Contenido en un archivo markdown
         //
         $this->contenido  = <<<FINAL
+<a href="fotos-rodrigo/02.jpg"><img class="contenido-imagen" src="fotos-rodrigo/02-previa.jpg"></a>
+<a href="fotos-victor/02.jpg"><img class="contenido-imagen" src="fotos-victor/02-previa.jpg"></a>
+
 <a href="fotos-guillermo/01.jpg"><img class="contenido-imagen" src="fotos-guillermo/01-previa.jpg"></a>
 <a href="fotos-guillermo/02.jpg"><img class="contenido-imagen" src="fotos-guillermo/02-previa.jpg"></a>
 <a href="fotos-guillermo/03.jpg"><img class="contenido-imagen" src="fotos-guillermo/03-previa.jpg"></a>
@@ -68,19 +71,20 @@ class Fotos extends \Base\Publicacion {
 
 <a href="fotos-guillermo/11.jpg"><img class="contenido-imagen" src="fotos-guillermo/11-previa.jpg"></a>
 <a href="fotos-guillermo/12.jpg"><img class="contenido-imagen" src="fotos-guillermo/12-previa.jpg"></a>
-<a href="fotos-guillermo/13.jpg"><img class="contenido-imagen" src="fotos-guillermo/13-previa.jpg"></a>
-<a href="fotos-guillermo/14.jpg"><img class="contenido-imagen" src="fotos-guillermo/14-previa.jpg"></a>
 <a href="fotos-guillermo/15.jpg"><img class="contenido-imagen" src="fotos-guillermo/15-previa.jpg"></a>
-<a href="fotos-guillermo/16.jpg"><img class="contenido-imagen" src="fotos-guillermo/16-previa.jpg"></a>
 <a href="fotos-guillermo/17.jpg"><img class="contenido-imagen" src="fotos-guillermo/17-previa.jpg"></a>
 <a href="fotos-guillermo/18.jpg"><img class="contenido-imagen" src="fotos-guillermo/18-previa.jpg"></a>
 <a href="fotos-guillermo/19.jpg"><img class="contenido-imagen" src="fotos-guillermo/19-previa.jpg"></a>
-<a href="fotos-guillermo/20.jpg"><img class="contenido-imagen" src="fotos-guillermo/20-previa.jpg"></a>
 
 <a href="fotos-guillermo/21.jpg"><img class="contenido-imagen" src="fotos-guillermo/21-previa.jpg"></a>
-<a href="fotos-guillermo/22.jpg"><img class="contenido-imagen" src="fotos-guillermo/22-previa.jpg"></a>
 <a href="fotos-guillermo/23.jpg"><img class="contenido-imagen" src="fotos-guillermo/23-previa.jpg"></a>
 <a href="fotos-guillermo/24.jpg"><img class="contenido-imagen" src="fotos-guillermo/24-previa.jpg"></a>
+
+<a href="fotos-rodrigo/01.jpg"><img class="contenido-imagen" src="fotos-rodrigo/01-previa.jpg"></a>
+
+<a href="fotos-victor/01.jpg"><img class="contenido-imagen" src="fotos-victor/01-previa.jpg"></a>
+<a href="fotos-victor/05.jpg"><img class="contenido-imagen" src="fotos-victor/05-previa.jpg"></a>
+
 <a href="fotos-guillermo/25.jpg"><img class="contenido-imagen" src="fotos-guillermo/25-previa.jpg"></a>
 <a href="fotos-guillermo/26.jpg"><img class="contenido-imagen" src="fotos-guillermo/26-previa.jpg"></a>
 <a href="fotos-guillermo/27.jpg"><img class="contenido-imagen" src="fotos-guillermo/27-previa.jpg"></a>
@@ -102,8 +106,6 @@ class Fotos extends \Base\Publicacion {
 <a href="fotos-guillermo/50.jpg"><img class="contenido-imagen" src="fotos-guillermo/50-previa.jpg"></a>
 
 <a href="fotos-guillermo/51.jpg"><img class="contenido-imagen" src="fotos-guillermo/51-previa.jpg"></a>
-<a href="fotos-guillermo/52.jpg"><img class="contenido-imagen" src="fotos-guillermo/52-previa.jpg"></a>
-<a href="fotos-guillermo/53.jpg"><img class="contenido-imagen" src="fotos-guillermo/53-previa.jpg"></a>
 <a href="fotos-guillermo/54.jpg"><img class="contenido-imagen" src="fotos-guillermo/54-previa.jpg"></a>
 <a href="fotos-guillermo/59.jpg"><img class="contenido-imagen" src="fotos-guillermo/59-previa.jpg"></a>
 <a href="fotos-guillermo/60.jpg"><img class="contenido-imagen" src="fotos-guillermo/60-previa.jpg"></a>
@@ -119,28 +121,11 @@ class Fotos extends \Base\Publicacion {
 <a href="fotos-guillermo/69.jpg"><img class="contenido-imagen" src="fotos-guillermo/69-previa.jpg"></a>
 <a href="fotos-guillermo/70.jpg"><img class="contenido-imagen" src="fotos-guillermo/70-previa.jpg"></a>
 
-<a href="fotos-guillermo/72.jpg"><img class="contenido-imagen" src="fotos-guillermo/72-previa.jpg"></a>
-<a href="fotos-guillermo/73.jpg"><img class="contenido-imagen" src="fotos-guillermo/73-previa.jpg"></a>
-<a href="fotos-guillermo/74.jpg"><img class="contenido-imagen" src="fotos-guillermo/74-previa.jpg"></a>
-<a href="fotos-guillermo/75.jpg"><img class="contenido-imagen" src="fotos-guillermo/75-previa.jpg"></a>
-<a href="fotos-guillermo/76.jpg"><img class="contenido-imagen" src="fotos-guillermo/76-previa.jpg"></a>
-<a href="fotos-guillermo/77.jpg"><img class="contenido-imagen" src="fotos-guillermo/77-previa.jpg"></a>
 <a href="fotos-guillermo/78.jpg"><img class="contenido-imagen" src="fotos-guillermo/78-previa.jpg"></a>
-<a href="fotos-guillermo/79.jpg"><img class="contenido-imagen" src="fotos-guillermo/79-previa.jpg"></a>
 <a href="fotos-guillermo/80.jpg"><img class="contenido-imagen" src="fotos-guillermo/80-previa.jpg"></a>
 
 <a href="fotos-guillermo/81.jpg"><img class="contenido-imagen" src="fotos-guillermo/81-previa.jpg"></a>
-<a href="fotos-guillermo/82.jpg"><img class="contenido-imagen" src="fotos-guillermo/82-previa.jpg"></a>
-<a href="fotos-guillermo/83.jpg"><img class="contenido-imagen" src="fotos-guillermo/83-previa.jpg"></a>
-<a href="fotos-guillermo/84.jpg"><img class="contenido-imagen" src="fotos-guillermo/84-previa.jpg"></a>
-<a href="fotos-guillermo/85.jpg"><img class="contenido-imagen" src="fotos-guillermo/85-previa.jpg"></a>
-<a href="fotos-guillermo/86.jpg"><img class="contenido-imagen" src="fotos-guillermo/86-previa.jpg"></a>
 <a href="fotos-guillermo/87.jpg"><img class="contenido-imagen" src="fotos-guillermo/87-previa.jpg"></a>
-<a href="fotos-guillermo/88.jpg"><img class="contenido-imagen" src="fotos-guillermo/88-previa.jpg"></a>
-<a href="fotos-guillermo/89.jpg"><img class="contenido-imagen" src="fotos-guillermo/89-previa.jpg"></a>
-<a href="fotos-guillermo/90.jpg"><img class="contenido-imagen" src="fotos-guillermo/90-previa.jpg"></a>
-
-<a href="fotos-guillermo/91.jpg"><img class="contenido-imagen" src="fotos-guillermo/91-previa.jpg"></a>
 FINAL;
         $this->javascript = '';
     } // constructor

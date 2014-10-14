@@ -1,5 +1,4 @@
 
 ### Visión, Diagnóstico Estratégico, Objetivos y Estrategias
 
-* Lugar: __POR DEFINIR__
-* Fecha: 30 octubre 2014
+* Fecha: **30 octubre 2014**
