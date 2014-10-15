@@ -1,5 +1,5 @@
 
-### Invitación
+### Mesa 1: Diagnóstico - Pronóstico
 
 * Fecha: **9 octubre 2014**
 * Lugar: Sala Magna, ETLAC, **ITESM Campus Laguna**

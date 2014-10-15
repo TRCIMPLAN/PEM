@@ -1,4 +1,4 @@
 
-### Visión, Diagnóstico Estratégico, Objetivos y Estrategias
+### Mesa 2: Visión, Diagnóstico Estratégico, Objetivos y Estrategias
 
 * Fecha: **30 octubre 2014**

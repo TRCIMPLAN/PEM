@@ -41,7 +41,7 @@ class CTEntornoUrbano extends \Base\Publicacion {
         // El nombre del archivo a crear (obligatorio), la ruta a la imagen previa y el encabezado (opcionales). Use minúsculas, números y/o guiones medios.
         $this->archivo       = 'ct-entorno-urbano';
      // $this->imagen_previa = 'ct-entorno-urbano/imagen-previa.jpg';
-     // $this->encabezado    = '<img class="img-responsive encabezado-imagen" src="ct-entorno-urbano/encabezado.jpg">';
+        $this->encabezado    = '<img class="img-responsive encabezado-imagen" src="ct-entorno-urbano/encabezado.png" alt="Entorno Urbano">';
         // La descripción y claves dan información a los buscadores y redes sociales. Las categorías son de uso interno.
         $this->descripcion   = '';
         $this->claves        = 'IMPLAN, Torreon';
