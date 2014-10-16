@@ -3,7 +3,7 @@
 
 Función     | Título | Nombre Completo          | Institución/Empresa
 ------------|-------:|--------------------------|---------------------
-Coordinador |        |
+Coordinador |        | Cecilia Cardiel          |
 Asesor      | Lic.   | Alfredo Viesca           | IMPLAN Torreón
 Secretario  |        | Melissa                  | IMPLAN Torreón
 
@@ -13,7 +13,6 @@ Título | Nombre Completo                  | Institución/Empresa              |
 ------:|----------------------------------|----------------------------------|---------------
        | Alejandro Ahumada Rodríguez
        | Antonio Valdez Gamboa
-       | Cecilia Cardiel
        | Celsa López Campos
        | Clementina Aguilera Alvarez
        | Edson González Espino

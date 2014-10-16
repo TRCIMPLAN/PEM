@@ -3,7 +3,7 @@
 
 Función     | Título | Nombre Completo                | Institución/Empresa
 ------------|-------:|--------------------------------|---------------------
-Coordinador | Arq.   | Guillermo Sandoval
+Coordinador | Arq.   | Guillermo Sandoval             |
 Asesor      | Lic.   | Luis Gutiérrez                 | IMPLAN Torreón
 Secretario  |        | Ximena Marisol Lozano Castillo | U.A.C.
 

@@ -3,7 +3,7 @@
 
 Función     | Título | Nombre Completo          | Institución/Empresa
 ------------|-------:|--------------------------|---------------------
-Coordinador |        | Ignacio Chong López
+Coordinador |        | Ignacio Chong López      |
 Asesor      |        | Susana Montano           | IMPLAN Torreón
 Secretario  |        | Jair Miramontes          | IMPLAN Torreón
 
