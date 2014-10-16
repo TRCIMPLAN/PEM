@@ -3,33 +3,32 @@
 
 Función     | Título | Nombre Completo          | Institución/Empresa
 ------------|-------:|--------------------------|---------------------
-Coordinador |        | Javier Ramos             |
-Asesor      |        | Teresita Benítez         | IMPLAN Torreón
-Secretario  |        | Daniela Corral           | IMPLAN Torreón
+Coordinador |   Lic. | Javier Ramos             |
+Asesor      |   Arq. | Teresita Benítez         | IMPLAN Torreón
+Secretario  |   Arq. | Daniela Corral           | IMPLAN Torreón
 
 ### Expertos Invitados
 
-Título | Nombre Completo                  | Institución/Empresa              | Puesto
-------:|----------------------------------|----------------------------------|---------------
-       | Alberto Piña Álvarez    		  |
-       | Aldo A. Sandoval Montemayor      |
-       | Alejandro Pimentel               |
-       | Ángela Campo García              |
-       | Arturo Niño de Rivera H.         |
-       | David Montiel Rodríguez          |
-       | Erika Faviola Flores García      |
-       | Gabriel Calvillo Ceniceros       |
-       | Gabriela Casale Geeaaa?          |
-       | Gustavo R. De la Vega            |
-       | Javier de la Fuente G.           |
-       | Jorge Alberto Rovalcaba Ochoa    |
-       | José Sánchez Izquierdo           |
-       | Mario Múgica Encerrado           |
-       | Mario Talamás Murra              |
-       | Oscar Murra Cofino               |
-       | Otto Schott                      |
-       | René Mata Macías                 |
-       | Roberto Gutiérrez Reza           |
-       | Ruth Clidé Carranza Gómez        |
-       | Tomás Galván C.                  |
-       | Víctor Hugo Torres Romo          |
+Título | Nombre Completo                  | Institución/Empresa                  | Puesto
+------:|----------------------------------|--------------------------------------|---------------
+ Arq.  | Alberto Piña Álvarez    		  | CMIC                                 |
+ Ing.  | Aldo A. Sandoval Montemayor      | Colegio de Valuadores                | Presidente
+ Arq.  | Alejandro Pimentel               | Constructor                          | Empresario
+       | Ángela Campo García              | Regidores                            | Decimoquinta Regidora                       
+ Arq.  | Arturo Niño de Rivera H.         | CACLAC                               | Empresario
+ Ing.  | David Montiel Rodríguez          | Obras públicas Matamoros             | Líder Sindical
+       | Erika Faviola Flores García      | Represante de la sexta Regidora      | Representante
+ Ing.  | Gabriel Calvillo Ceniceros       | Ordenamiento Territorial y Urbanismo | Director
+       | Gabriela Casale García           | Regidores                            | Sindica
+ Arq.  | Gustavo R. De la Vega            | UIA                                  | Dirección de Arquitectura
+ Arq.  | Javier de la Fuente G.           | URBIS                                | Secretario de la Asociación de Urbanismo Región Monterrey
+ Arq.  | Jorge Alberto Rovalcaba Ochoa    | OFM Arquitectura                     | Empresario
+ Arq.  | José Sánchez Izquierdo           | Consejo Munipal de desarrollo Urbano | Consejero
+ Arq.  | Mario Múgica Encerrado           | Ordenamiento Territorial y Urbanismo | Director de Admin Urbana
+ Arq.  | Mario Talamás Murra              | MTM Taller de arquitectura           | Director
+ Ing.  | Oscar Murra Cofino               | Ciudadano                            | Empresario
+ Arq.  | Otto Schott                      | Ciudadano                            | Empresario
+ Arq.  | René Mata Macías                 | UAC                                  | Profesor
+ Arq.  | Roberto Gutiérrez Reza           |                                      | Representante
+ Arq.  | Tomás Galván C.                  | Urbanismo de Gómez Palacio           | Representante
+ Arq.  | Víctor Hugo Torres Romo          | Colegio de Arquitectos               | Presidente  

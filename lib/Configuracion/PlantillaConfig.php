@@ -27,7 +27,7 @@ namespace Configuracion;
  */
 class PlantillaConfig {
 
-    public $sitio_titulo   = 'IMPLAN Torreón';
+    public $sitio_titulo   = 'Plan Estratégico Metropolitano | IMPLAN Torreón';
     public $sitio_url      = 'http://trcimplan.github.io/PEM';
     public $rss            = 'rss.xml';
     public $favicon        = 'imagenes/favicon.png';

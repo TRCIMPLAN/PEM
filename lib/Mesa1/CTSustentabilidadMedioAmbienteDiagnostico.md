@@ -15,14 +15,14 @@ Fuente: CONAGUA. Estadísticas del Agua, 2011
 
 * La intensidad de extracción de agua a que se ha sometido al acuífero principal sobre todo en la zona urbana y alrededores, donde se encuentran los pozos de abastecimiento para la población ha causado el abatimiento de los niveles freáticos y como consecuencia, la intrusión de agua con altos contenido de sólidos, entre ellos el arsénico y flúor. Ambos contaminantes tienen un cierto grado de toxicidad por lo que representan un riesgo para la salud de los habitantes de la zona metropolitana de La Laguna. EL organismo operador de Torreón (SIMAS) reconoce que más del 25% de los pozos que abastecen a la ciudad tienen niveles de arsénico por encima del límite máximo fijado por la NOM-127-SSA1-1994 (modificada, año 2000), que es de 25 mg/L.
 
-### Emisiones  de contaminantes por Fuentes fijas y fuentes de área
+### Emisiones  de contaminantes por fuentes fijas y fuentes de área
 
 * Las fuentes fijas instaladas en la región de la Comarca Lagunera (industrias de jurisdicción federal y estatal), contribuyen con el 81% del total de SO2 que se emitió a la atmósfera en 2005, con el 66% de las partículas PM10, 69% de las PM2.5 y el 38% de los NOX.  Las 27,378 toneladas de SO2 que se estima fueron emitidas, se deben al uso de combustibles con alto contenido de azufre, principalmente el combustóleo en la generación de energía eléctrica, con una contribución del 97%.
 * Las fuentes de área representan el 37% del total de las emisiones de COV que se emiten en la región, el 31% de las PM10, y el 98% de las emisiones de amoniaco. El principal contaminante emitido por las fuentes de área es el amoniaco, pues se estimó que se emitieron más de 8 mil toneladas durante 2005.
 * La principal contribución en estas emisiones se debe a las actividades de limpieza de superficies industriales con un 25%, seguido por el almacenamiento y distribución de gas LP, y el uso doméstico de solventes con un aporte del 23% y 21%.
 * Otro contaminante que se emite en gran cantidad por las fuentes de área son las PM10; estas fuentes aportan alrededor del 31% del total de las emisiones en la Comarca Lagunera.
 
-### Residuos Sólidos
+### Residuos sólidos
 
 * Anualmente se recolectan 343,285.49 toneladas de basura en la Zona Metropolitana de la Laguna, lo cual equivale aproximadamente a ¼ de tonelada por habitante, inferior a los 430 kilos por persona que se generan en promedio en las 78 Zonas Metropolitanas estudiadas por IMCO. Los rellenos sanitarios de la ZML en conjunto cuentan con una capacidad de 4,963,200 m3.
 * Solo el 10% de la basura generada en Torreón (cartón, papel, PVC, PET, aluminio, chatarra y tetrapack) es reciclada.
@@ -54,7 +54,7 @@ Fuente: Elaboración propia con datos de INEGI Cuaderno estadístico 2008, 2009,
 
 * Según el Programa de parques y bisques urbanos. Informe 2013 de la SEMA, Torreón cuenta con 4.9 m2 de áreas verdes urbanas por habitante y Matamoros con 2.6 m2/hab. Mientras que la OMS recomienda una superficie entre 9 y 12 m2 de distribuidos equitativamente en relación a la densidad de población y, por tanto, de edificación. (Rivas, 2005; SMA, 2014, SEMA2013)
 
-#### Proporción de areas verdes urbanas (AVU) con respecto a la superficie de suelo urbano
+#### Proporción de áreas verdes urbanas (AVU) con respecto a la superficie de suelo urbano
 
 Municipio | Superficie total (ha) | Superficie rural total (ha) |      % | Superficie urbana total (ha) |             m2 |      % | Superficie de AVU totales (SEMA) m2 | AVU respecto al suelo urbano
 ----------|----------------------:|----------------------------:|-------:|-----------------------------:|---------------:|-------:|------------------------------------:|-----------------------------:
@@ -73,7 +73,7 @@ Torreón   |            124,199.75 |                  110,690.11 | 89.12% |     
 
 * De acuerdo a reportes de la Organización de las Naciones Unidas, la Comarca Lagunera es una de las zonas más erosionadas de México. Se ve afectada por dos graves procesos de desertificación, el primero es el sobre-pastoreo que excede en un 400% la capacidad de carga recomendada en la zona, ocasionando la compactación del suelo por el pisoteo del ganado, misma que reduce la capacidad de infiltración del agua al subsuelo e incrementa así los escurrimientos superficiales. El segundo proceso es la deforestación de la Sierra Madre Occidental causada por la tala excesiva. Además de lo anterior, una helada registrada en febrero del 2011 afectó una gran masa vegetal.
 
-### Promedio histórico de temperaturas.
+### Promedio histórico de temperaturas
 
 <img class="img-responsive" src="ct-sustentabilidad-medio-ambiente/promedio-temperaturas.png" alt="Promedio de Temperaturas">
 
