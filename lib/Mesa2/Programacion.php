@@ -37,7 +37,7 @@ class Programacion extends \Base\Publicacion {
         // Título, autor y fecha con el formato AAAA-MM-DD
         $this->nombre        = 'Programación';
      // $this->autor         = 'Autor';
-        $this->fecha         = '2014-10-01';
+        $this->fecha         = '2014-10-17';
         // El nombre del archivo a crear (obligatorio), la ruta a la imagen previa y el encabezado (opcionales). Use minúsculas, números y/o guiones medios.
         $this->archivo       = 'programacion';
      // $this->imagen_previa = 'programacion/imagen-previa.jpg';
@@ -52,10 +52,17 @@ class Programacion extends \Base\Publicacion {
         // El estado ordena a Imprenta e Índice si debe 'publicar', 'revisar' o 'ignorar'
         $this->estado        = 'publicar';
         //
-        // Contenido en un archivo markdown
+        // Definir lenguetas
         //
-        $this->contenido  = $this->cargar_archivo_markdown_extra('lib/Mesa2/Programacion.md');
-        $this->javascript = '';
+        $lenguetas = new \Base\Lenguetas();
+        $lenguetas->agregar('gantt',  'Gantt',  '<img class="img-responsive" src="programacion/gantt.png" alt="Gantt">');
+        $lenguetas->agregar('tareas', 'Tareas', $this->cargar_archivo('lib/Mesa2/Programacion.html'));
+        $lenguetas->agregar('staff',  'Staff',  $this->cargar_archivo('lib/Mesa2/ProgramacionStaff.html'));
+        //
+        // El contenido HTML y el JavaScript
+        //
+        $this->contenido  = $lenguetas->html();
+        $this->javascript = $lenguetas->javascript();
     } // constructor
 
 } // Programacion
