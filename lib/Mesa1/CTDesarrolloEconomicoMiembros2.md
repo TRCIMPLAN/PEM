@@ -4,17 +4,17 @@
 Función     | Título | Nombre Completo          | Institución/Empresa
 ------------|-------:|--------------------------|---------------------
 Coordinador |        | Rafael Rebollar          |
-Asesor      |        | Ilse Ávila               | IMPLAN Torreón
-Secretario  |        | Luly Aranzábal           | IMPLAN Torreón
+Asesor      |   Arq. | Ilse Ávila               | IMPLAN Torreón
+Secretario  |   Arq. | Luly Aranzábal           | IMPLAN Torreón
 
 ### Expertos Invitados
 
 Título | Nombre Completo                    | Institución/Empresa              | Puesto
 ------:|------------------------------------|----------------------------------|---------------
-       | Alejandro H. Pineda
-       | Armando Carlos Rentería
-       | Faruk Sabag
-       | Jaime Russek
-       | Luis Carlos Silva
-       | Maria de la Luz Martinez Hernández
-       | Rogelio Martinez Mojica
+ MC    | Alejandro H. Pineda				| UTT							   | Profesor	
+ Ing.  | Armando Carlos Rentería			| FOMEC						       | Director
+       | Faruk Sabag						| Laguna Bikes	                   | Coordinador	
+       | Jaime Russek						| Desarrollo Económico de la Laguna| Director
+       | Luis Carlos Silva					| CANACINTRA					   | Secretario	
+ Dra.  | Maria de la Luz Martinez Hernández | Sanatorio Español                | 
+       | Rogelio Martinez Mojica			| COECYT    				       | Coordinador

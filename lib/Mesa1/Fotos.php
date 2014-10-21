@@ -58,6 +58,10 @@ class Fotos extends \Base\Publicacion {
 <a href="fotos-rodrigo/02.jpg"><img class="contenido-imagen" src="fotos-rodrigo/02-previa.jpg"></a>
 <a href="fotos-victor/02.jpg"><img class="contenido-imagen" src="fotos-victor/02-previa.jpg"></a>
 
+<a href="fotos-susana/01.jpg"><img class="contenido-imagen" src="fotos-susana/01-previa.jpg"></a>
+<a href="fotos-susana/07.jpg"><img class="contenido-imagen" src="fotos-susana/07-previa.jpg"></a>
+<a href="fotos-susana/09.jpg"><img class="contenido-imagen" src="fotos-susana/09-previa.jpg"></a>
+
 <a href="fotos-guillermo/01.jpg"><img class="contenido-imagen" src="fotos-guillermo/01-previa.jpg"></a>
 <a href="fotos-guillermo/02.jpg"><img class="contenido-imagen" src="fotos-guillermo/02-previa.jpg"></a>
 <a href="fotos-guillermo/03.jpg"><img class="contenido-imagen" src="fotos-guillermo/03-previa.jpg"></a>
