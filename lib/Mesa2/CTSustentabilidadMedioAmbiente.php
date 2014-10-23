@@ -41,7 +41,7 @@ class CTSustentabilidadMedioAmbiente extends \Base\Publicacion {
         // El nombre del archivo a crear (obligatorio), la ruta a la imagen previa y el encabezado (opcionales). Use minúsculas, números y/o guiones medios.
         $this->archivo       = 'ct-sustentabilidad-medio-ambiente';
      // $this->imagen_previa = 'ct-sustentabilidad-medio-ambiente/imagen-previa.jpg';
-     // $this->encabezado    = '<img class="img-responsive encabezado-imagen" src="ct-sustentabilidad-medio-ambiente/encabezado.jpg">';
+        $this->encabezado    = '<img class="img-responsive encabezado-imagen" src="ct-sustentabilidad-medio-ambiente/encabezado.png" alt="Sustentabilidad y Medio Ambiente">';
         // La descripción y claves dan información a los buscadores y redes sociales. Las categorías son de uso interno.
         $this->descripcion   = '';
         $this->claves        = 'IMPLAN, Torreon';
@@ -55,10 +55,10 @@ class CTSustentabilidadMedioAmbiente extends \Base\Publicacion {
         // Definir lenguetas
         //
         $lenguetas = new \Base\Lenguetas();
-        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown('lib/Mesa2/CTSustentabilidadMedioAmbienteMiembros.md'));
-        $lenguetas->agregar('diagnostico', 'Diagnóstico', $this->cargar_archivo_markdown('lib/Mesa2/CTSustentabilidadMedioAmbienteDiagnostico.md'));
-        $lenguetas->agregar('resumen',     'Resumen',     $this->cargar_archivo_markdown('lib/Mesa2/CTSustentabilidadMedioAmbienteResumen.md'));
-        $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown('lib/Mesa2/CTSustentabilidadMedioAmbienteMultimedia.md'));
+        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMiembros.md'));
+        $lenguetas->agregar('tendencias',  'Tendencias',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteTendencias.md'));
+     // $lenguetas->agregar('resumen',     'Resumen',     $this->cargar_archivo_markdown('lib/Mesa2/CTSustentabilidadMedioAmbienteResumen.md'));
+     // $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown('lib/Mesa2/CTSustentabilidadMedioAmbienteMultimedia.md'));
         //
         // El contenido HTML y el JavaScript
         //

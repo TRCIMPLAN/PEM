@@ -65,8 +65,8 @@ class NavegacionConfig {
                 'Mesa 3 > Movilidad y Transporte' => 'mesa-3/ct-movilidad-transporte.html',
                 'Mesa 3 > S. y Medio Ambiente'    => 'mesa-3/ct-sustentabilidad-medio-ambiente.html')));
     protected $iconos = array(
-        'Mesa 1'                    => 'fa fa-calendar',
-        'Mesa 2'                    => 'fa fa-calendar-o',
+        'Mesa 1'                    => 'fa fa-calendar-o',
+        'Mesa 2'                    => 'fa fa-calendar',
         'Mesa 3'                    => 'fa fa-calendar-o',
         'Programación'              => 'fa fa-tasks',
         'Orden del día'             => 'fa fa-list-ol',

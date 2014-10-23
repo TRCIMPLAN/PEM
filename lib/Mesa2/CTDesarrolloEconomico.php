@@ -41,7 +41,7 @@ class CTDesarrolloEconomico extends \Base\Publicacion {
         // El nombre del archivo a crear (obligatorio), la ruta a la imagen previa y el encabezado (opcionales). Use minúsculas, números y/o guiones medios.
         $this->archivo       = 'ct-desarrollo-economico';
      // $this->imagen_previa = 'ct-esarrollo-economico/imagen-previa.jpg';
-     // $this->encabezado    = '<img class="img-responsive encabezado-imagen" src="ct-desarrollo-economico/encabezado.jpg">';
+        $this->encabezado    = '<img class="img-responsive encabezado-imagen" src="ct-desarrollo-economico/encabezado.png" alt="Desarrollo Económico e Innovación">';
         // La descripción y claves dan información a los buscadores y redes sociales. Las categorías son de uso interno.
         $this->descripcion   = '';
         $this->claves        = 'IMPLAN, Torreon';
@@ -55,10 +55,10 @@ class CTDesarrolloEconomico extends \Base\Publicacion {
         // Definir lenguetas
         //
         $lenguetas = new \Base\Lenguetas();
-        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown('lib/Mesa2/CTDesarrolloEconomicoMiembros.md'));
-        $lenguetas->agregar('diagnostico', 'Diagnóstico', $this->cargar_archivo_markdown('lib/Mesa2/CTDesarrolloEconomicoDiagnostico.md'));
-        $lenguetas->agregar('resumen',     'Resumen',     $this->cargar_archivo_markdown('lib/Mesa2/CTDesarrolloEconomicoResumen.md'));
-        $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown('lib/Mesa2/CTDesarrolloEconomicoMultimedia.md'));
+        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloEconomicoMiembros.md'));
+        $lenguetas->agregar('tendencias',  'Tendencias',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloEconomicoTendencias.md'));
+     // $lenguetas->agregar('resumen',     'Resumen',     $this->cargar_archivo_markdown('lib/Mesa2/CTDesarrolloEconomicoResumen.md'));
+     // $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown('lib/Mesa2/CTDesarrolloEconomicoMultimedia.md'));
         //
         // El contenido HTML y el JavaScript
         //
