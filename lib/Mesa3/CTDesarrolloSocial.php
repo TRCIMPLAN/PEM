@@ -55,10 +55,10 @@ class CTDesarrolloSocial extends \Base\Publicacion {
         // Definir lenguetas
         //
         $lenguetas = new \Base\Lenguetas();
-        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown('lib/Mesa3/CTDesarrolloSocialMiembros.md'));
-        $lenguetas->agregar('diagnostico', 'Diagnóstico', $this->cargar_archivo_markdown('lib/Mesa3/CTDesarrolloSocialDiagnostico.md'));
-        $lenguetas->agregar('resumen',     'Resumen',     $this->cargar_archivo_markdown('lib/Mesa3/CTDesarrolloSocialResumen.md'));
-        $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown('lib/Mesa3/CTDesarrolloSocialMultimedia.md'));
+        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa3/CTDesarrolloSocialMiembros.md'));
+    //  $lenguetas->agregar('diagnostico', 'Diagnóstico', $this->cargar_archivo_markdown_extra('lib/Mesa3/CTDesarrolloSocialDiagnostico.md'));
+    //  $lenguetas->agregar('resumen',     'Resumen',     $this->cargar_archivo_markdown_extra('lib/Mesa3/CTDesarrolloSocialResumen.md'));
+    //  $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown_extra('lib/Mesa3/CTDesarrolloSocialMultimedia.md'));
         //
         // El contenido HTML y el JavaScript
         //

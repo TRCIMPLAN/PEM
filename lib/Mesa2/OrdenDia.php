@@ -54,7 +54,7 @@ class OrdenDia extends \Base\Publicacion {
         //
         // Contenido en un archivo markdown
         //
-        $this->contenido  = $this->cargar_archivo_markdown('lib/Mesa2/OrdenDia.md');
+        $this->contenido  = $this->cargar_archivo_markdown_extra('lib/Mesa2/OrdenDia.md');
         $this->javascript = '';
     } // constructor
 

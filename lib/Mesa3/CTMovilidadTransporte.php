@@ -55,10 +55,10 @@ class CTMovilidadTransporte extends \Base\Publicacion {
         // Definir lenguetas
         //
         $lenguetas = new \Base\Lenguetas();
-        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown('lib/Mesa3/CTMovilidadTransporteMiembros.md'));
-        $lenguetas->agregar('diagnostico', 'Diagnóstico', $this->cargar_archivo_markdown('lib/Mesa3/CTMovilidadTransporteDiagnostico.md'));
-        $lenguetas->agregar('resumen',     'Resumen',     $this->cargar_archivo_markdown('lib/Mesa3/CTMovilidadTransporteResumen.md'));
-        $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown('lib/Mesa3/CTMovilidadTransporteMultimedia.md'));
+        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa3/CTMovilidadTransporteMiembros.md'));
+    //  $lenguetas->agregar('diagnostico', 'Diagnóstico', $this->cargar_archivo_markdown_extra('lib/Mesa3/CTMovilidadTransporteDiagnostico.md'));
+    //  $lenguetas->agregar('resumen',     'Resumen',     $this->cargar_archivo_markdown_extra('lib/Mesa3/CTMovilidadTransporteResumen.md'));
+    //  $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown_extra('lib/Mesa3/CTMovilidadTransporteMultimedia.md'));
         //
         // El contenido HTML y el JavaScript
         //
