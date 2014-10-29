@@ -126,9 +126,9 @@ class Navegacion extends \Configuracion\NavegacionConfig {
         $etiqueta = $this->formatear_etiqueta($in_etiqueta);
         // Icono
         if (array_key_exists($etiqueta, $this->iconos)) {
-            $icono = "<span class=\"navegacion-icono\"><i class=\"{$this->iconos[$etiqueta]}\"></i></span>";
+            $icono = "<i class=\"{$this->iconos[$etiqueta]}\"></i>";
         } else {
-            $icono = "<span class=\"navegacion-icono\"><i class=\"fa fa-file-text-o\"></i></span>";
+            $icono = "<i class=\"fa fa-file-text-o\"></i>";
         }
         // Si el URL es absoluto
         if ((strpos($url, 'http://') === 0) || (strpos($url, 'https://') === 0) || (strpos($url, '/') === 0)) {
@@ -154,16 +154,12 @@ class Navegacion extends \Configuracion\NavegacionConfig {
         $a[] = '      <ul class="nav" id="side-menu">';
         // Buscador
         $a[] = '        <li class="sidebar-search">';
-        if ($this->buscador_html != '') {
-            $a[] = $this->buscador_html;
-        } else {
-            $a[] = '          <div class="input-group custom-search-form">';
-            $a[] = '            <input type="text" class="form-control" placeholder="Buscar...">';
-            $a[] = '              <span class="input-group-btn">';
-            $a[] = '                <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>';
-            $a[] = '              </span>';
-            $a[] = '          </div>';
-        }
+        $a[] = '          <div class="input-group custom-search-form">';
+        $a[] = '            <input type="text" class="form-control" placeholder="Buscar...">';
+        $a[] = '              <span class="input-group-btn">';
+        $a[] = '                <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>';
+        $a[] = '              </span>';
+        $a[] = '          </div>';
         $a[] = '        </li>';
         // Bucle por las opciones
         foreach ($this->opciones as $etiqueta => $parametros) {
@@ -171,9 +167,9 @@ class Navegacion extends \Configuracion\NavegacionConfig {
                 // Segundo nivel
                 $e = $this->formatear_etiqueta($etiqueta);
                 if (array_key_exists($e, $this->iconos)) {
-                    $icono = "<span class=\"navegacion-icono\"><i class=\"{$this->iconos[$e]}\"></i></span>";
+                    $icono = "<i class=\"{$this->iconos[$e]}\"></i>";
                 } else {
-                    $icono = "<span class=\"navegacion-icono\"><i class=\"fa fa-file-text-o\"></i></span>";
+                    $icono = "<i class=\"fa fa-file-text-o\"></i>";
                 }
                 // Buscar si la opción activa es del tercer nivel
                 $es_opcion_activa = false;
@@ -197,9 +193,9 @@ class Navegacion extends \Configuracion\NavegacionConfig {
                         // Tercer nivel
                         $e = $this->formatear_etiqueta($eti);
                         if (array_key_exists($e, $this->iconos)) {
-                            $icono = "<span class=\"navegacion-icono\"><i class=\"{$this->iconos[$e]}\"></i></span>";
+                            $icono = "<i class=\"{$this->iconos[$e]}\"></i>";
                         } else {
-                            $icono = "<span class=\"navegacion-icono\"><i class=\"fa fa-file-text-o\"></i></span>";
+                            $icono = "<i class=\"fa fa-file-text-o\"></i>";
                         }
                         if (array_key_exists($this->opcion_activa, $param)) {
                             $a[] = '            <li class="active">';
@@ -269,12 +265,7 @@ class Navegacion extends \Configuracion\NavegacionConfig {
      * @return string Código javascript
      */
     public function javascript() {
-        // Sólo por parte del buscador puede haber Javascript
-        if ($this->buscador_js != '') {
-            return $this->buscador_js;
-        } else {
-            return '';
-        }
+        return '';
     } // javascript
 
 } // Clase Navegacion
