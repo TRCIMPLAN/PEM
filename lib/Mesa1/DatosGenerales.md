@@ -11,9 +11,7 @@ Agradecemos su participación y contamos con su participación para la conformac
 
 Le invitamos a descargar y leer el [Diagnóstico Básico de la Zona Metropolitana de La Laguna](http://trcimplan.gob.mx/plan-estrategico-metropolitano/plan-estrategico-metropolitano-diagnostico-basico-zml.pdf), que es una presentación como archivo PDF de 1 MB con un gran cantidad de información para los Comités Técnicos.
 
-### Participación Ciudadana
-
-La convocatoria está abierta para que Ciudadanos e Instituciones tengan un formulario en Internet dónde puedan entregar sus proyectos y aportaciones. Sólo se necesita tener una dirección de correo electrónico válida e ingresar a <http://trcimplan.mx/plan> para hacer llegar su propuesta.
+<a href="http://trcimplan.gob.mx/plan-estrategico-metropolitano/plan-estrategico-metropolitano-diagnostico-basico-zml.pdf" target="_blank"><img class="img-responsive contenido-imagen" src="datos-generales/diagnostico-basico.jpg" alt="Diagnostico Basico"></a>
 
 ### Fecha y lugar
 

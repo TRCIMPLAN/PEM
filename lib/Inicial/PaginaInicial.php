@@ -82,9 +82,9 @@ class PaginaInicial extends \Base\Plantilla {
     //  $this->contenido[]  = $destacado->html();
     //  $this->javascript[] = $destacado->javascript();
         // Novedades
-    //  $novedades          = new Novedades();
-    //  $this->contenido[]  = $novedades->html();
-    //  $this->javascript[] = $novedades->javascript();
+        $novedades          = new Novedades();
+        $this->contenido[]  = $novedades->html();
+        $this->javascript[] = $novedades->javascript();
         // Mapa
         $mapa               = new Mapa();
         $this->contenido[]  = $mapa->html();
