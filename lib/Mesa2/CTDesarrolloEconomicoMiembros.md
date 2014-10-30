@@ -1,5 +1,4 @@
 
-
 ### Coordinador, Asesor y Secretario
 
 Función     | Título | Nombre Completo          | Institución/Empresa
