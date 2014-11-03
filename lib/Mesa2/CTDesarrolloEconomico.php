@@ -57,7 +57,7 @@ class CTDesarrolloEconomico extends \Base\Publicacion {
         $lenguetas = new \Base\Lenguetas();
         $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloEconomicoMiembros.md'));
         $lenguetas->agregar('tendencias',  'Tendencias',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloEconomicoTendencias.md'));
-    //  $lenguetas->agregar('minuta',      'Minuta',      $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloEconomicoMinuta.md'));
+        $lenguetas->agregar('minuta',      'Minuta',      $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloEconomicoMinuta.md'));
     //  $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloEconomicoMultimedia.md'));
         //
         // El contenido HTML y el JavaScript
