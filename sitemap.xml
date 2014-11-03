@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://trcimplan.github.io/pem/index.html</loc>
+<<<<<<< HEAD
     <lastmod>2014-11-03</lastmod>
+=======
+    <lastmod>2014-10-30</lastmod>
+>>>>>>> d2d7cef25d0feb1346344c0f545e6c0581182c21
     <changefreq>daily</changefreq>
   </url>
   <url>
