@@ -11,13 +11,14 @@ La Zona Metropolitana de la Laguna en cuanto a **sustentabilidad y medio ambient
  
      * Volumen concesionado Registro Público de Derechos de Agua (REPDA)
 
-------------------|------------|--------:
-Agrícola          | 460  Mm3   |   60 %
-Público urbano    | 145  Mm3   |   22 %
-Múltiple          |  35  Mm3   |    5 %
-Industrial        |  14  Mm3   |    2 %
-Otros usos        |   6  Mm3   |    6 %
-Total 	          |  660 Mm3   |   100%   
+Sector            | Volumen    | Porcentaje 
+------------------|------------|--------
+Agrícola          | 460  Mm3   |   60%
+Público urbano    | 145  Mm3   |   22%
+Múltiple          |  35  Mm3   |    5%
+Industrial        |  14  Mm3   |    2%
+Otros usos        |   6  Mm3   |    6%
+Total 	          |  660 Mm3   |  100%   
     
     * De acuerdo a la CNA la sobreexplotación del acuífero principal es de  135%, ya que la recarga media anual es de es de 518.9 Mm3 con una extracción total de 1,221.8 Mm3/año. 
     * A pesar de las dificultades que enfrentan los municipios que conforman la región lagunera en el tema del agua, presentan los primeros lugares en la producción agrícola de ambos estados, en términos de toneladas producidas, sobre todo de alfalfa verde, maíz y sorgo forrajero y avena forrajera (Indicadores Estatales Agroeconómicos 2010, SIAP, SAGARPA).

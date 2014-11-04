@@ -27,7 +27,7 @@ La Zona Metropolitana de la Laguna en cuanto a **movilidad urbana** se caracteri
     * Por cada 10 personas que realizan un viaje en la ZML: Aproximadamente cinco (49%) utilizan automóvil, tres (30%) autobús público y dos (19%) lo realizan a pie.
     * Tabla comparativa con la distribución modal de León, Guanajuato:
  
-                   | Torreón 2011  | León 2011 | León 2013 
+Distribución modal | Torreón 2011  | León 2011 | León 2013 
 -------------------|---------------|-----------|-----------:   
 Transporte público |           30% |       57% |        71%
 Automóvil          |           49% |       38% |        22%
