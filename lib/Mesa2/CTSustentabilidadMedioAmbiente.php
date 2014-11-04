@@ -58,7 +58,7 @@ class CTSustentabilidadMedioAmbiente extends \Base\Publicacion {
         $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMiembros.md'));
         $lenguetas->agregar('tendencias',  'Tendencias',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteTendencias.md'));
         $lenguetas->agregar('minuta',      'Minuta',      $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMinuta.md'));
-    //  $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMultimedia.md'));
+        $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMultimedia.md'));
         //
         // El contenido HTML y el JavaScript
         //

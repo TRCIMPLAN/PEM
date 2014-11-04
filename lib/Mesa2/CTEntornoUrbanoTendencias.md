@@ -10,6 +10,7 @@ La Zona Metropolitana de la Laguna en cuanto a **entorno urbano** se caracteriza
     * Al 2014 la población sin acceso a red de drenaje en la ZM de la Laguna es de      48,555 habitantes. De seguir esta tendencia del 3.74% de la población sin acceso a red de drenaje al 2020 sería de 51,735 habitantes.
     * Al 2014 la población con acceso a internet de la ZM de la Laguna es de 999,667 habitantes. De seguir esta tendencia del 77% de la población sin acceso a internet al 2020 sería de 1, 065,143habitantes.
     
+
 * Tener una **baja densidad urbana** es problemático. La mancha urbana está muy extendida, hay muchos asentamientos irregulares y lotes baldíos, también zonas deshabitadas. Esta situación hace difícil llevar los servicios a todos los habitantes e impacta negativamente en la calidad de los mismos. Además, contribuye a elevar los costos de mantenimiento e implementación y hace ineficiente el uso de los recursos. La Laguna es una zona poco atractiva para foráneos, carente de espacios públicos, accesibles e incluyentes.
 
     * Entre 2000 y 2010 la Densidad Media Urbana (DMU) de la ZM de La Laguna disminuyó 12%. De seguir esta tendencia la DMU de la zona metropolitana sería de 52.21 hab./Ha en el año 2040.
@@ -20,19 +21,23 @@ La Zona Metropolitana de la Laguna en cuanto a **entorno urbano** se caracteriza
     
     * Existen 10 espacios públicos de tamaño y equipamiento adecuado para cumplir funciones de cohesión social, los cuales son lejanos e inaccesibles a la mayor parte de la población.
     
+    
 * **Faltan planes y reglamentos actualizados** y en general hay una baja observancia a lo existente. Esta ausencia se traduce en desorden en el uso del suelo, baja calidad del aire, identidad difusa y poco cuidado de la imagen urbana en general. Los servicios no están a la altura de las necesidades de los ciudadanos. La situación ha alejado inversiones y provocado que baje la plusvalía, ha aumentado la inseguridad y hay pérdidas económicas, en términos generales se ha perdido atractivo y competitividad.
 
     * Sólo en los municipios de Torreón y Gómez Palacio se encuentran publicados reglamentos relativos al uso de suelo y lineamientos de construcción.
     * No existen datos de observancia, como porcentaje de asentamientos irregulares.
+
 
 * Hay muchos **barrios abandonados** debido a la inseguridad, al deterioro de la infraestructura, a la falta de identidad y las dificultades en la movilidad. La población joven tiende a emigrar de la zona metropolitana.
     
     * Entre 2010 y 2012 la tasa a anual de crecimiento de Viviendas deshabitadas es del 8%. De seguir esta tendencia las Viviendas de la ZM de la Laguna seria de 152,220 Viviendas deshabitadas en el año 2020
 
 
-     | Total Vivienda 2010 | Vivienda Deshabitada 2010 | 
------|---------------------|---------------------------|--------|---------|-------|------|
-ZML
+
+
+     | Total Vivienda 2010 | Vivienda Deshabitada 2010 | Vivienda Deshabitada 2012 | Tasa anual de crecimiento de Vivienda deshabitada | Proyección 2020|
+-----|---------------------|---------------------------|---------------------------|---------------------------------------------------|----------------|
+ZML  | 	           345,197 |                    69,293 |                    80,470 |                                               8%  |        152,220
 
 ### Problemas a atender en orden de importancia:
 

@@ -52,7 +52,8 @@ class NavegacionConfig {
                 'Mesa 2 > Desarrollo Social'      => 'mesa-2/ct-desarrollo-social.html',
                 'Mesa 2 > Entorno Urbano'         => 'mesa-2/ct-entorno-urbano.html',
                 'Mesa 2 > Movilidad y Transporte' => 'mesa-2/ct-movilidad-transporte.html',
-                'Mesa 2 > S. y Medio Ambiente'    => 'mesa-2/ct-sustentabilidad-medio-ambiente.html')),
+                'Mesa 2 > S. y Medio Ambiente'    => 'mesa-2/ct-sustentabilidad-medio-ambiente.html'),
+            'Mesa 2 > Fotografías'      => 'mesa-2/fotos.html'),
         'Mesa 3' => array(
             'Mesa 3 > Datos Generales'  => 'mesa-3/datos-generales.html',
             'Mesa 3 > Programación'     => 'mesa-3/programacion.html',

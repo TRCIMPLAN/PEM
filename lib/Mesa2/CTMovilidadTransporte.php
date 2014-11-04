@@ -58,7 +58,7 @@ class CTMovilidadTransporte extends \Base\Publicacion {
         $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa2/CTMovilidadTransporteMiembros.md'));
         $lenguetas->agregar('tendencias',  'Tendencias',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTMovilidadTransporteTendencias.md'));
         $lenguetas->agregar('minuta',      'Minuta',      $this->cargar_archivo_markdown_extra('lib/Mesa2/CTMovilidadTransporteMinuta.md'));
-    //  $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTMovilidadTransporteMultimedia.md'));
+        $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTMovilidadTransporteMultimedia.md'));
         //
         // El contenido HTML y el JavaScript
         //
