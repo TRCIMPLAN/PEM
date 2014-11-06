@@ -1,6 +1,7 @@
 
 ### Fotografías
 <a href="fotos-oscar/03.jpg"><img class="contenido-imagen" src="fotos-oscar/03-previa.jpg"></a>
+<a href="fotos-oscar/06.jpg"><img class="contenido-imagen" src="fotos-oscar/06-previa.jpg"></a>
 <a href="fotos-oscar/07.jpg"><img class="contenido-imagen" src="fotos-oscar/07-previa.jpg"></a>
 <a href="fotos-oscar/18.jpg"><img class="contenido-imagen" src="fotos-oscar/18-previa.jpg"></a>
 <a href="fotos-oscar/19.jpg"><img class="contenido-imagen" src="fotos-oscar/19-previa.jpg"></a>
@@ -15,4 +16,6 @@
 <a href="fotos-guillermo/30.jpg"><img class="contenido-imagen" src="fotos-guillermo/30-previa.jpg"></a>
 <a href="fotos-guillermo/31.jpg"><img class="contenido-imagen" src="fotos-guillermo/31-previa.jpg"></a>
 <a href="fotos-guillermo/40.jpg"><img class="contenido-imagen" src="fotos-guillermo/40-previa.jpg"></a>
+<a href="fotos-sunno/14.jpg"><img class="contenido-imagen" src="fotos-sunno/14-previa.jpg"></a>
+<a href="fotos-sunno/15.jpg"><img class="contenido-imagen" src="fotos-sunno/15-previa.jpg"></a>
 <a href="fotos-sunno/19.jpg"><img class="contenido-imagen" src="fotos-sunno/19-previa.jpg"></a>

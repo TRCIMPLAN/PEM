@@ -7,7 +7,7 @@ Hora de inicio: 09:12 a.m.
 
 El Arq. Rafael Pérez Fernández expone los objetivos del Plan Estratégico Metropolitano.
 
-Introducción por Lic. Rodrigo González Morales: Explicación de los resultados del taller anterior, presentación de los indicadores y futuros tendenciales de cada uno de los problemas de cada temática.
+Introducción por Lic. Rodrigo González Morales: Explicación de los resultados de la mesa anterior, presentación de los indicadores y futuros tendenciales de cada uno de los problemas de cada temática.
 
 El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de futuro deseable se llenará un formato de manera individual; luego se realizarán rondas para enriquecer de 15 minutos tomando nota de forma conjunta e interactiva. Al final se hará la integración y propuestas de objetivos y metas.
 
@@ -15,57 +15,57 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 
 1. Falta de manejo integral del agua
 
-* Inteligente Racionalización de agua por sector diagnostico.
-* Tener una normatividad que limite actividades productivas mecanismos legales que se pague por los daños ocasionados y técnicos. Tener la integración de expertos.
-* Lograr manejo sustentable y ecosistemico del agua.
-* Programa que equilibre el aquifero y tenga resuleto el problema de la calidad del agua. Con un modelo de producción mas acorde al ecosistema en el qque vivimos.
+* Inteligente racionalización de agua por sector diagnóstico.
+* Tener una normatividad que limite actividades productivas, mecanismos legales que se pague por los daños ocasionados y técnicos. Tener la integración de expertos.
+* Lograr un manejo sustentable y ecosistémico del agua.
+* Programa que equilibre el acuífero y tenga resuelto el problema de la calidad del agua. Con un modelo de producción más acorde al ecosistema en el que vivimos.
 * Operación de presas.
-* Calidad y cantidad suficientes para todos los sectores disponibilidad.
+* Calidad y cantidad suficientes para todos los sectores, disponibilidad.
 * Rio vivo.
-* Cultura uso y reuso de tratamiento de aguas, plantas tratadoras por sector.
+* Cultura de uso y reuso de aguas tratadas, plantas tratadoras por sector.
 * Recuperación de agua de lluvias.
 * Integración de sistemas municipales de agua de la zona metropolitana.
 
 2. Cambio climático problemático
 
-* Evidente reducción de gases efecto invernadero.
+* Evidente reducción de gases de efecto invernadero.
 * Capacidades de recuperación para enfrentar el cambio climático.
-* Amplios áreas verdes urbanas en zona metropolitana en aeropuerto y vega de caracol.
-* ZML cultura de concientización de impacto ambiental individual y colectiva.
-* Areas naturales protegidas con buen financiamiento y manejo.
-* Regulación integral a las industrias y emisiones de automotores y producción pecuaria y uso aprovechamiento de energía.
-* Programa metropolitano de cc con estrategias de mitigación y adaptación claras.
+* Ámplias áreas verdes urbanas en zona metropolitana, en aeropuerto y en la vega de caracol.
+* ZML cultura de conscientización de impacto ambiental individual y colectiva.
+* Áreas naturales protegidas con buen financiamiento y manejo.
+* Regulación integral a las industrias, emisiones de automotores, producción pecuaria y aprovechamiento de energía.
+* Programa metropolitano de cambio climático con estrategias de mitigación y adaptación claras.
 * Transporte eficiente.
 * Prevenir uso de agua para procesos de gas shale.
-* Cero riesgo de Arsenico.
+* Cero riesgo de arsénico.
 
 3. Mala calidad del aire
 
-* Ejecutar programa proaire Comarca Lagunera.
-* Regulación de emisiones contaminantes criterio gases y polvos que cumplan con estándares internacionales. Verificación de emisiones industrias y transporte.
-* Incluir e incentivar transporte eficiente, accesible y comodo alternativas ciclistas (movilidad sustentable). ZML con 600 km de ciclocarril.
+* Ejecutar programa Proaire Comarca Lagunera.
+* Regulación de emisiones contaminantes criterio, gases y polvos que cumplan con estándares internacionales. Verificación de emisiones a industrias y transporte.
+* Incluir e incentivar un transporte eficiente, accesible y cómodo, alternativas ciclistas (movilidad sustentable). ZML con 600 km de ciclocarril.
 * Monitoreo en ZML para conocer calidad del aire y tomar acciones concretas. Datos suficientes y en tiempo real. Con resultados efectivos en la calidad del aire.
 * El que contamina paga.
-* Con 5 espacios de grandes verdes.
+* Con 5 espacios de grandes áreas verdes.
 
 4. Falta de ordenamiento ecológico
 
 * Hay un plan/instrumento metropolitano de desarrollo de acuerdo al ordenamiento ecológico participativo integrado a mecanismos de planeación urbana.
 * Hay un plan metro de áreas verdes.
-* No hay desperdicios todo se recicla.
-* Ciudadanos y empresarios comprometidos con respecto a medio ambiente y cultura verde. Contamos con agenda local verde, de ordenamiento que marque criterios específicos de usos de suelo y concepto de áreas verdes.
-* Ciudad o región donde se respete yp riovilegie el aspecto urbano natural y ecológico.
-* Aplicación efectiva de ordenamiento territorial con criterio ecosistemico.
+* No hay desperdicios, todo se recicla.
+* Ciudadanos y empresarios comprometidos con respecto al medio ambiente y cultura verde. Contamos con agenda local verde, de ordenamiento que marque criterios específicos de usos de suelo y concepto de áreas verdes.
+* Ciudad o región donde se respete y privilegie el aspecto urbano natural y ecológico.
+* Aplicación efectiva de ordenamiento territorial con criterio ecosistémico.
 
 5. Falta de manejo integral de residuos
 
 * Cada empresa es responsable de la disposición de residuos.
-* La ZML tiene cultura de aprovechamiento de reciclaje 100% reuso y reducción de desechos Aprovechamiento sust de residuos mayor al 95%.
+* La ZML tiene cultura de aprovechamiento de reciclaje 100% de reuso y reducción de desechos, aprovechamiento de residuos mayor al 95%.
 * Plantas tratadoras de residuos.
 * Empresas verdes y eficientes.
 * Región con programa de manejo de residuos de basura cero que contemple la separación desde su origen.
-* ZML con residuos minimos, manejados y dispuestos adecuadamente.
-* Cero contamienacion y desechos.
+* ZML con residuos mínimos, manejados y dispuestos adecuadamente.
+* Cero contaminación y desechos.
 * Sin bolsas de plástico, botellas de agua y sin unicel.
 * Contamos con un directorio de todas las empresas y los desechos que genera.
 * Separación de basura en hogares y empresas recolectoras de basura.

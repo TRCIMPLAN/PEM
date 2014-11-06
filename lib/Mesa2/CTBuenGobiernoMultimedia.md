@@ -17,6 +17,7 @@
 <a href="fotos-oscar/56.jpg"><img class="contenido-imagen" src="fotos-oscar/56-previa.jpg"></a>
 <a href="fotos-oscar/57.jpg"><img class="contenido-imagen" src="fotos-oscar/57-previa.jpg"></a>
 <a href="fotos-oscar/58.jpg"><img class="contenido-imagen" src="fotos-oscar/58-previa.jpg"></a>
+<a href="fotos-oscar/65.jpg"><img class="contenido-imagen" src="fotos-oscar/65-previa.jpg"></a>
 <a href="fotos-oscar/66.jpg"><img class="contenido-imagen" src="fotos-oscar/66-previa.jpg"></a>
 <a href="fotos-guillermo/12.jpg"><img class="contenido-imagen" src="fotos-guillermo/12-previa.jpg"></a>
 <a href="fotos-guillermo/13.jpg"><img class="contenido-imagen" src="fotos-guillermo/13-previa.jpg"></a>

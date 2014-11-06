@@ -21,5 +21,5 @@ Manuel de Jesús Morán Castillo   | Dirección de Sanidad
 Marcela Castañeda Agüero         | Subsecretaría Prevención Social 
 Margarito Nava Martínez          | QPN Torreón
 Martha Alicia Lira Sifuentes     | Instituto Tecnológico de la Laguna
-Patricia Elizabeth Alacala       | Instituto de la Mujer
+Patricia Elizabeth Alcalá        | Instituto de la Mujer
 Roberto Gerardo Guillèn Navarro  | Ciudadano

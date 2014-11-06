@@ -9,7 +9,7 @@ El Lic. Eduardo Holguín da la bienvenida y le concede la palabra al Arq. Rafael
 
 El Arq. Rafael Pérez Fernández expone los objetivos del Plan Estratégico Metropolitano.
 
-Introducción por Lic. Rodrigo González Morales: Explicación de los resultados del taller anterior, presentación de los indicadores y futuros tendenciales de cada uno de los problemas de cada temática.
+Introducción por Lic. Rodrigo González Morales: Explicación de los resultados de la mesa anterior, presentación de los indicadores y futuros tendenciales de cada uno de los problemas de cada temática.
 
 El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de futuro deseable se llenará un formato de manera individual; luego se realizarán rondas para enriquecer de 15 minutos tomando nota de forma conjunta e interactiva. Al final se hará la integración y propuestas de objetivos y metas.
 
@@ -46,9 +46,9 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 4. Servicio civil de carrera
 
 * Mismos requisitos. Evaluación y capacitación constante.
-* Instalar departamentos de servicio civil de carrera en unias.
+* Instalar departamentos de servicio civil de carrera en universidades.
 * Evaluación continua.
-* De la mano con la educación fomento al orgullo nacio
+* De la mano con la educación fomento al orgullo nacional.
 * Certificación de los servidores públicos. Evaluados y medidos.
 * Permanencia sin importar partidos. Profesionalización.
 * Certificación homogénea.
@@ -56,10 +56,10 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 
 5. Transparencia
 
-* Datos abiertos en medios digitales. Mecanismos más eficientes y flexibles que propicien tansarencia y rendición de cuentas. Agilidad.
+* Datos abiertos en medios digitales. Mecanismos más eficientes y flexibles que propicien transparencia y rendición de cuentas. Agilidad.
 * Concientizar a los servidores públicos. O bajo sanción.
 * Que en 25 años las personas que estén en los institutos, sean realmente objetivas. Que se muestre lo real y no lo que se quiere mostrar.
-* El ICAI carece de la autoridad para administrar la información, que tenga herramienta “gestionar” la información.
+* El ICAI carece de la autoridad para administrar la información, que tenga herramienta para “gestionar” la información.
 * Comenzar con evaluación de proyectos.
 * Observatorio ciudadano. Sea regido por un cabildo ciudadano, en sinergia con gobierno; trabajo conjunto.
 * Mecanismo para un cabildo ciudadano y no partidista. Que haya difusión y proceso de socialización para la información de transparencia en portales.
@@ -94,9 +94,9 @@ Grupo A Problema 5
 * Actualizaciónes a la hora.
 * Organismo autónomo político con autoridad para exigir a las instituciones que cumplan con su función.
 * Todo instituto creado y presupuestado se apertura y luego se aplique presupuesto.
-* Concecuencias claras e inmediatas al soborno y corrupción.
+* Consecuencias claras e inmediatas al soborno y corrupción.
 * Testigos ciudadanos.
-* Transparencia y rendición de cuentas
+* Transparencia y rendición de cuentas.
 
 Grupo B Problema 1
 
@@ -105,7 +105,7 @@ Grupo B Problema 1
 * Coordinación metro en sentido social, y justicia.
 * Aplicación correcta del marco jurídico.
 * Consejeros ciudadanos en cabildo.
-* Estado de la laguna.
+* Estado de La Laguna.
 * Honestidad en su aplicación.
 * Derechos humanos, reglamentación urgente.
 

@@ -5,7 +5,7 @@ El pasado 9 de Octubre comenzaron formalmente los trabajos para la construcción
 
 En dicho ejercicio de diagnóstico del estado que guarda la Zona Metropolitana  de La Laguna en temas como Gobierno y Coordinación Metropolitana, Desarrollo Social, Desarrollo Económico e Innovación, Sustentabilidad, Movilidad y Entorno Urbano participaron 146 expertos de los cuatro municipios metropolitanos entre académicos, representantes de la sociedad civil organizada, empresarios, servidores públicos y ciudadanos.
 
-Agradecemos su participación y contamos con su participación para la conformación de la visión,  objetivos estratégicos y proyectos que conjugarán los esfuerzos de todos quienes construimos cotidianamente nuestra ciudad.
+Agradecemos su asistencia y contamos con su participación para la conformación de la visión,  objetivos estratégicos y proyectos que conjugarán los esfuerzos de todos quienes construimos cotidianamente nuestra ciudad.
 
 ### Diagnóstico Básico de la ZML
 

@@ -12,14 +12,14 @@ Secretario  |  Lic.  | Víctor Núñez             | IMPLAN Torreón
 
 Nombre Completo                  | Institución/Empresa              
 ---------------------------------|----------------------------------
-Alejandro H. Pineda 			 | Corpamex
+Alejandro H. Pineda 			 | Coparmex
 Alfonso Javier Mijares Contreras | 
 Ana Olga Rodríguez Betancurt     | ITESM CL
 Antonio Baca  				     | Peñoles
 Benjamín Navarro                 | Punto Clave Propiedades
 Félix Pérez Murillo              | Cruz Roja 
 Fernando Madero   			     | PTP
-Gerardo Segovia Avalos 		     | Fomento Económico Lerdo		
+Gerardo Segovia Ávalos 		     | Fomento Económico Lerdo		
 Gustavo Aizcorbe				 | Moreleando 
 Javier Álvarez                   | GISA Software/Canacintra Torreón
 Javier Garza                     | 

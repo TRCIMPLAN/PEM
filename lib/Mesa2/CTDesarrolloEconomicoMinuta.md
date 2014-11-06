@@ -9,7 +9,7 @@ El Lic. Eduardo Holguín da la bienvenida y le concede la palabra al Arq. Rafael
 
 El Arq. Rafael Pérez Fernández expone los objetivos del Plan Estratégico Metropolitano.
 
-Introducción por Lic. Rodrigo González Morales: Explicación de los resultados del taller anterior, presentación de los indicadores y futuros tendenciales de cada uno de los problemas de cada temática.
+Introducción por Lic. Rodrigo González Morales: Explicación de los resultados de la mesa anterior, presentación de los indicadores y futuros tendenciales de cada uno de los problemas de cada temática.
 
 El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de futuro deseable se llenará un formato de manera individual; luego se realizarán rondas para enriquecer de 15 minutos tomando nota de forma conjunta e interactiva. Al final se hará la integración y propuestas de objetivos y metas.
 
@@ -21,17 +21,17 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Especializados, industria ligera, pesada de información y sector turismo y centros de convenciones.
 * Parques industriales con comercios locales: Industrial y turístico: empresas locales que se puedan exportar. Centro histórico renovado conservando la identidad de la ciudad.
 * La ZM unos de los 5 lugares para instalar una empresa en todo el país.
-* La comarca es un centro médico de referencia de todo el norte del país (cluster médico).
+* La comarca es un centro médico de referencia de todo el norte del país (clúster médico).
 * Además una ciudad segura.
 * Infraestructura vial y ferroviaria para la circulación, turismo académico.
-* Cluster de desarrollo de informático.
+* Clúster de desarrollo de informático.
 * Parque tecnológico, circuito turístico alternativo y tecnológico.
 * Totalmente la ciudad industrializada, industria pesada, turismo en 80% de negocios de lunes a viernes.
-* Parques industriales todos con energía suficiente y agua suficiente y disponible para la industria, comunicaciones (fibra óptica etc.).
+* Parques industriales todos con energía y agua suficiente y disponible para la industria, comunicaciones (fibra óptica etc.).
 * Parques industriales con normas y distribuidos de manera que se cuide el medio ambiente y comunicados y vías de accesos carreteros. Turismo, espacios de calidad mundial.
 * Infraestructura suficiente para albergar a empresas nuevas.
 * Participa en un sector aeroespacial.
-* 10 parques industriales con la característica estar interconectados. Que se tenga especialización de industria pesada, tecnología etc. Turístico, centros de convenciones, parques de diversiones, temático.
+* 10 parques industriales con la característica de estar interconectados. Que se tenga especialización de industria pesada, tecnología etc. Turístico, centros de convenciones, parques de diversiones, temático.
 
 2. PROBLEMA
 
@@ -47,7 +47,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Cuenta con un consejo de emprendimiento.
 * Cultura de liderazgo empresariales, autoridades.
 * Aumento de nuevas empresas y nueva concientización.
-* Disminución de menos impuestos.
+* Disminución de impuestos.
 * Áreas de investigación de foros mundiales.
 
 3. PROBLEMA
@@ -97,11 +97,11 @@ Se integraron las visiones y se agregaron a las que ya se tenían por parte de l
 
 ### Conclusión
 
-* Armando da la introducción de cómo se efectuara las conclusiones y que es lo que se espera de los participantes de estos talleres.
+* Armando da la introducción de cómo se efectuará la dinámica de las conclusiones y que es lo que se espera de los participantes de estos talleres.
 * Crear un organismo que regule todas las propuestas.
-* Exigir como sociedad en un organismo impulse las propuestas.
+* Exigir como sociedad un organismo impulse las propuestas.
 * El reto es crear un mecanismo para que todas las ideas se lleven a cabo.
-* Habla sobre el funcionamiento de este taller, recalificando que la sociedad es el engrane más importante para que el trabajo se lleve a cabo.
+* Habla sobre el funcionamiento de esta mesa, recalificando que la sociedad es el engrane más importante para que el trabajo se lleve a cabo.
 * Habla sobre lo positivo de la voluntad política que debe de tener el IMPLAN.
 
 ### Agradecimiento y despedida

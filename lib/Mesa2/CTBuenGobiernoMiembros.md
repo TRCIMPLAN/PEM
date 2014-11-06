@@ -3,8 +3,8 @@
 
 Función     | Título | Nombre Completo           | Institución/Empresa
 ------------|-------:|---------------------------|--------------------------
-Coordinador | Lic.   | Francisco J. Adame Acosta | Desarrollo Institucional
-Asesor      | Lic.   | Luis Rayas                |
+Coordinador | Lic.   | Francisco J. Adame Acosta | D.G. Desarrollo Institucional
+Asesor      | Lic.   | Luis Rayas                | D.G. Desarrollo Institucional
 Secretario  | Arq.   | Cecilio Secunza           | IMPLAN Torreón
 
 ### Expertos Invitados
@@ -22,7 +22,7 @@ Karla Vargas Encina               | PVC
 Luis Felipe Rodríguez Aguilar     | Universidad Autónoma de Coahuila
 Luis Gurza Jaidar                 | Tercer Regidor
 Maria Isabel Saldaña              | Biblioteca Municipal
-Miguel Felipe Meryp               | R. Ayuntamiento de Torreón
+Miguel Felipe Mery Ayup           | R. Ayuntamiento de Torreón
 Rafael Olivares García            | R. Ayuntamiento de Torreón
 Raúl Medina Martínez              | Universidad Autónoma de Coahuila                                                                                         |
 
