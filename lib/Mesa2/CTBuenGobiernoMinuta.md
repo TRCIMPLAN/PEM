@@ -15,7 +15,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 
 ### Visión – Futuro Deseable
 
-1. Falta de un marco jurídico metropolitano
+Problema 1. Falta de un marco jurídico metropolitano
 
 * Marco jurídico, moderno, y coincidente. Respeto a la autonomía de cada municipio, con una visión regionalista. Marco homogéneo metropolitano, respetando la autonomía de cada municipio.
 * Coordinación estrecha. participación ciudadana activa en la reglamentación.
@@ -26,7 +26,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Reglamento metropolitano de convivencia de los ciudadanos.
 * Concisa. Mecanismos de toma de decisiones. Nuevo cabildo metropolitano. No responda a una planilla. Ciudadanos metropolitanos electos por la gente de acuerdo a una demarcación de barrios. City manager.
 
-2. Falta de planeación a largo plazo
+Problema 2. Falta de planeación a largo plazo
 
 * IMPLAN Metropolitano: funcionarios calificados con perfiles adecuados a su puesto.
 * Plan Estratégico Metropolitano: tenga metas por sectores.
@@ -34,7 +34,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * No está de acuerdo en hacer un instituto metropolitano aparte del IMPLAN. Que haya un cabildo ciudadano regido por demarcaciones.
 * Difusión. Colaboración. Socialización del plan.
 
-3. No hay mecanismos eficientes de participación ciudadana.
+Problema 3. No hay mecanismos eficientes de participación ciudadana.
 
 * No existe participación porque no son incluyentes con grupos de jóvenes. Alumnado estudiantes más incluidos y participando.
 * Comenzar por la educación primaria. Las personas son apolíticas y apáticas. Educar desde la educación primaria para ser participativo.
@@ -43,7 +43,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Consejos deben ser autónomos y no depender del gobierno.
 * Participación ciudadana es eficiente cuando la ciudadanía sienta que sus intereses están representados.
 
-4. Servicio civil de carrera
+Problema 4. Servicio civil de carrera
 
 * Mismos requisitos. Evaluación y capacitación constante.
 * Instalar departamentos de servicio civil de carrera en universidades.
@@ -54,7 +54,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Certificación homogénea.
 * Certificación con resultado públicos.
 
-5. Transparencia
+Problema 5. Transparencia
 
 * Datos abiertos en medios digitales. Mecanismos más eficientes y flexibles que propicien transparencia y rendición de cuentas. Agilidad.
 * Concientizar a los servidores públicos. O bajo sanción.

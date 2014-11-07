@@ -13,7 +13,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 
 ### Visión – Futuro Deseable
 
-1. Problema
+Problema 1. Problema
 
 * En 15 años ciudad con crecimiento ordenado redensificado.
 * Que cuente con organismos capaces de potencializar los recursos, sistema integral de agua potable de calidad al 100% de la población.
@@ -32,7 +32,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Metrópoli con tecnología aplicada a energías renovables.
 * Transporte público de buen nivel y buen flujo de movilidad urbana, saneamiento de mejora de redes hidráulicas. Inversiones públicas eficientes y transparentes.
 
-2. Problema
+Problema 2. Problema
 
 * Adoptar planes modelo de otras ciudades, comité de vigilancia y seguimiento de planes y reglamentos.
 * Metrópoli con reglamentos homologados entre las ciudades de la ZML, hay orden jurídico en materia de usos de suelo.
@@ -47,7 +47,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Que el consejo metropolitano tenga facultades para dar seguimiento y observancia al programa metropolitano, reglamento homologado y congruente al plan metropolitano.
 * Plan sin privilegiar sectores.
 
-3. Problema
+Problema 3. Problema
 
 * Tenemos fraccionamientos verticales, centro histórico regenerado y recuperar la vivienda deshabitada, índice 0 de vivienda desocupada.
 * Establecer en el plan de desarrollo acciones que promuevan redensificación.
@@ -64,7 +64,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Óptima articulación vial, congruente continuidad en los usos de suelo.
 * ZML ocupa el 75% de los vacíos urbanos.
 
-4. Problema
+Problema 4. Problema
 
 * Áreas verdes distribuidas aprovechando las áreas de donación municipal.
 * Metrópoli con porcentajes de áreas verdes por encima de la norma mundial (15m2/hab).
@@ -79,7 +79,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Adaptar los inmuebles del centro histórico catalogados como casas de cultura, restaurantes, museos.
 * Ciudad reforestada con espacios públicos recuperados.
 
-5. Problema
+Problema 5. Problema
 
 * Barrios integrados a la dinámica social, cultural y laboral de la ciudad.
 * Barrios totalmente seguros y con una dinámica interinstitucional.

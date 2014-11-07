@@ -1,22 +1,22 @@
 
 ### Coordinador, Asesor y Secretario
 
-Función     | Título | Nombre Completo           | Institución/Empresa
-------------|-------:|---------------------------|--------------------------
-Coordinador | Lic.   | Francisco J. Adame Acosta | D.G. Desarrollo Institucional
-Asesor      | Lic.   | Luis Rayas                | D.G. Desarrollo Institucional
-Secretario  | Arq.   | Cecilio Secunza           | IMPLAN Torreón
+Función     | Nombre Completo           | Institución/Empresa
+------------|---------------------------|--------------------------
+Coordinador | Francisco J. Adame Acosta | D.G. Desarrollo Institucional
+Asesor      | Luis Rayas                | D.G. Desarrollo Institucional
+Secretario  | Cecilio Secunza           | IMPLAN Torreón
 
 ### Expertos Invitados
 
  Nombre Completo                  | Institución/Empresa
 ----------------------------------|-------------------------------------------------------------------
 Alejandro Martínez Filizola       | Laguna Yo Te Quiero
-Amado Rodríguez Martínez		  | Laguna Yo Te Quiero
-Arturo de la Isla Ríos            |	Ayto. Matamoros
+Amado Rodríguez Martínez          | Laguna Yo Te Quiero
+Arturo de la Isla Ríos            | Ayto. Matamoros
 Emilio Ferniza Graciano           | PVC
 Federico Ramos Salas              | Empresario
-Gerardo Martín Sarabia		      | UAL
+Gerardo Martín Sarabia            | UAL
 Karla Ramírez Borjan              |
 Karla Vargas Encina               | PVC
 Luis Felipe Rodríguez Aguilar     | Universidad Autónoma de Coahuila

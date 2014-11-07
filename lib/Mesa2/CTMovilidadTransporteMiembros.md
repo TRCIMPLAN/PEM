@@ -1,17 +1,17 @@
 
 ### Coordinador, Asesor y Secretario
 
-Función     | Título | Nombre Completo                | Institución/Empresa
-------------|-------:|--------------------------------|---------------------
-Coordinador | Arq.   | Guillermo Sandoval             | Ciudadano
-Asesor      | Lic.   | Luis Gutiérrez Arizpe          | IMPLAN Torreón
-Secretario  | Lic.   | Marcos Solís                   | D.G. Desarrollo Institucional
+Función     | Nombre Completo                | Institución/Empresa
+------------|--------------------------------|---------------------
+Coordinador | Guillermo Sandoval             | Ciudadano
+Asesor      | Luis Gutiérrez Arizpe          | IMPLAN Torreón
+Secretario  | Marcos Solís                   | D.G. Desarrollo Institucional
 
 ### Expertos Invitados
 
-Nombre Completo                  | Institución/Empresa              
+Nombre Completo                  | Institución/Empresa
 ---------------------------------|----------------------------------
-Alberto Sotelo Dávila			 | Ciudadano				
+Alberto Sotelo Dávila            | Ciudadano
 David Eduardo Rentería Cázares   | Ruedas del Desierto
 Diego Jiménez                    | Ciudadano
 Fernando García Tapia            | Director General de Movilidad

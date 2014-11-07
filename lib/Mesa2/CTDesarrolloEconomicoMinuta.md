@@ -15,7 +15,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 
 ### Visión – Futuro Deseable
 
-1. PROBLEMA 1
+Problema 1
 
 * 15 parques industriales y centro de conectividad, centro de convenciones turismo industrial.
 * Especializados, industria ligera, pesada de información y sector turismo y centros de convenciones.
@@ -33,7 +33,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Participa en un sector aeroespacial.
 * 10 parques industriales con la característica de estar interconectados. Que se tenga especialización de industria pesada, tecnología etc. Turístico, centros de convenciones, parques de diversiones, temático.
 
-2. PROBLEMA
+Problema 2
 
 * Zona atractiva en desarrollo de tecnología. Promover el emprededurismo en los sectores, minería, tecnología etc.
 * Cultura de emprededurismo (alto impacto).
@@ -50,7 +50,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Disminución de impuestos.
 * Áreas de investigación de foros mundiales.
 
-3. PROBLEMA
+Problema 3
 
 * Órgano con gabinete a la sombra que percibe es dar seguimiento.
 * Jueces honestos y electos.
@@ -61,7 +61,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Marco normativo metropolitano, ZM.
 * Representantes sociales, vinculados con los sectores productivos.
 
-4. PROBLEMA
+Problema 4
 
 * Desarrollo en los sectores con las capacidades de la zona.
 * Vinculado con las mega tendencias.
@@ -74,7 +74,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Tecnología de punta en información y metal mecánica y aeroespacial.
 * Consejo de desarrollo Metropolitano, de oportunidades, sustentabilidad, tradición.
 
-5. PROBLEMA
+Problema 5
 
 * Estadía empresarial, sector educativo con los sectores, captación de atraer estudiantes.
 * Calidad estudiantes mundial.

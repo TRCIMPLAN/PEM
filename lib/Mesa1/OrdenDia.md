@@ -10,7 +10,7 @@ Programado | Real  | Evento
      11:45 | 11:53 | **Receso**
      12:00 | 12:11 | **Explicación de dinámica**
      12:05 | 12:13 | **Ejercicio Grupal de Diagnóstico (Intermesas)**
-     12:30 | 12:37 | **Revisión de aportaciones** (13:34 ??)
+     12:30 | 12:37 | **Revisión de aportaciones**
      13:00 |   -   | Ejercicio individual de futuro tendencial
      14:00 |   -   | Conclusión
      14:15 |   -   | Agradecimiento y despedida

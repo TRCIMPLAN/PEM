@@ -13,7 +13,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 
 ### Visión – Futuro Deseable
 
-1. Infraestructura vial no incluyente e inequitativa.
+Problema 1. Infraestructura vial no incluyente e inequitativa.
 
 * Caracterizada por contar con banquetas, rampas y pasos peatonales accesibles en base a reglamentos.
 * Ciudad con planeación y ordenada.
@@ -28,7 +28,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Infraestructura ordenada para el transporte público y pasos peatonales.
 * Infraestructura incluyente con el peatón como figura central.
 
-2. Falta de coordinación intermunicipal.
+Problema 2. Falta de coordinación intermunicipal.
 
 * Un sistema de coordinación intermunicipal.
 * Ya existen acuerdos de movilidad y red integral entre los municipios de la ZM, se generan acuerdos de planeación urbana; plan urbano para toda La Comarca Lagunera.
@@ -38,7 +38,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Reglamento conurbano, claro, justo, que se cumple a través de dependencias comunes.
 * Coordinación entre municipios para la planeación, aplicación de un solo plan municipal de desarrollo.
 
-3. Cultura vial
+Problema 3. Cultura vial
 
 * Conocimiento de normas y su cumplimiento por parte de la ciudadanía.
 * Claro conocimiento y respeto por la vida y los derechos de los ciudadanos.
@@ -51,7 +51,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Cultura cívica desde la escuela, junto con simbología lógica y reglas claras.
 * Supervisión de la cultura vial en las escuelas y centros de cultura viales para conductores, aplicar la ley.
 
-4. Congestión y saturación
+Problema 4. Congestión y saturación
 
 * Transporte multimodal eficiente, incluyente y cobertura total.
 * Infraestructura vual accesible y adecuada.
@@ -63,7 +63,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Planeación de tranvía o tren conectado con los demás medios de transporte, otros sistemas alternativos.
 * Transporte colectivo masivo, con accesibilidad, transporte seguro.
 
-5. Crecimiento desordenado
+Problema 5. Crecimiento desordenado
 
 * Eficiente y ordenado crecimiento de la ciudad, contar con acceso a todos los servicios mediante trayectos cortos.
 * Colonias con servicios para acortar distancias.

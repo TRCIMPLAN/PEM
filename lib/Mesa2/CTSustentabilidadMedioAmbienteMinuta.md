@@ -13,7 +13,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 
 ### Visión – Futuro Deseable
 
-1. Falta de manejo integral del agua
+Problema 1. Falta de manejo integral del agua
 
 * Inteligente racionalización de agua por sector diagnóstico.
 * Tener una normatividad que limite actividades productivas, mecanismos legales que se pague por los daños ocasionados y técnicos. Tener la integración de expertos.
@@ -26,7 +26,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Recuperación de agua de lluvias.
 * Integración de sistemas municipales de agua de la zona metropolitana.
 
-2. Cambio climático problemático
+Problema 2. Cambio climático problemático
 
 * Evidente reducción de gases de efecto invernadero.
 * Capacidades de recuperación para enfrentar el cambio climático.
@@ -39,7 +39,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Prevenir uso de agua para procesos de gas shale.
 * Cero riesgo de arsénico.
 
-3. Mala calidad del aire
+Problema 3. Mala calidad del aire
 
 * Ejecutar programa Proaire Comarca Lagunera.
 * Regulación de emisiones contaminantes criterio, gases y polvos que cumplan con estándares internacionales. Verificación de emisiones a industrias y transporte.
@@ -48,7 +48,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * El que contamina paga.
 * Con 5 espacios de grandes áreas verdes.
 
-4. Falta de ordenamiento ecológico
+Problema 4. Falta de ordenamiento ecológico
 
 * Hay un plan/instrumento metropolitano de desarrollo de acuerdo al ordenamiento ecológico participativo integrado a mecanismos de planeación urbana.
 * Hay un plan metro de áreas verdes.
@@ -57,7 +57,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Ciudad o región donde se respete y privilegie el aspecto urbano natural y ecológico.
 * Aplicación efectiva de ordenamiento territorial con criterio ecosistémico.
 
-5. Falta de manejo integral de residuos
+Problema 5. Falta de manejo integral de residuos
 
 * Cada empresa es responsable de la disposición de residuos.
 * La ZML tiene cultura de aprovechamiento de reciclaje 100% de reuso y reducción de desechos, aprovechamiento de residuos mayor al 95%.

@@ -15,7 +15,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 
 ### Visión – Futuro Deseable
 
-1. Falta de seguridad
+Problema 1. Falta de seguridad
 
 * Una policía de carrera eficiente, con educación y con sueldos y prestaciones remunerados, sociedad apoyada por esta misma.
 * Disminuir la tasa de delitos 60 %, en la zona metropolita así como la victimización de los habitantes.
@@ -31,7 +31,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Erradicar la corrupción en las instancias de seguridad.
 * Que se llenen los demás espacios con cosas concretas. Y visión concreta para poder aterrizar.
 
-2. Ser municipio saludable
+Problema 2. Ser municipio saludable
 
 * Especialistas atendiendo a las personas enfermas.
 * Disminuir los índices de morbilidad, acceso a salud de calidad para todos.
@@ -46,7 +46,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Lograr acceso completo por parte de todos los ciudadanos a los servicios de salud. Lograr un estándar a nivel mundial.
 * Lograr el estándar de municipio saludable, respetando las leyes y reglamentos.
 
-3. Vocación educativa para una adecuada vinculación con el desarrollo social.
+Problema 3. Vocación educativa para una adecuada vinculación con el desarrollo social.
 
 * Incrementar en las escuelas un análisis de vocación profesional acorde con el desarrollo económico de la Ciudad.
 * Combatir rezago escolar, aumentar la calidad en la formación de investigadores en áreas científicas.
@@ -65,7 +65,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Disminuir los índices de deserción escolar en secundaria y preparatoria.
 * Nota: Se integra al temas ciudadanos responsables que denuncian los atropellos
 
-4. Problema
+Problema 4. Problema
 
 * Desarrolla en escuelas elementos de arte como musca, pintura.
 * Incrementa la calidad y cantidad de programas culturas y espacios públicos en un 50%, aumenta las bibliotecas e inmuebles históricos.
@@ -80,7 +80,7 @@ El Arq. Rafael Pérez explica la mecánica del evento. Que en la elección de fu
 * Disminuir la brecha cultural y deportiva, infraestructura que promueva la cultura.
 * Adaptada con accesibilidad y atraer a turismo, discapacidad de lugares denotar desarrollo del área.
 
-5. Problema
+Problema 5. Problema
 
 * Compromiso a trabajar con grupos vulnerables, aumentar pensión de jubilados.
 * Disminuir índices de pobreza.
