@@ -17,7 +17,7 @@ Arturo de la Isla Ríos            | Ayto. Matamoros
 Emilio Ferniza Graciano           | PVC
 Federico Ramos Salas              | Empresario
 Gerardo Martín Sarabia            | UAL
-Karla Ramírez Borjan              |
+Karla Ramírez Borjan              | Participación Ciudadana 29
 Karla Vargas Encina               | PVC
 Luis Felipe Rodríguez Aguilar     | Universidad Autónoma de Coahuila
 Luis Gurza Jaidar                 | Tercer Regidor
