@@ -67,8 +67,8 @@ class NavegacionConfig {
                 'Mesa 3 > S. y Medio Ambiente'    => 'mesa-3/ct-sustentabilidad-medio-ambiente.html')));
     protected $iconos = array(
         'Mesa 1'                    => 'fa fa-calendar-o',
-        'Mesa 2'                    => 'fa fa-calendar',
-        'Mesa 3'                    => 'fa fa-calendar-o',
+        'Mesa 2'                    => 'fa fa-calendar-o',
+        'Mesa 3'                    => 'fa fa-calendar',
         'Programación'              => 'fa fa-tasks',
         'Orden del día'             => 'fa fa-list-ol',
         'Comités Técnicos'          => 'fa fa-users',

@@ -55,10 +55,11 @@ class CTSustentabilidadMedioAmbiente extends \Base\Publicacion {
         // Definir lenguetas
         //
         $lenguetas = new \Base\Lenguetas();
-        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMiembros.md'));
-        $lenguetas->agregar('tendencias',  'Tendencias',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteTendencias.md'));
-        $lenguetas->agregar('minuta',      'Minuta',      $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMinuta.md'));
-        $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMultimedia.md'));
+        $lenguetas->agregar('miembros',     'Miembros',     $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMiembros.md'));
+        $lenguetas->agregar('tendencias',   'Tendencias',   $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteTendencias.md'));
+        $lenguetas->agregar('conclusiones', 'Conclusiones', $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteConclusiones.md'));
+        $lenguetas->agregar('minuta',       'Minuta',       $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMinuta.md'));
+        $lenguetas->agregar('multimedia',   'Multimedia',   $this->cargar_archivo_markdown_extra('lib/Mesa2/CTSustentabilidadMedioAmbienteMultimedia.md'));
         //
         // El contenido HTML y el JavaScript
         //

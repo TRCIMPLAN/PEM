@@ -41,7 +41,7 @@ class CTSustentabilidadMedioAmbiente extends \Base\Publicacion {
         // El nombre del archivo a crear (obligatorio), la ruta a la imagen previa y el encabezado (opcionales). Use minúsculas, números y/o guiones medios.
         $this->archivo       = 'ct-sustentabilidad-medio-ambiente';
      // $this->imagen_previa = 'ct-sustentabilidad-medio-ambiente/imagen-previa.jpg';
-     // $this->encabezado    = '<img class="img-responsive encabezado-imagen" src="ct-sustentabilidad-medio-ambiente/encabezado.jpg">';
+        $this->encabezado    = '<img class="img-responsive encabezado-imagen" src="ct-sustentabilidad-medio-ambiente/encabezado.png" alt="Sustentabilidad y Medio Ambiente">';
         // La descripción y claves dan información a los buscadores y redes sociales. Las categorías son de uso interno.
         $this->descripcion   = '';
         $this->claves        = 'IMPLAN, Torreon';

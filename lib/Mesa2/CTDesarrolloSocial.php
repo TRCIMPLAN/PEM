@@ -55,10 +55,11 @@ class CTDesarrolloSocial extends \Base\Publicacion {
         // Definir lenguetas
         //
         $lenguetas = new \Base\Lenguetas();
-        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloSocialMiembros.md'));
-        $lenguetas->agregar('tendencias',  'Tendencias',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloSocialTendencias.md'));
-        $lenguetas->agregar('minuta',      'Minuta',      $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloSocialMinuta.md'));
-        $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloSocialMultimedia.md'));
+        $lenguetas->agregar('miembros',     'Miembros',     $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloSocialMiembros.md'));
+        $lenguetas->agregar('tendencias',   'Tendencias',   $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloSocialTendencias.md'));
+        $lenguetas->agregar('conclusiones', 'Conclusiones', $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloSocialConclusiones.md'));
+        $lenguetas->agregar('minuta',       'Minuta',       $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloSocialMinuta.md'));
+        $lenguetas->agregar('multimedia',   'Multimedia',   $this->cargar_archivo_markdown_extra('lib/Mesa2/CTDesarrolloSocialMultimedia.md'));
         //
         // El contenido HTML y el JavaScript
         //

@@ -85,7 +85,7 @@
           </ul>
         </li>
         <li>
-          <a href="#"><span class="navegacion-icono"><i class="fa fa-calendar"></i></span> Mesa 2<span class="fa arrow"></span></a>
+          <a href="#"><span class="navegacion-icono"><i class="fa fa-calendar-o"></i></span> Mesa 2<span class="fa arrow"></span></a>
           <ul class="nav nav-second-level">
             <li><a href="../mesa-2/datos-generales.html"><span class="navegacion-icono"><i class="fa fa-file-text-o"></i></span> Datos Generales</a></li>
             <li><a href="../mesa-2/programacion.html"><span class="navegacion-icono"><i class="fa fa-tasks"></i></span> Programación</a></li>
@@ -105,7 +105,7 @@
           </ul>
         </li>
         <li class="active">
-          <a href="#"><span class="navegacion-icono"><i class="fa fa-calendar-o"></i></span> Mesa 3<span class="fa arrow"></span></a>
+          <a href="#"><span class="navegacion-icono"><i class="fa fa-calendar"></i></span> Mesa 3<span class="fa arrow"></span></a>
           <ul class="nav nav-second-level">
             <li><a href="../mesa-3/datos-generales.html"><span class="navegacion-icono"><i class="fa fa-file-text-o"></i></span> Datos Generales</a></li>
             <li class="active"><a href="../mesa-3/programacion.html"><span class="navegacion-icono"><i class="fa fa-tasks"></i></span> Programación</a></li>
@@ -134,123 +134,14 @@
   <header>
     <h1>Programación</h1>
   </header>
-<p>Capacitación para tercer taller/mesa</p>
-
-<ul>
-<li>Fecha de inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: IMPLAN</li>
-</ul>
-
-<p>Elaboración y envío a participantes del documento de la segunda mesa de trabajo</p>
-
-<ul>
-<li>Fecha de inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables:</li>
-</ul>
-
-<p>Requisición ( Lugar, Coffe Break, Mobiliario)</p>
-
-<ul>
-<li>Fecha de inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Mariana Segovia</li>
-</ul>
-
-<p>Elaboración del Formato para la captura de información del taller</p>
-
-<ul>
-<li>Fecha de inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Natalia Zavala</li>
-</ul>
-
-<p>Actualización del directorio de grupo promotor, de expertos</p>
-
-<ul>
-<li>Fecha de Inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Luly Aranzábal, Judith Ramírez</li>
-</ul>
-
-<p>Abastecimiento del Material de trabajo</p>
-
-<ul>
-<li>Fecha de inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Janeth Ramírez</li>
-</ul>
-
-<p>Autorización del directorio de expertos/coordinadores a invitar</p>
-
-<ul>
-<li>Fecha de Inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Lic. Eduardo Holguín</li>
-</ul>
-
-<p>Elaborar invitación de la Tercera Mesa</p>
-
-<ul>
-<li>Fecha de Inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Ilse Ávila, Sunno</li>
-</ul>
-
-<p>Envió de invitación</p>
-
-<ul>
-<li>Fecha de inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Mariana Segovia, Ilse Ávila, Judith Ramírez, Hugo Ramírez</li>
-</ul>
-
-<p>Confirmación de los invitados</p>
-
-<ul>
-<li>Fecha de inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Mariana Segovia, Ilse Ávila, Judith Ramírez, Hugo Ramírez</li>
-</ul>
-
-<p>Lista de Asistencia</p>
-
-<ul>
-<li>Fecha de inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Luly Aranzábal, Ilse Ávila</li>
-</ul>
-
-<p>Elaboración de constancias de participación</p>
-
-<ul>
-<li>Fecha de inicio:</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Sunno</li>
-</ul>
-
-<p>Coordinación de difusión y comunicación</p>
-
-<ul>
-<li>Responsables: kuiny Sunno</li>
-</ul>
-
-<p>Invitación a Prensa</p>
-
-<ul>
-<li>Fecha de finalización</li>
-<li>Fecha de finalización:</li>
-<li>Responsables: Mariana Segovia</li>
-</ul>
-
-<p>Ensayo previo al taller</p>
-
-<ul>
-<li>Fecha:</li>
-<li>Responsables: IMPLAN</li>
-</ul>
-
+  <ul class="nav nav-tabs lenguetas" id="lenguetas-">
+    <li class="active"><a href="#gantt" data-toggle="tab">Gantt</a></li>
+  </ul>
+  <div class="tab-content">
+    <div class="tab-pane active" id="gantt">
+      <img class="img-responsive" src="programacion/gantt.png" alt="Gantt">
+    </div>
+  </div>
 </article>
       </div>
     </div>
@@ -273,5 +164,11 @@
 <script src="../js/leaflet.js"></script>
 <script src="../js/plugins/metisMenu/metisMenu.min.js"></script>
 <script src="../js/sb-admin-2.js"></script>
+<script>
+// TWITTER BOOTSTRAP TABS
+$(document).ready(function(){
+  $('#lenguetas- a:first').tab('show')
+});
+</script>
 </body>
 </html>
