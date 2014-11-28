@@ -55,10 +55,10 @@ class CTSustentabilidadMedioAmbiente extends \Base\Publicacion {
         // Definir lenguetas
         //
         $lenguetas = new \Base\Lenguetas();
-        $lenguetas->agregar('miembros',    'Miembros',    $this->cargar_archivo_markdown_extra('lib/Mesa3/CTSustentabilidadMedioAmbienteMiembros.md'));
-    //  $lenguetas->agregar('diagnostico', 'Diagnóstico', $this->cargar_archivo_markdown_extra('lib/Mesa3/CTSustentabilidadMedioAmbienteDiagnostico.md'));
-    //  $lenguetas->agregar('resumen',     'Resumen',     $this->cargar_archivo_markdown_extra('lib/Mesa3/CTSustentabilidadMedioAmbienteResumen.md'));
-    //  $lenguetas->agregar('multimedia',  'Multimedia',  $this->cargar_archivo_markdown_extra('lib/Mesa3/CTSustentabilidadMedioAmbienteMultimedia.md'));
+        $lenguetas->agregar('miembros',     'Miembros',     $this->cargar_archivo_markdown_extra('lib/Mesa3/CTSustentabilidadMedioAmbienteMiembros.md'));
+        $lenguetas->agregar('conclusiones', 'Conclusiones', $this->cargar_archivo_markdown_extra('lib/Mesa3/CTSustentabilidadMedioAmbiente.md'));
+        $lenguetas->agregar('minuta',       'Minuta',       $this->cargar_archivo_markdown_extra('lib/Mesa3/CTSustentabilidadMedioAmbiente.md'));
+        $lenguetas->agregar('multimedia',   'Multimedia',   $this->cargar_archivo_markdown_extra('lib/Mesa3/CTSustentabilidadMedioAmbiente.md'));
         //
         // El contenido HTML y el JavaScript
         //

@@ -1,2 +1,0 @@
-
-Contenido de Diagnóstico.
