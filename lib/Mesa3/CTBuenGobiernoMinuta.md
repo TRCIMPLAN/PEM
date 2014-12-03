@@ -1,7 +1,7 @@
 ### Tiempos
 
 * Hora de inicio: 9:10
-* Hora de término: 1:40
+* Hora de término: 2:00
 
 ### Bienvenida
 
@@ -43,11 +43,11 @@ Se inicia comentando que en el ejercicio anterior se concluyeron  los objetivos 
 
 ### Agrupación de ideas y definición de estrategias
 
-*  A - Zonificar para eficientar la acción gubernamental y la participación ciudadana.
-*  B - Generar un marco jurídico homologado de la ZM que garantice la legalidad de la función pública
-*  C- Elaborar un documento que contenga las políticas públicas del Buen Gobierno para la ZM
-*  D - Creación de organismos metropolitanos de planeación y prestación de servicios
-*  E - Generación de canales que promuevan  la participación ciudadana efectiva
+*  A: Zonificar para eficientar la acción gubernamental y la participación ciudadana.
+*  B: Generar un marco jurídico homologado de la ZM que garantice la legalidad de la función pública
+*  C: Elaborar un documento que contenga las políticas públicas del Buen Gobierno para la ZM
+*  D: Creación de organismos metropolitanos de planeación y prestación de servicios
+*  E: Generación de canales que promuevan  la participación ciudadana efectiva
 
 
 ### Priorización y definición de Proyectos
