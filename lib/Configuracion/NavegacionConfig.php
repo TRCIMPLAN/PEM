@@ -64,7 +64,8 @@ class NavegacionConfig {
                 'Mesa 3 > Desarrollo Social'      => 'mesa-3/ct-desarrollo-social.html',
                 'Mesa 3 > Entorno Urbano'         => 'mesa-3/ct-entorno-urbano.html',
                 'Mesa 3 > Movilidad y Transporte' => 'mesa-3/ct-movilidad-transporte.html',
-                'Mesa 3 > S. y Medio Ambiente'    => 'mesa-3/ct-sustentabilidad-medio-ambiente.html')));
+                'Mesa 3 > S. y Medio Ambiente'    => 'mesa-3/ct-sustentabilidad-medio-ambiente.html'),
+            'Mesa 3 > Fotografías'      => 'mesa-3/fotos.html'));
     protected $iconos = array(
         'Mesa 1'                    => 'fa fa-calendar-o',
         'Mesa 2'                    => 'fa fa-calendar-o',
