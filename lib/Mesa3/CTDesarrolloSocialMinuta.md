@@ -5,7 +5,7 @@
 
 ### Bienvenida
 
-Bienvenida a las 9 en punto en donde, con el equipo del IMPLAN se agradeció la asistencia de los participantes, en donde  de igual forma se les deseó una buena temporada navideña y se agradeció al equipo su eficacia.
+Se da la bienvenida con palabras del Lic. Eduardo Holguin, director del IMPLAN, junto con su equipo donde se agradeció a todos los participantes por su asistencia a este evento y de igual forma se les deseó una buena temporada navideña y se agradeció al equipo su eficacia.
 
 ###Introducción
 

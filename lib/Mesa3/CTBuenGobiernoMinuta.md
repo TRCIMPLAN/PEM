@@ -1,11 +1,11 @@
 ### Tiempos
 
 * Hora de inicio: 9:10
-* Hora de término: 2:00
+* Hora de término: 1:50
 
 ### Bienvenida
 
-Bienvenida a las 9:10, con el equipo del IMPLAN  agradeció la asistencia de los participantes, en donde  de igual forma se les deseó una buena temporada navideña y se agradeció al equipo su eficacia.
+Se da la bienvenida por parte del Lic. Holguin y  el equipo del IMPLAN, agradeciendo la asistencia de los participantes, en donde de igual forma se les deseó una buena temporada navideña y se agradeció al equipo su eficacia.
 
 ###Introducción
 

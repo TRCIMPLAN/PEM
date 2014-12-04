@@ -5,7 +5,7 @@
 
 ### Bienvenida
 
-El Lic. Eduardo Holguín da la bienvenida a los asistentes y agradece su asistencia,Rafael  a las 9:19am explica las instrucciones del trabajo del taller. 
+El Lic. Eduardo Holguín da la bienvenida a los asistentes y agradece su asistencia,a las 9:19 am Rafael Pérez explica las instrucciones del trabajo del taller. 
 
 
 ###Introducción

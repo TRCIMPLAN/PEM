@@ -1,7 +1,7 @@
 ### Tiempos
 
 * Hora de inicio: 1:10
-* Hora de término: 1:40
+* Hora de término: 1:45
 
 ### Bienvenida
 

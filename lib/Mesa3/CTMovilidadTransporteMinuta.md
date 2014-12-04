@@ -4,6 +4,7 @@
 * Hora de término: 1:45
 
 ### Bienvenida
+
 El Lic. Eduardo Holguín y el equipo del IMPLAN da la bienvenida a los asistentes y agradece su asistencia, en donde  de igual forma se les deseó una buena temporada navideña y se agradeció al equipo su eficacia.
 
 ###Introducción
