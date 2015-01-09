@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://trcimplan.github.io/pem/index.html</loc>
-    <lastmod>2014-12-11</lastmod>
+    <lastmod>2015-01-09</lastmod>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -18,6 +18,56 @@
   <url>
     <loc>http://trcimplan.github.io/pem/mesa-2/programacion.html</loc>
     <lastmod>2014-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-2/ct-buen-gobierno.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-1/ct-desarrollo-economico.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-1/ct-desarrollo-social.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-1/ct-entorno-urbano.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-1/ct-movilidad-transporte.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-1/ct-sustentabilidad-medio-ambiente.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-1/datos-generales.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-1/fotos.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-1/orden-dia.html</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://trcimplan.github.io/pem/mesa-1/programacion.html</loc>
+    <lastmod>2014-10-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
@@ -52,11 +102,6 @@
   </url>
   <url>
     <loc>http://trcimplan.github.io/pem/mesa-3/datos-generales.html</loc>
-    <lastmod>2014-10-01</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>http://trcimplan.github.io/pem/mesa-1/fotos.html</loc>
     <lastmod>2014-10-01</lastmod>
     <changefreq>monthly</changefreq>
   </url>
