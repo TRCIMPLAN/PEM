@@ -1,5 +1,5 @@
 
-### Mesa 1: Diagnóstico - Pronóstico
+### Mesa 1: Diagnóstico y Pronóstico
 
 El pasado 9 de Octubre comenzaron formalmente los trabajos para la construcción del Plan Estratégico Metropolitano, un esfuerzo coparticipativo para atender la necesidad urgente de elevar el nivel de competitividad para el desarrollo económico y social de la Zona Metropolitana de La Laguna.
 
